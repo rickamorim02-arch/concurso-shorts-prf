@@ -1,9 +1,9 @@
 {
   "app": "Concurso Shorts PRF",
   "schema_version": 1,
-  "bank_version": 2,
+  "bank_version": 3,
   "updated_at": "2026-09-28",
-  "total": 82,
+  "total": 182,
   "questions": [
     {
       "id": "q0",
@@ -1162,6 +1162,1206 @@
       ],
       "r": "A",
       "e": "A conservação preventiva procura prolongar a vida útil dos documentos e reduzir danos."
+    },
+    {
+      "id": "q82",
+      "s": "Língua Portuguesa",
+      "t": "Ortografia",
+      "q": "A ortografia oficial disciplina a forma convencional de grafar as palavras.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A ortografia estabelece convenções de escrita."
+    },
+    {
+      "id": "q83",
+      "s": "Língua Portuguesa",
+      "t": "Classes de palavras",
+      "q": "Substantivos podem nomear seres, ações, estados, qualidades ou conceitos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O substantivo é uma classe nominal de ampla função de nomeação."
+    },
+    {
+      "id": "q84",
+      "s": "Língua Portuguesa",
+      "t": "Pronomes",
+      "q": "Pronomes podem retomar ou acompanhar nomes no texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pronomes contribuem para referência e coesão."
+    },
+    {
+      "id": "q85",
+      "s": "Língua Portuguesa",
+      "t": "Preposição",
+      "q": "Preposições podem estabelecer relações de sentido entre termos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A preposição liga termos e pode marcar relações semânticas."
+    },
+    {
+      "id": "q86",
+      "s": "Língua Portuguesa",
+      "t": "Verbos",
+      "q": "Modo e tempo são categorias associadas às formas verbais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "As formas verbais podem expressar tempo e modo."
+    },
+    {
+      "id": "q87",
+      "s": "Língua Portuguesa",
+      "t": "Voz verbal",
+      "q": "Na voz passiva, o sujeito pode receber a ação expressa pelo verbo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Na passiva, o sujeito é paciente."
+    },
+    {
+      "id": "q88",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "O sujeito é necessariamente o primeiro termo de toda oração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "A posição do sujeito pode variar e há orações sem sujeito."
+    },
+    {
+      "id": "q89",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "Objeto direto, em regra, completa verbo transitivo direto sem preposição obrigatória.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Essa é a relação típica do objeto direto."
+    },
+    {
+      "id": "q90",
+      "s": "Língua Portuguesa",
+      "t": "Período composto",
+      "q": "Orações subordinadas mantêm relação de dependência sintática com outra oração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A subordinação envolve dependência sintática."
+    },
+    {
+      "id": "q91",
+      "s": "Língua Portuguesa",
+      "t": "Concordância",
+      "q": "A concordância verbal considera, em regra, número e pessoa do sujeito.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O verbo normalmente concorda com o núcleo do sujeito."
+    },
+    {
+      "id": "q92",
+      "s": "Língua Portuguesa",
+      "t": "Regência",
+      "q": "Regência nominal trata das relações entre nomes e seus complementos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Nomes podem exigir determinadas preposições em seus complementos."
+    },
+    {
+      "id": "q93",
+      "s": "Língua Portuguesa",
+      "t": "Coesão",
+      "q": "Elementos referenciais podem evitar repetições e conectar partes do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A referenciação é mecanismo de coesão."
+    },
+    {
+      "id": "q94",
+      "s": "Língua Portuguesa",
+      "t": "Semântica",
+      "q": "Uma palavra pode assumir sentidos diferentes conforme o contexto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O contexto participa da construção do sentido."
+    },
+    {
+      "id": "q95",
+      "s": "Informática",
+      "t": "Internet",
+      "q": "HTTP e HTTPS são protocolos associados à transferência de conteúdo na web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ambos são usados na comunicação web; HTTPS acrescenta proteção criptográfica."
+    },
+    {
+      "id": "q96",
+      "s": "Informática",
+      "t": "Navegadores",
+      "q": "Um navegador é software utilizado para acessar e interpretar recursos da web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Navegadores permitem acessar páginas e aplicações web."
+    },
+    {
+      "id": "q97",
+      "s": "Informática",
+      "t": "Correio eletrônico",
+      "q": "O campo CC envia cópia da mensagem a destinatários adicionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CC significa cópia com destinatários visíveis."
+    },
+    {
+      "id": "q98",
+      "s": "Informática",
+      "t": "Segurança",
+      "q": "Phishing costuma empregar engenharia social para induzir a vítima a fornecer dados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O golpe explora engano e persuasão."
+    },
+    {
+      "id": "q99",
+      "s": "Informática",
+      "t": "Malware",
+      "q": "Vírus e ransomware são exemplos de software malicioso.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ambos pertencem à categoria de malware."
+    },
+    {
+      "id": "q100",
+      "s": "Informática",
+      "t": "Senhas",
+      "q": "Reutilizar a mesma senha em diversos serviços aumenta o impacto de um vazamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma credencial comprometida pode afetar vários serviços."
+    },
+    {
+      "id": "q101",
+      "s": "Informática",
+      "t": "Autenticação",
+      "q": "A autenticação multifator combina mais de um fator de verificação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "MFA exige fatores adicionais além de uma única senha."
+    },
+    {
+      "id": "q102",
+      "s": "Informática",
+      "t": "Backup",
+      "q": "Manter cópia de segurança no mesmo dispositivo protege contra qualquer tipo de perda.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "Falha, roubo ou dano do dispositivo pode atingir original e cópia."
+    },
+    {
+      "id": "q103",
+      "s": "Informática",
+      "t": "Arquivos",
+      "q": "Extensão de arquivo pode indicar o formato associado ao conteúdo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Extensões ajudam a identificar formatos e aplicativos associados."
+    },
+    {
+      "id": "q104",
+      "s": "Informática",
+      "t": "Sistema operacional",
+      "q": "O sistema operacional gerencia recursos de hardware e oferece serviços aos aplicativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Gerenciamento de recursos é função central do sistema operacional."
+    },
+    {
+      "id": "q105",
+      "s": "Informática",
+      "t": "Nuvem",
+      "q": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos conectados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Serviços de nuvem podem manter cópias sincronizadas."
+    },
+    {
+      "id": "q106",
+      "s": "Informática",
+      "t": "Redes",
+      "q": "Um endereço IP é utilizado para identificação e comunicação de dispositivos em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O endereçamento IP é fundamental ao roteamento e comunicação."
+    },
+    {
+      "id": "q107",
+      "s": "Informática",
+      "t": "Planilhas",
+      "q": "Fórmulas em planilhas eletrônicas podem referenciar valores de outras células.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Referências de células são recurso básico de planilhas."
+    },
+    {
+      "id": "q108",
+      "s": "Direito Constitucional",
+      "t": "Constituição",
+      "q": "A Constituição ocupa posição central na organização jurídica do Estado brasileiro.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ela estrutura o Estado e estabelece direitos, competências e limites."
+    },
+    {
+      "id": "q109",
+      "s": "Direito Constitucional",
+      "t": "Direitos fundamentais",
+      "q": "Direitos fundamentais não são, em regra, absolutos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Podem sofrer limitações constitucionalmente justificadas e colidir entre si."
+    },
+    {
+      "id": "q110",
+      "s": "Direito Constitucional",
+      "t": "Aplicabilidade",
+      "q": "Normas definidoras de direitos e garantias fundamentais têm aplicação imediata, nos termos constitucionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição prevê aplicação imediata dessas normas."
+    },
+    {
+      "id": "q111",
+      "s": "Direito Constitucional",
+      "t": "Igualdade",
+      "q": "O princípio da igualdade impede toda e qualquer diferenciação jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "Diferenciações podem ser legítimas quando justificadas constitucionalmente."
+    },
+    {
+      "id": "q112",
+      "s": "Direito Constitucional",
+      "t": "Liberdade",
+      "q": "A liberdade de manifestação do pensamento convive com outros direitos constitucionalmente protegidos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos podem exigir harmonização em casos concretos."
+    },
+    {
+      "id": "q113",
+      "s": "Direito Constitucional",
+      "t": "Federação",
+      "q": "Municípios integram a organização político-administrativa brasileira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição inclui União, estados, Distrito Federal e municípios."
+    },
+    {
+      "id": "q114",
+      "s": "Direito Constitucional",
+      "t": "Separação de poderes",
+      "q": "A separação de Poderes não impede mecanismos constitucionais de controles recíprocos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O sistema admite freios e contrapesos."
+    },
+    {
+      "id": "q115",
+      "s": "Direito Constitucional",
+      "t": "Administração Pública",
+      "q": "O princípio da eficiência é expressamente previsto para a Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficiência integra os princípios expressos do art. 37."
+    },
+    {
+      "id": "q116",
+      "s": "Direito Constitucional",
+      "t": "Legalidade",
+      "q": "A Administração Pública está submetida ao princípio da legalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação administrativa deve observar o ordenamento."
+    },
+    {
+      "id": "q117",
+      "s": "Direito Constitucional",
+      "t": "Direitos políticos",
+      "q": "Direitos políticos relacionam-se à participação do cidadão na formação da vontade política do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Incluem instrumentos de participação política previstos constitucionalmente."
+    },
+    {
+      "id": "q118",
+      "s": "Direito Constitucional",
+      "t": "Nacionalidade",
+      "q": "Nacionalidade e cidadania são conceitos jurídicos necessariamente idênticos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "São conceitos relacionados, porém distintos."
+    },
+    {
+      "id": "q119",
+      "s": "Direito Constitucional",
+      "t": "Remédios constitucionais",
+      "q": "Habeas corpus é instrumento constitucional relacionado à proteção da liberdade de locomoção.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Sua finalidade constitucional é proteger a liberdade de ir, vir e permanecer."
+    },
+    {
+      "id": "q120",
+      "s": "Direito Constitucional",
+      "t": "Controle de constitucionalidade",
+      "q": "O controle de constitucionalidade busca verificar a compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A supremacia constitucional fundamenta esse controle."
+    },
+    {
+      "id": "q121",
+      "s": "Direito Administrativo",
+      "t": "Regime jurídico",
+      "q": "Supremacia e indisponibilidade do interesse público são ideias tradicionalmente associadas ao regime jurídico-administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A doutrina as relaciona a prerrogativas e sujeições administrativas."
+    },
+    {
+      "id": "q122",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "A publicidade administrativa pode sofrer restrições quando a própria ordem jurídica protege o sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Publicidade não elimina hipóteses legais e constitucionais de sigilo."
+    },
+    {
+      "id": "q123",
+      "s": "Direito Administrativo",
+      "t": "Organização administrativa",
+      "q": "Autarquias integram a Administração indireta.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "São pessoas jurídicas administrativas criadas por lei."
+    },
+    {
+      "id": "q124",
+      "s": "Direito Administrativo",
+      "t": "Descentralização",
+      "q": "Descentralização administrativa pressupõe distribuição de atividade para outra pessoa jurídica ou particular.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Distingue-se da desconcentração interna."
+    },
+    {
+      "id": "q125",
+      "s": "Direito Administrativo",
+      "t": "Desconcentração",
+      "q": "A desconcentração distribui competências dentro da mesma pessoa jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ocorre internamente por meio de órgãos."
+    },
+    {
+      "id": "q126",
+      "s": "Direito Administrativo",
+      "t": "Poder hierárquico",
+      "q": "O poder hierárquico permite ordenar e distribuir funções no âmbito da estrutura administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Relaciona-se à organização interna."
+    },
+    {
+      "id": "q127",
+      "s": "Direito Administrativo",
+      "t": "Poder disciplinar",
+      "q": "Poder disciplinar relaciona-se à apuração e sanção de infrações funcionais e de outros vínculos sujeitos à disciplina administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É instrumento de disciplina administrativa."
+    },
+    {
+      "id": "q128",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "A anulação de ato administrativo está associada à existência de ilegalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ilegalidade fundamenta a invalidação do ato."
+    },
+    {
+      "id": "q129",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "Revogação está ligada, em regra, a juízo de conveniência e oportunidade sobre ato válido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Revogação é forma de retirada por mérito administrativo."
+    },
+    {
+      "id": "q130",
+      "s": "Direito Administrativo",
+      "t": "Licitações",
+      "q": "A licitação busca, entre outras finalidades legais, assegurar tratamento isonômico e seleção de proposta adequada ao interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Isonomia e seleção objetiva integram a lógica do procedimento."
+    },
+    {
+      "id": "q131",
+      "s": "Direito Administrativo",
+      "t": "Contratos",
+      "q": "Contratos administrativos podem possuir prerrogativas públicas previstas em lei.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O regime administrativo pode conferir poderes específicos à Administração."
+    },
+    {
+      "id": "q132",
+      "s": "Direito Administrativo",
+      "t": "Responsabilidade civil",
+      "q": "A responsabilidade civil do Estado pode coexistir com direito de regresso contra o agente nos casos juridicamente previstos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A relação Estado-vítima não elimina eventual responsabilidade regressiva do agente."
+    },
+    {
+      "id": "q133",
+      "s": "Direito Administrativo",
+      "t": "Controle",
+      "q": "A Administração pode exercer autotutela sobre seus próprios atos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pode controlar a legalidade e, nos limites jurídicos, o mérito de seus atos."
+    },
+    {
+      "id": "q134",
+      "s": "Administração",
+      "t": "Planejamento",
+      "q": "Planejamento estratégico costuma considerar objetivos de longo prazo e o ambiente organizacional.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É voltado à direção global e ao futuro da organização."
+    },
+    {
+      "id": "q135",
+      "s": "Administração",
+      "t": "Planejamento",
+      "q": "Planejamento operacional tende a detalhar atividades e ações de execução.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É mais específico e próximo da operação."
+    },
+    {
+      "id": "q136",
+      "s": "Administração",
+      "t": "Organização",
+      "q": "Divisão do trabalho busca distribuir atividades entre pessoas ou unidades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É elemento clássico da função organização."
+    },
+    {
+      "id": "q137",
+      "s": "Administração",
+      "t": "Direção",
+      "q": "Direção envolve liderança, comunicação e mobilização das pessoas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A função direção orienta a execução por meio das pessoas."
+    },
+    {
+      "id": "q138",
+      "s": "Administração",
+      "t": "Controle",
+      "q": "Controle administrativo compara resultados com padrões ou objetivos definidos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A comparação permite identificar desvios."
+    },
+    {
+      "id": "q139",
+      "s": "Administração",
+      "t": "Eficiência",
+      "q": "Eficiência relaciona-se ao uso adequado dos recursos na realização das atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Enfatiza relação entre recursos empregados e resultados."
+    },
+    {
+      "id": "q140",
+      "s": "Administração",
+      "t": "Eficácia",
+      "q": "Eficácia relaciona-se ao alcance dos objetivos estabelecidos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Foca o cumprimento dos resultados pretendidos."
+    },
+    {
+      "id": "q141",
+      "s": "Administração",
+      "t": "Gestão de pessoas",
+      "q": "Treinamento pode desenvolver conhecimentos e habilidades necessários ao trabalho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Desenvolvimento de competências é finalidade típica do treinamento."
+    },
+    {
+      "id": "q142",
+      "s": "Administração",
+      "t": "Recrutamento",
+      "q": "Recrutamento interno utiliza candidatos que já pertencem à organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A fonte de candidatos é o próprio quadro organizacional."
+    },
+    {
+      "id": "q143",
+      "s": "Administração",
+      "t": "Seleção",
+      "q": "Seleção de pessoas busca avaliar a adequação de candidatos às exigências da função.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A seleção compara perfis e requisitos."
+    },
+    {
+      "id": "q144",
+      "s": "Administração",
+      "t": "Liderança",
+      "q": "Liderança e autoridade formal são conceitos necessariamente idênticos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "É possível exercer liderança sem ocupar posição formal de chefia."
+    },
+    {
+      "id": "q145",
+      "s": "Administração",
+      "t": "Motivação",
+      "q": "Fatores individuais e organizacionais podem influenciar a motivação no trabalho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Motivação é fenômeno influenciado por múltiplos fatores."
+    },
+    {
+      "id": "q146",
+      "s": "Legislação relativa à PRF",
+      "t": "PRF",
+      "q": "A Polícia Rodoviária Federal é órgão previsto na Constituição Federal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A PRF integra o sistema constitucional de segurança pública."
+    },
+    {
+      "id": "q147",
+      "s": "Legislação relativa à PRF",
+      "t": "PRF",
+      "q": "A PRF é organizada e mantida pela União.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição atribui sua organização e manutenção à União."
+    },
+    {
+      "id": "q148",
+      "s": "Legislação relativa à PRF",
+      "t": "Competência",
+      "q": "O patrulhamento ostensivo das rodovias federais está constitucionalmente associado à PRF.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Essa atribuição consta do texto constitucional."
+    },
+    {
+      "id": "q149",
+      "s": "Legislação relativa à PRF",
+      "t": "Segurança pública",
+      "q": "A segurança pública é tratada constitucionalmente como dever do Estado, direito e responsabilidade de todos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Essa formulação consta da Constituição."
+    },
+    {
+      "id": "q150",
+      "s": "Legislação relativa à PRF",
+      "t": "Trânsito",
+      "q": "As atribuições de trânsito da PRF devem ser estudadas em conjunto com a legislação de trânsito vigente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Competências operacionais dependem do marco legal aplicável."
+    },
+    {
+      "id": "q151",
+      "s": "Legislação relativa à PRF",
+      "t": "Legislação",
+      "q": "Uma norma revogada deve ser tratada como vigente apenas porque constava de edital antigo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "É necessário verificar vigência e regras do edital aplicável."
+    },
+    {
+      "id": "q152",
+      "s": "Legislação relativa à PRF",
+      "t": "Estudo",
+      "q": "Questões antigas de legislação devem ser confrontadas com a redação normativa vigente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Mudanças legislativas podem alterar o gabarito de itens antigos."
+    },
+    {
+      "id": "q153",
+      "s": "Legislação relativa à PRF",
+      "t": "Competência",
+      "q": "A atuação administrativa da PRF deve observar os princípios constitucionais aplicáveis à Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Órgãos federais submetem-se aos princípios administrativos."
+    },
+    {
+      "id": "q154",
+      "s": "Legislação relativa à PRF",
+      "t": "Servidor público",
+      "q": "Agentes da PRF, no exercício de função pública, estão sujeitos a deveres e responsabilidades previstos no ordenamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação funcional é juridicamente disciplinada."
+    },
+    {
+      "id": "q155",
+      "s": "Legislação relativa à PRF",
+      "t": "Legalidade",
+      "q": "A atuação da PRF pode prescindir de fundamento jurídico sempre que houver interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O interesse público não afasta a exigência de legalidade."
+    },
+    {
+      "id": "q156",
+      "s": "Legislação relativa à PRF",
+      "t": "Rodovias federais",
+      "q": "A competência constitucional da PRF possui relação específica com rodovias federais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O texto constitucional vincula o órgão ao patrulhamento ostensivo dessas rodovias."
+    },
+    {
+      "id": "q157",
+      "s": "Legislação relativa à PRF",
+      "t": "Atualização",
+      "q": "Para preparação de concurso, alterações legislativas posteriores ao material de estudo podem ser relevantes para o gabarito.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Legislação é conteúdo sujeito a atualização."
+    },
+    {
+      "id": "q158",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética e moral",
+      "q": "A moral pode variar historicamente e entre grupos sociais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Normas e valores morais são influenciados por contextos sociais e históricos."
+    },
+    {
+      "id": "q159",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética",
+      "q": "A reflexão ética pode examinar criticamente valores e critérios de conduta.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ética envolve reflexão sobre fundamentos da ação moral."
+    },
+    {
+      "id": "q160",
+      "s": "Ética e Conduta Pública",
+      "t": "Serviço público",
+      "q": "O interesse público deve orientar a atuação do agente público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A função pública é exercida em benefício da coletividade."
+    },
+    {
+      "id": "q161",
+      "s": "Ética e Conduta Pública",
+      "t": "Impessoalidade",
+      "q": "Favorecer alguém apenas por amizade pessoal é incompatível com a impessoalidade administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Relações pessoais não devem determinar tratamento administrativo privilegiado."
+    },
+    {
+      "id": "q162",
+      "s": "Ética e Conduta Pública",
+      "t": "Moralidade",
+      "q": "A moralidade administrativa possui relevância jurídica e não se reduz à moral privada do agente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É princípio jurídico da Administração Pública."
+    },
+    {
+      "id": "q163",
+      "s": "Ética e Conduta Pública",
+      "t": "Publicidade",
+      "q": "Transparência contribui para controle social da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Acesso a informações públicas favorece fiscalização e accountability."
+    },
+    {
+      "id": "q164",
+      "s": "Ética e Conduta Pública",
+      "t": "Responsabilidade",
+      "q": "O agente público deve considerar consequências e deveres associados ao exercício da função.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A função pública envolve responsabilidades jurídicas e éticas."
+    },
+    {
+      "id": "q165",
+      "s": "Ética e Conduta Pública",
+      "t": "Conflito de interesses",
+      "q": "Interesse privado do agente não deve prevalecer indevidamente sobre o interesse público em sua atuação funcional.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conflitos devem ser prevenidos e tratados segundo as normas aplicáveis."
+    },
+    {
+      "id": "q166",
+      "s": "Ética e Conduta Pública",
+      "t": "Cortesia",
+      "q": "Tratamento respeitoso ao cidadão é compatível com padrões de ética no serviço público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Respeito e urbanidade integram padrões esperados de atendimento."
+    },
+    {
+      "id": "q167",
+      "s": "Ética e Conduta Pública",
+      "t": "Sigilo",
+      "q": "O dever de transparência significa que nenhuma informação pública pode receber proteção de sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O ordenamento prevê hipóteses legítimas de restrição de acesso."
+    },
+    {
+      "id": "q168",
+      "s": "Ética e Conduta Pública",
+      "t": "Patrimônio público",
+      "q": "Utilizar recursos públicos para benefício privado indevido contraria deveres éticos e funcionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Bens e recursos públicos destinam-se às finalidades públicas."
+    },
+    {
+      "id": "q169",
+      "s": "Ética e Conduta Pública",
+      "t": "Código de Ética",
+      "q": "Normas de ética pública podem estabelecer deveres de conduta além de regras estritamente penais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Ética funcional abrange padrões próprios de comportamento."
+    },
+    {
+      "id": "q170",
+      "s": "Arquivologia",
+      "t": "Documento de arquivo",
+      "q": "Documento de arquivo é produzido ou recebido no curso das atividades de uma pessoa ou instituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O vínculo com atividades e funções é característica arquivística."
+    },
+    {
+      "id": "q171",
+      "s": "Arquivologia",
+      "t": "Princípio da proveniência",
+      "q": "O princípio da proveniência orienta a preservação da relação dos documentos com seu produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É princípio fundamental da organização arquivística."
+    },
+    {
+      "id": "q172",
+      "s": "Arquivologia",
+      "t": "Organicidade",
+      "q": "Organicidade refere-se às relações que os documentos mantêm entre si em razão das atividades que os geraram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Os documentos refletem funções e processos do produtor."
+    },
+    {
+      "id": "q173",
+      "s": "Arquivologia",
+      "t": "Arquivo corrente",
+      "q": "Documentos correntes são aqueles frequentemente utilizados nas atividades do produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A frequência de uso caracteriza a fase corrente."
+    },
+    {
+      "id": "q174",
+      "s": "Arquivologia",
+      "t": "Arquivo intermediário",
+      "q": "Documentos intermediários têm uso menos frequente e aguardam destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Permanecem temporariamente até eliminação ou recolhimento."
+    },
+    {
+      "id": "q175",
+      "s": "Arquivologia",
+      "t": "Arquivo permanente",
+      "q": "Documentos de valor permanente são preservados de forma definitiva.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Seu valor justifica guarda permanente."
+    },
+    {
+      "id": "q176",
+      "s": "Arquivologia",
+      "t": "Avaliação documental",
+      "q": "Avaliação documental auxilia a definir prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É base para temporalidade e destinação."
+    },
+    {
+      "id": "q177",
+      "s": "Arquivologia",
+      "t": "Tabela de temporalidade",
+      "q": "Tabela de temporalidade registra prazos de guarda e destinação de documentos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É instrumento de gestão documental."
+    },
+    {
+      "id": "q178",
+      "s": "Arquivologia",
+      "t": "Eliminação",
+      "q": "A eliminação de documentos públicos deve seguir critérios e procedimentos autorizados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Descarte não deve ocorrer de forma arbitrária."
+    },
+    {
+      "id": "q179",
+      "s": "Arquivologia",
+      "t": "Protocolo",
+      "q": "A tramitação documental pode ser controlada por atividades de protocolo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Protocolo acompanha movimentação e registro."
+    },
+    {
+      "id": "q180",
+      "s": "Arquivologia",
+      "t": "Classificação",
+      "q": "Classificação arquivística relaciona documentos às funções e atividades que lhes deram origem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O plano de classificação organiza documentos por contexto funcional."
+    },
+    {
+      "id": "q181",
+      "s": "Arquivologia",
+      "t": "Preservação",
+      "q": "Controle ambiental pode contribuir para a conservação de acervos documentais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Temperatura, umidade, luz e outros fatores afetam documentos."
     }
   ]
 }
