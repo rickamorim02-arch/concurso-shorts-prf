@@ -1,9 +1,9 @@
 {
   "app": "Concurso Shorts PRF",
   "schema_version": 1,
-  "bank_version": 1,
+  "bank_version": 2,
   "updated_at": "2026-09-28",
-  "total": 58,
+  "total": 82,
   "questions": [
     {
       "id": "q0",
@@ -874,6 +874,294 @@
       ],
       "r": "B",
       "e": "Direitos fundamentais não são, em regra, absolutos; podem existir colisões e limitações constitucionalmente justificadas."
+    },
+    {
+      "id": "q58",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "Em um período composto, orações coordenadas são sintaticamente independentes entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A coordenação liga orações sem relação de dependência sintática entre elas."
+    },
+    {
+      "id": "q59",
+      "s": "Língua Portuguesa",
+      "t": "Pronomes",
+      "q": "Em “entreguei-lhe o documento”, o pronome “lhe” exerce função de objeto indireto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O pronome oblíquo “lhe” pode exercer função de objeto indireto."
+    },
+    {
+      "id": "q60",
+      "s": "Língua Portuguesa",
+      "t": "Regência",
+      "q": "A regência verbal trata da relação de dependência entre o verbo e seus complementos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A regência determina como o verbo se relaciona com seus complementos, inclusive quanto ao uso de preposição."
+    },
+    {
+      "id": "q61",
+      "s": "Informática",
+      "t": "Intranet",
+      "q": "Uma intranet utiliza tecnologias de rede semelhantes às da internet, porém com acesso normalmente restrito a uma organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A intranet é uma rede de uso interno que emprega tecnologias e protocolos comuns à internet."
+    },
+    {
+      "id": "q62",
+      "s": "Informática",
+      "t": "Correio eletrônico",
+      "q": "O campo CCO permite enviar uma mensagem sem revelar aos demais destinatários os endereços inseridos nesse campo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CCO corresponde à cópia oculta."
+    },
+    {
+      "id": "q63",
+      "s": "Informática",
+      "t": "Segurança da informação",
+      "q": "Backup é uma cópia destinada a possibilitar a recuperação de dados em caso de perda ou dano.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A finalidade do backup é permitir a recuperação dos dados."
+    },
+    {
+      "id": "q64",
+      "s": "Direito Constitucional",
+      "t": "Organização político-administrativa",
+      "q": "A organização político-administrativa da República Federativa do Brasil compreende União, estados, Distrito Federal e municípios, todos autônomos nos termos da Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "É a estrutura federativa prevista constitucionalmente."
+    },
+    {
+      "id": "q65",
+      "s": "Direito Constitucional",
+      "t": "Administração Pública",
+      "q": "Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos aplicáveis à Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "São os princípios expressos no caput do art. 37 da Constituição."
+    },
+    {
+      "id": "q66",
+      "s": "Direito Constitucional",
+      "t": "Poderes",
+      "q": "Os Poderes Legislativo, Executivo e Judiciário são independentes e harmônicos entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição estabelece independência e harmonia entre os Poderes."
+    },
+    {
+      "id": "q67",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "Pelo princípio da legalidade administrativa, o agente público deve atuar de acordo com as competências e autorizações estabelecidas pelo ordenamento jurídico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação administrativa está vinculada ao ordenamento jurídico."
+    },
+    {
+      "id": "q68",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "A presunção de legitimidade dos atos administrativos é relativa e admite prova em contrário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Trata-se de presunção relativa, não absoluta."
+    },
+    {
+      "id": "q69",
+      "s": "Direito Administrativo",
+      "t": "Agentes públicos",
+      "q": "Servidor público e agente público são expressões necessariamente sinônimas em qualquer contexto jurídico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "Agente público é categoria mais ampla, que pode abranger diferentes vínculos com o Estado."
+    },
+    {
+      "id": "q70",
+      "s": "Administração",
+      "t": "Liderança",
+      "q": "Liderança envolve a capacidade de influenciar pessoas para a consecução de objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Influência e direcionamento para objetivos são elementos centrais da liderança."
+    },
+    {
+      "id": "q71",
+      "s": "Administração",
+      "t": "Gestão de pessoas",
+      "q": "Recrutamento busca atrair candidatos, enquanto seleção busca escolher candidatos adequados às necessidades da organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "São etapas relacionadas, mas com finalidades distintas."
+    },
+    {
+      "id": "q72",
+      "s": "Administração",
+      "t": "Gestão por competências",
+      "q": "A gestão por competências procura alinhar conhecimentos, habilidades e atitudes às necessidades organizacionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O alinhamento entre competências e estratégia é elemento central dessa abordagem."
+    },
+    {
+      "id": "q73",
+      "s": "Legislação relativa à PRF",
+      "t": "Perfil constitucional da PRF",
+      "q": "A Polícia Rodoviária Federal é órgão permanente, organizado e mantido pela União.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A PRF integra a estrutura federal nos termos constitucionais."
+    },
+    {
+      "id": "q74",
+      "s": "Legislação relativa à PRF",
+      "t": "Competências da PRF",
+      "q": "A atuação da PRF está relacionada ao patrulhamento ostensivo das rodovias federais, conforme a Constituição e a legislação aplicável.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O patrulhamento ostensivo das rodovias federais integra a missão constitucional da PRF."
+    },
+    {
+      "id": "q75",
+      "s": "Legislação relativa à PRF",
+      "t": "CTB",
+      "q": "O estudo das competências da PRF em matéria de trânsito deve considerar o Código de Trânsito Brasileiro e a regulamentação aplicável.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "As atribuições legais devem ser estudadas conforme a legislação vigente."
+    },
+    {
+      "id": "q76",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética e moral",
+      "q": "Ética e moral são conceitos relacionados, mas a ética pode ser compreendida como reflexão crítica sobre valores e normas morais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Essa distinção é recorrente no estudo contemporâneo de ética."
+    },
+    {
+      "id": "q77",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética no setor público",
+      "q": "A conduta ética do agente público não se limita ao cumprimento formal da lei e também envolve valores ligados ao interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A ética pública considera legalidade e valores relacionados à finalidade pública."
+    },
+    {
+      "id": "q78",
+      "s": "Ética e Conduta Pública",
+      "t": "Código de Ética",
+      "q": "O Decreto nº 1.171/1994 institui o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O decreto aprovou o Código de Ética aplicável no âmbito indicado."
+    },
+    {
+      "id": "q79",
+      "s": "Arquivologia",
+      "t": "Ciclo vital",
+      "q": "Documentos de uso frequente e necessários às atividades correntes são associados à fase corrente do ciclo documental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O arquivo corrente reúne documentos frequentemente consultados e utilizados."
+    },
+    {
+      "id": "q80",
+      "s": "Arquivologia",
+      "t": "Protocolo",
+      "q": "Recebimento, registro e movimentação de documentos estão entre atividades tradicionalmente relacionadas ao protocolo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O protocolo controla etapas de entrada, registro e tramitação documental."
+    },
+    {
+      "id": "q81",
+      "s": "Arquivologia",
+      "t": "Preservação",
+      "q": "Medidas de conservação preventiva buscam reduzir riscos de deterioração dos documentos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A conservação preventiva procura prolongar a vida útil dos documentos e reduzir danos."
     }
   ]
 }
