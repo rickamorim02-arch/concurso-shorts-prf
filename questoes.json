@@ -1,9 +1,9 @@
 {
   "app": "Concurso Shorts PRF",
   "schema_version": 1,
-  "bank_version": 3,
+  "bank_version": 4,
   "updated_at": "2026-09-28",
-  "total": 182,
+  "total": 500,
   "questions": [
     {
       "id": "q0",
@@ -2362,6 +2362,3822 @@
       ],
       "r": "A",
       "e": "Temperatura, umidade, luz e outros fatores afetam documentos."
+    },
+    {
+      "id": "q182",
+      "s": "Língua Portuguesa",
+      "t": "Ortografia",
+      "q": "O contexto participa da construção do sentido de palavras e expressões.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O contexto participa da construção do sentido de palavras e expressões."
+    },
+    {
+      "id": "q183",
+      "s": "Língua Portuguesa",
+      "t": "Acentuação",
+      "q": "A pontuação pode interferir na organização sintática e no sentido do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A pontuação pode interferir na organização sintática e no sentido do texto."
+    },
+    {
+      "id": "q184",
+      "s": "Língua Portuguesa",
+      "t": "Classes de palavras",
+      "q": "A regência pode determinar o emprego de preposição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A regência pode determinar o emprego de preposição."
+    },
+    {
+      "id": "q185",
+      "s": "Língua Portuguesa",
+      "t": "Pronomes",
+      "q": "Mecanismos de coesão conectam partes do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Mecanismos de coesão conectam partes do texto."
+    },
+    {
+      "id": "q186",
+      "s": "Língua Portuguesa",
+      "t": "Verbos",
+      "q": "Pronomes podem retomar referentes já mencionados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pronomes podem retomar referentes já mencionados."
+    },
+    {
+      "id": "q187",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "Orações subordinadas mantêm relação de dependência sintática.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Orações subordinadas mantêm relação de dependência sintática."
+    },
+    {
+      "id": "q188",
+      "s": "Língua Portuguesa",
+      "t": "Concordância",
+      "q": "O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória."
+    },
+    {
+      "id": "q189",
+      "s": "Língua Portuguesa",
+      "t": "Regência",
+      "q": "Uma mesma palavra pode assumir sentidos diferentes conforme o contexto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma mesma palavra pode assumir sentidos diferentes conforme o contexto."
+    },
+    {
+      "id": "q190",
+      "s": "Língua Portuguesa",
+      "t": "Crase",
+      "q": "A coerência relaciona-se à compatibilidade lógica entre as ideias do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A coerência relaciona-se à compatibilidade lógica entre as ideias do texto."
+    },
+    {
+      "id": "q191",
+      "s": "Língua Portuguesa",
+      "t": "Pontuação",
+      "q": "Considere a afirmação: O contexto participa da construção do sentido de palavras e expressões.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O contexto participa da construção do sentido de palavras e expressões."
+    },
+    {
+      "id": "q192",
+      "s": "Língua Portuguesa",
+      "t": "Coesão",
+      "q": "Considere a afirmação: A pontuação pode interferir na organização sintática e no sentido do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A pontuação pode interferir na organização sintática e no sentido do texto."
+    },
+    {
+      "id": "q193",
+      "s": "Língua Portuguesa",
+      "t": "Semântica",
+      "q": "Considere a afirmação: A concordância verbal considera, em regra, número e pessoa do sujeito.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A concordância verbal considera, em regra, número e pessoa do sujeito."
+    },
+    {
+      "id": "q194",
+      "s": "Língua Portuguesa",
+      "t": "Interpretação",
+      "q": "Considere a afirmação: A regência pode determinar o emprego de preposição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A regência pode determinar o emprego de preposição."
+    },
+    {
+      "id": "q195",
+      "s": "Língua Portuguesa",
+      "t": "Ortografia",
+      "q": "Considere a afirmação: Mecanismos de coesão conectam partes do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Mecanismos de coesão conectam partes do texto."
+    },
+    {
+      "id": "q196",
+      "s": "Língua Portuguesa",
+      "t": "Acentuação",
+      "q": "Considere a afirmação: Pronomes podem retomar referentes já mencionados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pronomes podem retomar referentes já mencionados."
+    },
+    {
+      "id": "q197",
+      "s": "Língua Portuguesa",
+      "t": "Classes de palavras",
+      "q": "Considere a afirmação: Orações subordinadas mantêm relação de dependência sintática.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Orações subordinadas mantêm relação de dependência sintática."
+    },
+    {
+      "id": "q198",
+      "s": "Língua Portuguesa",
+      "t": "Pronomes",
+      "q": "Considere a afirmação: O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória."
+    },
+    {
+      "id": "q199",
+      "s": "Língua Portuguesa",
+      "t": "Verbos",
+      "q": "Considere a afirmação: Uma mesma palavra pode assumir sentidos diferentes conforme o contexto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma mesma palavra pode assumir sentidos diferentes conforme o contexto."
+    },
+    {
+      "id": "q200",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "Considere a afirmação: A coerência relaciona-se à compatibilidade lógica entre as ideias do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A coerência relaciona-se à compatibilidade lógica entre as ideias do texto."
+    },
+    {
+      "id": "q201",
+      "s": "Língua Portuguesa",
+      "t": "Concordância",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O contexto participa da construção do sentido de palavras e expressões.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O contexto participa da construção do sentido de palavras e expressões."
+    },
+    {
+      "id": "q202",
+      "s": "Língua Portuguesa",
+      "t": "Regência",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A pontuação pode interferir na organização sintática e no sentido do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A pontuação pode interferir na organização sintática e no sentido do texto."
+    },
+    {
+      "id": "q203",
+      "s": "Língua Portuguesa",
+      "t": "Crase",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A concordância verbal considera, em regra, número e pessoa do sujeito.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A concordância verbal considera, em regra, número e pessoa do sujeito."
+    },
+    {
+      "id": "q204",
+      "s": "Língua Portuguesa",
+      "t": "Pontuação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A regência pode determinar o emprego de preposição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A regência pode determinar o emprego de preposição."
+    },
+    {
+      "id": "q205",
+      "s": "Língua Portuguesa",
+      "t": "Coesão",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Mecanismos de coesão conectam partes do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Mecanismos de coesão conectam partes do texto."
+    },
+    {
+      "id": "q206",
+      "s": "Língua Portuguesa",
+      "t": "Semântica",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Pronomes podem retomar referentes já mencionados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pronomes podem retomar referentes já mencionados."
+    },
+    {
+      "id": "q207",
+      "s": "Língua Portuguesa",
+      "t": "Interpretação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Orações subordinadas mantêm relação de dependência sintática.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Orações subordinadas mantêm relação de dependência sintática."
+    },
+    {
+      "id": "q208",
+      "s": "Língua Portuguesa",
+      "t": "Ortografia",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória."
+    },
+    {
+      "id": "q209",
+      "s": "Língua Portuguesa",
+      "t": "Acentuação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Uma mesma palavra pode assumir sentidos diferentes conforme o contexto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma mesma palavra pode assumir sentidos diferentes conforme o contexto."
+    },
+    {
+      "id": "q210",
+      "s": "Língua Portuguesa",
+      "t": "Classes de palavras",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A coerência relaciona-se à compatibilidade lógica entre as ideias do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A coerência relaciona-se à compatibilidade lógica entre as ideias do texto."
+    },
+    {
+      "id": "q211",
+      "s": "Língua Portuguesa",
+      "t": "Pronomes",
+      "q": "Para fins de prova objetiva, considere: O contexto participa da construção do sentido de palavras e expressões.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O contexto participa da construção do sentido de palavras e expressões."
+    },
+    {
+      "id": "q212",
+      "s": "Língua Portuguesa",
+      "t": "Verbos",
+      "q": "Para fins de prova objetiva, considere: A pontuação pode interferir na organização sintática e no sentido do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A pontuação pode interferir na organização sintática e no sentido do texto."
+    },
+    {
+      "id": "q213",
+      "s": "Língua Portuguesa",
+      "t": "Sintaxe",
+      "q": "Para fins de prova objetiva, considere: A concordância verbal considera, em regra, número e pessoa do sujeito.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A concordância verbal considera, em regra, número e pessoa do sujeito."
+    },
+    {
+      "id": "q214",
+      "s": "Língua Portuguesa",
+      "t": "Concordância",
+      "q": "Para fins de prova objetiva, considere: A regência pode determinar o emprego de preposição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A regência pode determinar o emprego de preposição."
+    },
+    {
+      "id": "q215",
+      "s": "Língua Portuguesa",
+      "t": "Regência",
+      "q": "Para fins de prova objetiva, considere: Mecanismos de coesão conectam partes do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Mecanismos de coesão conectam partes do texto."
+    },
+    {
+      "id": "q216",
+      "s": "Língua Portuguesa",
+      "t": "Crase",
+      "q": "Para fins de prova objetiva, considere: Pronomes podem retomar referentes já mencionados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Pronomes podem retomar referentes já mencionados."
+    },
+    {
+      "id": "q217",
+      "s": "Língua Portuguesa",
+      "t": "Pontuação",
+      "q": "Para fins de prova objetiva, considere: Orações subordinadas mantêm relação de dependência sintática.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Orações subordinadas mantêm relação de dependência sintática."
+    },
+    {
+      "id": "q218",
+      "s": "Língua Portuguesa",
+      "t": "Coesão",
+      "q": "Para fins de prova objetiva, considere: O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O objeto direto normalmente completa verbo transitivo direto sem preposição obrigatória."
+    },
+    {
+      "id": "q219",
+      "s": "Língua Portuguesa",
+      "t": "Semântica",
+      "q": "Para fins de prova objetiva, considere: Uma mesma palavra pode assumir sentidos diferentes conforme o contexto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma mesma palavra pode assumir sentidos diferentes conforme o contexto."
+    },
+    {
+      "id": "q220",
+      "s": "Língua Portuguesa",
+      "t": "Interpretação",
+      "q": "Para fins de prova objetiva, considere: A coerência relaciona-se à compatibilidade lógica entre as ideias do texto.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A coerência relaciona-se à compatibilidade lógica entre as ideias do texto."
+    },
+    {
+      "id": "q221",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética e moral",
+      "q": "O exercício da função pública deve orientar-se pelo interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O exercício da função pública deve orientar-se pelo interesse público."
+    },
+    {
+      "id": "q222",
+      "s": "Ética e Conduta Pública",
+      "t": "Princípios",
+      "q": "Impessoalidade é incompatível com favorecimento pessoal indevido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Impessoalidade é incompatível com favorecimento pessoal indevido."
+    },
+    {
+      "id": "q223",
+      "s": "Ética e Conduta Pública",
+      "t": "Impessoalidade",
+      "q": "Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo."
+    },
+    {
+      "id": "q224",
+      "s": "Ética e Conduta Pública",
+      "t": "Moralidade",
+      "q": "Moralidade administrativa possui relevância jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Moralidade administrativa possui relevância jurídica."
+    },
+    {
+      "id": "q225",
+      "s": "Ética e Conduta Pública",
+      "t": "Publicidade",
+      "q": "Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis."
+    },
+    {
+      "id": "q226",
+      "s": "Ética e Conduta Pública",
+      "t": "Interesse público",
+      "q": "Urbanidade e respeito são compatíveis com padrões éticos de atendimento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Urbanidade e respeito são compatíveis com padrões éticos de atendimento."
+    },
+    {
+      "id": "q227",
+      "s": "Ética e Conduta Pública",
+      "t": "Conduta funcional",
+      "q": "Recursos públicos devem ser utilizados para finalidades públicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recursos públicos devem ser utilizados para finalidades públicas."
+    },
+    {
+      "id": "q228",
+      "s": "Ética e Conduta Pública",
+      "t": "Conflito de interesses",
+      "q": "A ética pode envolver reflexão crítica sobre valores e condutas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A ética pode envolver reflexão crítica sobre valores e condutas."
+    },
+    {
+      "id": "q229",
+      "s": "Ética e Conduta Pública",
+      "t": "Transparência",
+      "q": "O cumprimento formal da lei não esgota todas as dimensões da ética pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O cumprimento formal da lei não esgota todas as dimensões da ética pública."
+    },
+    {
+      "id": "q230",
+      "s": "Ética e Conduta Pública",
+      "t": "Responsabilidade",
+      "q": "O agente público está sujeito a deveres e responsabilidades decorrentes da função.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O agente público está sujeito a deveres e responsabilidades decorrentes da função."
+    },
+    {
+      "id": "q231",
+      "s": "Ética e Conduta Pública",
+      "t": "Urbanidade",
+      "q": "Considere a afirmação: O exercício da função pública deve orientar-se pelo interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O exercício da função pública deve orientar-se pelo interesse público."
+    },
+    {
+      "id": "q232",
+      "s": "Ética e Conduta Pública",
+      "t": "Código de Ética",
+      "q": "Considere a afirmação: Impessoalidade é incompatível com favorecimento pessoal indevido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Impessoalidade é incompatível com favorecimento pessoal indevido."
+    },
+    {
+      "id": "q233",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética e moral",
+      "q": "Considere a afirmação: Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo."
+    },
+    {
+      "id": "q234",
+      "s": "Ética e Conduta Pública",
+      "t": "Princípios",
+      "q": "Considere a afirmação: Moralidade administrativa possui relevância jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Moralidade administrativa possui relevância jurídica."
+    },
+    {
+      "id": "q235",
+      "s": "Ética e Conduta Pública",
+      "t": "Impessoalidade",
+      "q": "Considere a afirmação: Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis."
+    },
+    {
+      "id": "q236",
+      "s": "Ética e Conduta Pública",
+      "t": "Moralidade",
+      "q": "Considere a afirmação: Urbanidade e respeito são compatíveis com padrões éticos de atendimento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Urbanidade e respeito são compatíveis com padrões éticos de atendimento."
+    },
+    {
+      "id": "q237",
+      "s": "Ética e Conduta Pública",
+      "t": "Publicidade",
+      "q": "Considere a afirmação: Recursos públicos devem ser utilizados para finalidades públicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recursos públicos devem ser utilizados para finalidades públicas."
+    },
+    {
+      "id": "q238",
+      "s": "Ética e Conduta Pública",
+      "t": "Interesse público",
+      "q": "Considere a afirmação: A ética pode envolver reflexão crítica sobre valores e condutas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A ética pode envolver reflexão crítica sobre valores e condutas."
+    },
+    {
+      "id": "q239",
+      "s": "Ética e Conduta Pública",
+      "t": "Conduta funcional",
+      "q": "Considere a afirmação: O cumprimento formal da lei não esgota todas as dimensões da ética pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O cumprimento formal da lei não esgota todas as dimensões da ética pública."
+    },
+    {
+      "id": "q240",
+      "s": "Ética e Conduta Pública",
+      "t": "Conflito de interesses",
+      "q": "Considere a afirmação: O agente público está sujeito a deveres e responsabilidades decorrentes da função.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O agente público está sujeito a deveres e responsabilidades decorrentes da função."
+    },
+    {
+      "id": "q241",
+      "s": "Ética e Conduta Pública",
+      "t": "Transparência",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O exercício da função pública deve orientar-se pelo interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O exercício da função pública deve orientar-se pelo interesse público."
+    },
+    {
+      "id": "q242",
+      "s": "Ética e Conduta Pública",
+      "t": "Responsabilidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Impessoalidade é incompatível com favorecimento pessoal indevido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Impessoalidade é incompatível com favorecimento pessoal indevido."
+    },
+    {
+      "id": "q243",
+      "s": "Ética e Conduta Pública",
+      "t": "Urbanidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo."
+    },
+    {
+      "id": "q244",
+      "s": "Ética e Conduta Pública",
+      "t": "Código de Ética",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Moralidade administrativa possui relevância jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Moralidade administrativa possui relevância jurídica."
+    },
+    {
+      "id": "q245",
+      "s": "Ética e Conduta Pública",
+      "t": "Ética e moral",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis."
+    },
+    {
+      "id": "q246",
+      "s": "Ética e Conduta Pública",
+      "t": "Princípios",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Urbanidade e respeito são compatíveis com padrões éticos de atendimento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Urbanidade e respeito são compatíveis com padrões éticos de atendimento."
+    },
+    {
+      "id": "q247",
+      "s": "Ética e Conduta Pública",
+      "t": "Impessoalidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Recursos públicos devem ser utilizados para finalidades públicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recursos públicos devem ser utilizados para finalidades públicas."
+    },
+    {
+      "id": "q248",
+      "s": "Ética e Conduta Pública",
+      "t": "Moralidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A ética pode envolver reflexão crítica sobre valores e condutas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A ética pode envolver reflexão crítica sobre valores e condutas."
+    },
+    {
+      "id": "q249",
+      "s": "Ética e Conduta Pública",
+      "t": "Publicidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O cumprimento formal da lei não esgota todas as dimensões da ética pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O cumprimento formal da lei não esgota todas as dimensões da ética pública."
+    },
+    {
+      "id": "q250",
+      "s": "Ética e Conduta Pública",
+      "t": "Interesse público",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O agente público está sujeito a deveres e responsabilidades decorrentes da função.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O agente público está sujeito a deveres e responsabilidades decorrentes da função."
+    },
+    {
+      "id": "q251",
+      "s": "Ética e Conduta Pública",
+      "t": "Conduta funcional",
+      "q": "Para fins de prova objetiva, considere: O exercício da função pública deve orientar-se pelo interesse público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O exercício da função pública deve orientar-se pelo interesse público."
+    },
+    {
+      "id": "q252",
+      "s": "Ética e Conduta Pública",
+      "t": "Conflito de interesses",
+      "q": "Para fins de prova objetiva, considere: Impessoalidade é incompatível com favorecimento pessoal indevido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Impessoalidade é incompatível com favorecimento pessoal indevido."
+    },
+    {
+      "id": "q253",
+      "s": "Ética e Conduta Pública",
+      "t": "Transparência",
+      "q": "Para fins de prova objetiva, considere: Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Transparência favorece o controle social, ressalvadas hipóteses legítimas de sigilo."
+    },
+    {
+      "id": "q254",
+      "s": "Ética e Conduta Pública",
+      "t": "Responsabilidade",
+      "q": "Para fins de prova objetiva, considere: Moralidade administrativa possui relevância jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Moralidade administrativa possui relevância jurídica."
+    },
+    {
+      "id": "q255",
+      "s": "Ética e Conduta Pública",
+      "t": "Urbanidade",
+      "q": "Para fins de prova objetiva, considere: Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conflitos entre interesse privado e função pública devem ser tratados conforme as normas aplicáveis."
+    },
+    {
+      "id": "q256",
+      "s": "Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "A conjunção P e Q só é verdadeira quando ambas são verdadeiras.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A conjunção P e Q só é verdadeira quando ambas são verdadeiras."
+    },
+    {
+      "id": "q257",
+      "s": "Raciocínio Lógico",
+      "t": "Conectivos",
+      "q": "A disjunção inclusiva P ou Q é falsa quando ambas são falsas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A disjunção inclusiva P ou Q é falsa quando ambas são falsas."
+    },
+    {
+      "id": "q258",
+      "s": "Raciocínio Lógico",
+      "t": "Negação",
+      "q": "A negação de uma proposição altera seu valor lógico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de uma proposição altera seu valor lógico."
+    },
+    {
+      "id": "q259",
+      "s": "Raciocínio Lógico",
+      "t": "Equivalência",
+      "q": "Porcentagem representa uma razão de base cem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Porcentagem representa uma razão de base cem."
+    },
+    {
+      "id": "q260",
+      "s": "Raciocínio Lógico",
+      "t": "Porcentagem",
+      "q": "A probabilidade de um evento impossível é zero.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento impossível é zero."
+    },
+    {
+      "id": "q261",
+      "s": "Raciocínio Lógico",
+      "t": "Razão",
+      "q": "A probabilidade de um evento certo é um.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento certo é um."
+    },
+    {
+      "id": "q262",
+      "s": "Raciocínio Lógico",
+      "t": "Proporção",
+      "q": "A interseção de conjuntos reúne elementos comuns aos conjuntos considerados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A interseção de conjuntos reúne elementos comuns aos conjuntos considerados."
+    },
+    {
+      "id": "q263",
+      "s": "Raciocínio Lógico",
+      "t": "Conjuntos",
+      "q": "A união de conjuntos reúne elementos pertencentes a pelo menos um deles.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A união de conjuntos reúne elementos pertencentes a pelo menos um deles."
+    },
+    {
+      "id": "q264",
+      "s": "Raciocínio Lógico",
+      "t": "Probabilidade",
+      "q": "A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'."
+    },
+    {
+      "id": "q265",
+      "s": "Raciocínio Lógico",
+      "t": "Sequências",
+      "q": "Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa."
+    },
+    {
+      "id": "q266",
+      "s": "Raciocínio Lógico",
+      "t": "Regra de três",
+      "q": "Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira."
+    },
+    {
+      "id": "q267",
+      "s": "Raciocínio Lógico",
+      "t": "Lógica de argumentação",
+      "q": "Uma razão compara duas grandezas por meio de uma divisão.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma razão compara duas grandezas por meio de uma divisão."
+    },
+    {
+      "id": "q268",
+      "s": "Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante."
+    },
+    {
+      "id": "q269",
+      "s": "Raciocínio Lógico",
+      "t": "Conectivos",
+      "q": "Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes."
+    },
+    {
+      "id": "q270",
+      "s": "Raciocínio Lógico",
+      "t": "Negação",
+      "q": "Um argumento válido não pode ter premissas verdadeiras e conclusão falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Um argumento válido não pode ter premissas verdadeiras e conclusão falsa."
+    },
+    {
+      "id": "q271",
+      "s": "Raciocínio Lógico",
+      "t": "Equivalência",
+      "q": "Considere a afirmação: A conjunção P e Q só é verdadeira quando ambas são verdadeiras.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A conjunção P e Q só é verdadeira quando ambas são verdadeiras."
+    },
+    {
+      "id": "q272",
+      "s": "Raciocínio Lógico",
+      "t": "Porcentagem",
+      "q": "Considere a afirmação: A disjunção inclusiva P ou Q é falsa quando ambas são falsas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A disjunção inclusiva P ou Q é falsa quando ambas são falsas."
+    },
+    {
+      "id": "q273",
+      "s": "Raciocínio Lógico",
+      "t": "Razão",
+      "q": "Considere a afirmação: A negação de uma proposição altera seu valor lógico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de uma proposição altera seu valor lógico."
+    },
+    {
+      "id": "q274",
+      "s": "Raciocínio Lógico",
+      "t": "Proporção",
+      "q": "Considere a afirmação: Porcentagem representa uma razão de base cem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Porcentagem representa uma razão de base cem."
+    },
+    {
+      "id": "q275",
+      "s": "Raciocínio Lógico",
+      "t": "Conjuntos",
+      "q": "Considere a afirmação: A probabilidade de um evento impossível é zero.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento impossível é zero."
+    },
+    {
+      "id": "q276",
+      "s": "Raciocínio Lógico",
+      "t": "Probabilidade",
+      "q": "Considere a afirmação: A probabilidade de um evento certo é um.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento certo é um."
+    },
+    {
+      "id": "q277",
+      "s": "Raciocínio Lógico",
+      "t": "Sequências",
+      "q": "Considere a afirmação: A interseção de conjuntos reúne elementos comuns aos conjuntos considerados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A interseção de conjuntos reúne elementos comuns aos conjuntos considerados."
+    },
+    {
+      "id": "q278",
+      "s": "Raciocínio Lógico",
+      "t": "Regra de três",
+      "q": "Considere a afirmação: A união de conjuntos reúne elementos pertencentes a pelo menos um deles.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A união de conjuntos reúne elementos pertencentes a pelo menos um deles."
+    },
+    {
+      "id": "q279",
+      "s": "Raciocínio Lógico",
+      "t": "Lógica de argumentação",
+      "q": "Considere a afirmação: A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'."
+    },
+    {
+      "id": "q280",
+      "s": "Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "Considere a afirmação: Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa."
+    },
+    {
+      "id": "q281",
+      "s": "Raciocínio Lógico",
+      "t": "Conectivos",
+      "q": "Considere a afirmação: Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira."
+    },
+    {
+      "id": "q282",
+      "s": "Raciocínio Lógico",
+      "t": "Negação",
+      "q": "Considere a afirmação: Uma razão compara duas grandezas por meio de uma divisão.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma razão compara duas grandezas por meio de uma divisão."
+    },
+    {
+      "id": "q283",
+      "s": "Raciocínio Lógico",
+      "t": "Equivalência",
+      "q": "Considere a afirmação: Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante."
+    },
+    {
+      "id": "q284",
+      "s": "Raciocínio Lógico",
+      "t": "Porcentagem",
+      "q": "Considere a afirmação: Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes."
+    },
+    {
+      "id": "q285",
+      "s": "Raciocínio Lógico",
+      "t": "Razão",
+      "q": "Considere a afirmação: Um argumento válido não pode ter premissas verdadeiras e conclusão falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Um argumento válido não pode ter premissas verdadeiras e conclusão falsa."
+    },
+    {
+      "id": "q286",
+      "s": "Raciocínio Lógico",
+      "t": "Proporção",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A conjunção P e Q só é verdadeira quando ambas são verdadeiras.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A conjunção P e Q só é verdadeira quando ambas são verdadeiras."
+    },
+    {
+      "id": "q287",
+      "s": "Raciocínio Lógico",
+      "t": "Conjuntos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A disjunção inclusiva P ou Q é falsa quando ambas são falsas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A disjunção inclusiva P ou Q é falsa quando ambas são falsas."
+    },
+    {
+      "id": "q288",
+      "s": "Raciocínio Lógico",
+      "t": "Probabilidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A negação de uma proposição altera seu valor lógico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de uma proposição altera seu valor lógico."
+    },
+    {
+      "id": "q289",
+      "s": "Raciocínio Lógico",
+      "t": "Sequências",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Porcentagem representa uma razão de base cem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Porcentagem representa uma razão de base cem."
+    },
+    {
+      "id": "q290",
+      "s": "Raciocínio Lógico",
+      "t": "Regra de três",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A probabilidade de um evento impossível é zero.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento impossível é zero."
+    },
+    {
+      "id": "q291",
+      "s": "Raciocínio Lógico",
+      "t": "Lógica de argumentação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A probabilidade de um evento certo é um.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento certo é um."
+    },
+    {
+      "id": "q292",
+      "s": "Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A interseção de conjuntos reúne elementos comuns aos conjuntos considerados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A interseção de conjuntos reúne elementos comuns aos conjuntos considerados."
+    },
+    {
+      "id": "q293",
+      "s": "Raciocínio Lógico",
+      "t": "Conectivos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A união de conjuntos reúne elementos pertencentes a pelo menos um deles.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A união de conjuntos reúne elementos pertencentes a pelo menos um deles."
+    },
+    {
+      "id": "q294",
+      "s": "Raciocínio Lógico",
+      "t": "Negação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de 'todos possuem a propriedade' pode ser expressa por 'pelo menos um não possui a propriedade'."
+    },
+    {
+      "id": "q295",
+      "s": "Raciocínio Lógico",
+      "t": "Equivalência",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a conjunção P e Q é falsa."
+    },
+    {
+      "id": "q296",
+      "s": "Raciocínio Lógico",
+      "t": "Porcentagem",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Se P é verdadeira e Q é falsa, a disjunção inclusiva P ou Q é verdadeira."
+    },
+    {
+      "id": "q297",
+      "s": "Raciocínio Lógico",
+      "t": "Razão",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Uma razão compara duas grandezas por meio de uma divisão.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Uma razão compara duas grandezas por meio de uma divisão."
+    },
+    {
+      "id": "q298",
+      "s": "Raciocínio Lógico",
+      "t": "Proporção",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Grandezas diretamente proporcionais variam no mesmo sentido mantendo uma razão constante."
+    },
+    {
+      "id": "q299",
+      "s": "Raciocínio Lógico",
+      "t": "Conjuntos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Em uma sequência, a identificação do padrão pode permitir determinar termos seguintes."
+    },
+    {
+      "id": "q300",
+      "s": "Raciocínio Lógico",
+      "t": "Probabilidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Um argumento válido não pode ter premissas verdadeiras e conclusão falsa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Um argumento válido não pode ter premissas verdadeiras e conclusão falsa."
+    },
+    {
+      "id": "q301",
+      "s": "Raciocínio Lógico",
+      "t": "Sequências",
+      "q": "Para fins de prova objetiva, considere: A conjunção P e Q só é verdadeira quando ambas são verdadeiras.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A conjunção P e Q só é verdadeira quando ambas são verdadeiras."
+    },
+    {
+      "id": "q302",
+      "s": "Raciocínio Lógico",
+      "t": "Regra de três",
+      "q": "Para fins de prova objetiva, considere: A disjunção inclusiva P ou Q é falsa quando ambas são falsas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A disjunção inclusiva P ou Q é falsa quando ambas são falsas."
+    },
+    {
+      "id": "q303",
+      "s": "Raciocínio Lógico",
+      "t": "Lógica de argumentação",
+      "q": "Para fins de prova objetiva, considere: A negação de uma proposição altera seu valor lógico.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A negação de uma proposição altera seu valor lógico."
+    },
+    {
+      "id": "q304",
+      "s": "Raciocínio Lógico",
+      "t": "Proposições",
+      "q": "Para fins de prova objetiva, considere: Porcentagem representa uma razão de base cem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Porcentagem representa uma razão de base cem."
+    },
+    {
+      "id": "q305",
+      "s": "Raciocínio Lógico",
+      "t": "Conectivos",
+      "q": "Para fins de prova objetiva, considere: A probabilidade de um evento impossível é zero.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A probabilidade de um evento impossível é zero."
+    },
+    {
+      "id": "q306",
+      "s": "Direito Constitucional",
+      "t": "Direitos fundamentais",
+      "q": "União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira."
+    },
+    {
+      "id": "q307",
+      "s": "Direito Constitucional",
+      "t": "Federação",
+      "q": "Os Poderes da União são independentes e harmônicos entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Os Poderes da União são independentes e harmônicos entre si."
+    },
+    {
+      "id": "q308",
+      "s": "Direito Constitucional",
+      "t": "Poderes",
+      "q": "Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública."
+    },
+    {
+      "id": "q309",
+      "s": "Direito Constitucional",
+      "t": "Administração Pública",
+      "q": "Habeas corpus relaciona-se à proteção da liberdade de locomoção.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Habeas corpus relaciona-se à proteção da liberdade de locomoção."
+    },
+    {
+      "id": "q310",
+      "s": "Direito Constitucional",
+      "t": "Nacionalidade",
+      "q": "A Constituição admite mecanismos de controles recíprocos entre os Poderes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição admite mecanismos de controles recíprocos entre os Poderes."
+    },
+    {
+      "id": "q311",
+      "s": "Direito Constitucional",
+      "t": "Direitos políticos",
+      "q": "Direitos políticos relacionam-se à participação na formação da vontade política do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos políticos relacionam-se à participação na formação da vontade política do Estado."
+    },
+    {
+      "id": "q312",
+      "s": "Direito Constitucional",
+      "t": "Remédios constitucionais",
+      "q": "Nacionalidade e cidadania são conceitos juridicamente distintos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Nacionalidade e cidadania são conceitos juridicamente distintos."
+    },
+    {
+      "id": "q313",
+      "s": "Direito Constitucional",
+      "t": "Controle de constitucionalidade",
+      "q": "O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição."
+    },
+    {
+      "id": "q314",
+      "s": "Direito Constitucional",
+      "t": "Segurança pública",
+      "q": "Considere a afirmação: Direitos fundamentais não são, em regra, absolutos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos fundamentais não são, em regra, absolutos."
+    },
+    {
+      "id": "q315",
+      "s": "Direito Constitucional",
+      "t": "Princípios fundamentais",
+      "q": "Considere a afirmação: União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira."
+    },
+    {
+      "id": "q316",
+      "s": "Direito Constitucional",
+      "t": "Direitos fundamentais",
+      "q": "Considere a afirmação: Os Poderes da União são independentes e harmônicos entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Os Poderes da União são independentes e harmônicos entre si."
+    },
+    {
+      "id": "q317",
+      "s": "Direito Constitucional",
+      "t": "Federação",
+      "q": "Considere a afirmação: Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública."
+    },
+    {
+      "id": "q318",
+      "s": "Direito Constitucional",
+      "t": "Poderes",
+      "q": "Considere a afirmação: Habeas corpus relaciona-se à proteção da liberdade de locomoção.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Habeas corpus relaciona-se à proteção da liberdade de locomoção."
+    },
+    {
+      "id": "q319",
+      "s": "Direito Constitucional",
+      "t": "Administração Pública",
+      "q": "Considere a afirmação: Normas definidoras de direitos e garantias fundamentais têm aplicação imediata nos termos constitucionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Normas definidoras de direitos e garantias fundamentais têm aplicação imediata nos termos constitucionais."
+    },
+    {
+      "id": "q320",
+      "s": "Direito Constitucional",
+      "t": "Nacionalidade",
+      "q": "Considere a afirmação: A Constituição admite mecanismos de controles recíprocos entre os Poderes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição admite mecanismos de controles recíprocos entre os Poderes."
+    },
+    {
+      "id": "q321",
+      "s": "Direito Constitucional",
+      "t": "Direitos políticos",
+      "q": "Considere a afirmação: Direitos políticos relacionam-se à participação na formação da vontade política do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos políticos relacionam-se à participação na formação da vontade política do Estado."
+    },
+    {
+      "id": "q322",
+      "s": "Direito Constitucional",
+      "t": "Remédios constitucionais",
+      "q": "Considere a afirmação: Nacionalidade e cidadania são conceitos juridicamente distintos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Nacionalidade e cidadania são conceitos juridicamente distintos."
+    },
+    {
+      "id": "q323",
+      "s": "Direito Constitucional",
+      "t": "Controle de constitucionalidade",
+      "q": "Considere a afirmação: O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição."
+    },
+    {
+      "id": "q324",
+      "s": "Direito Constitucional",
+      "t": "Segurança pública",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Direitos fundamentais não são, em regra, absolutos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos fundamentais não são, em regra, absolutos."
+    },
+    {
+      "id": "q325",
+      "s": "Direito Constitucional",
+      "t": "Princípios fundamentais",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira."
+    },
+    {
+      "id": "q326",
+      "s": "Direito Constitucional",
+      "t": "Direitos fundamentais",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Os Poderes da União são independentes e harmônicos entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Os Poderes da União são independentes e harmônicos entre si."
+    },
+    {
+      "id": "q327",
+      "s": "Direito Constitucional",
+      "t": "Federação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Legalidade, impessoalidade, moralidade, publicidade e eficiência são princípios expressos da Administração Pública."
+    },
+    {
+      "id": "q328",
+      "s": "Direito Constitucional",
+      "t": "Poderes",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Habeas corpus relaciona-se à proteção da liberdade de locomoção.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Habeas corpus relaciona-se à proteção da liberdade de locomoção."
+    },
+    {
+      "id": "q329",
+      "s": "Direito Constitucional",
+      "t": "Administração Pública",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Normas definidoras de direitos e garantias fundamentais têm aplicação imediata nos termos constitucionais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Normas definidoras de direitos e garantias fundamentais têm aplicação imediata nos termos constitucionais."
+    },
+    {
+      "id": "q330",
+      "s": "Direito Constitucional",
+      "t": "Nacionalidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A Constituição admite mecanismos de controles recíprocos entre os Poderes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A Constituição admite mecanismos de controles recíprocos entre os Poderes."
+    },
+    {
+      "id": "q331",
+      "s": "Direito Constitucional",
+      "t": "Direitos políticos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Direitos políticos relacionam-se à participação na formação da vontade política do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos políticos relacionam-se à participação na formação da vontade política do Estado."
+    },
+    {
+      "id": "q332",
+      "s": "Direito Constitucional",
+      "t": "Remédios constitucionais",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Nacionalidade e cidadania são conceitos juridicamente distintos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Nacionalidade e cidadania são conceitos juridicamente distintos."
+    },
+    {
+      "id": "q333",
+      "s": "Direito Constitucional",
+      "t": "Controle de constitucionalidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O controle de constitucionalidade examina compatibilidade de atos normativos com a Constituição."
+    },
+    {
+      "id": "q334",
+      "s": "Direito Constitucional",
+      "t": "Segurança pública",
+      "q": "Para fins de prova objetiva, considere: Direitos fundamentais não são, em regra, absolutos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Direitos fundamentais não são, em regra, absolutos."
+    },
+    {
+      "id": "q335",
+      "s": "Direito Constitucional",
+      "t": "Princípios fundamentais",
+      "q": "Para fins de prova objetiva, considere: União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "União, estados, Distrito Federal e municípios integram a organização político-administrativa brasileira."
+    },
+    {
+      "id": "q336",
+      "s": "Direito Constitucional",
+      "t": "Direitos fundamentais",
+      "q": "Para fins de prova objetiva, considere: Os Poderes da União são independentes e harmônicos entre si.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Os Poderes da União são independentes e harmônicos entre si."
+    },
+    {
+      "id": "q337",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "Desconcentração distribui competências dentro da mesma pessoa jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Desconcentração distribui competências dentro da mesma pessoa jurídica."
+    },
+    {
+      "id": "q338",
+      "s": "Direito Administrativo",
+      "t": "Organização administrativa",
+      "q": "A anulação de ato administrativo relaciona-se à ilegalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A anulação de ato administrativo relaciona-se à ilegalidade."
+    },
+    {
+      "id": "q339",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos."
+    },
+    {
+      "id": "q340",
+      "s": "Direito Administrativo",
+      "t": "Poderes administrativos",
+      "q": "A autotutela permite à Administração controlar seus próprios atos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A autotutela permite à Administração controlar seus próprios atos."
+    },
+    {
+      "id": "q341",
+      "s": "Direito Administrativo",
+      "t": "Agentes públicos",
+      "q": "O poder hierárquico relaciona-se à organização interna da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder hierárquico relaciona-se à organização interna da Administração."
+    },
+    {
+      "id": "q342",
+      "s": "Direito Administrativo",
+      "t": "Licitações",
+      "q": "O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa."
+    },
+    {
+      "id": "q343",
+      "s": "Direito Administrativo",
+      "t": "Contratos",
+      "q": "A presunção de legitimidade dos atos administrativos é relativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A presunção de legitimidade dos atos administrativos é relativa."
+    },
+    {
+      "id": "q344",
+      "s": "Direito Administrativo",
+      "t": "Responsabilidade civil",
+      "q": "Licitações devem observar princípios e regras previstos no ordenamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Licitações devem observar princípios e regras previstos no ordenamento."
+    },
+    {
+      "id": "q345",
+      "s": "Direito Administrativo",
+      "t": "Serviços públicos",
+      "q": "A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis."
+    },
+    {
+      "id": "q346",
+      "s": "Direito Administrativo",
+      "t": "Controle administrativo",
+      "q": "Considere a afirmação: Autarquias integram a Administração indireta.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autarquias integram a Administração indireta."
+    },
+    {
+      "id": "q347",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "Considere a afirmação: Desconcentração distribui competências dentro da mesma pessoa jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Desconcentração distribui competências dentro da mesma pessoa jurídica."
+    },
+    {
+      "id": "q348",
+      "s": "Direito Administrativo",
+      "t": "Organização administrativa",
+      "q": "Considere a afirmação: A anulação de ato administrativo relaciona-se à ilegalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A anulação de ato administrativo relaciona-se à ilegalidade."
+    },
+    {
+      "id": "q349",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "Considere a afirmação: A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos."
+    },
+    {
+      "id": "q350",
+      "s": "Direito Administrativo",
+      "t": "Poderes administrativos",
+      "q": "Considere a afirmação: A autotutela permite à Administração controlar seus próprios atos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A autotutela permite à Administração controlar seus próprios atos."
+    },
+    {
+      "id": "q351",
+      "s": "Direito Administrativo",
+      "t": "Agentes públicos",
+      "q": "Considere a afirmação: O poder hierárquico relaciona-se à organização interna da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder hierárquico relaciona-se à organização interna da Administração."
+    },
+    {
+      "id": "q352",
+      "s": "Direito Administrativo",
+      "t": "Licitações",
+      "q": "Considere a afirmação: O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa."
+    },
+    {
+      "id": "q353",
+      "s": "Direito Administrativo",
+      "t": "Contratos",
+      "q": "Considere a afirmação: A presunção de legitimidade dos atos administrativos é relativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A presunção de legitimidade dos atos administrativos é relativa."
+    },
+    {
+      "id": "q354",
+      "s": "Direito Administrativo",
+      "t": "Responsabilidade civil",
+      "q": "Considere a afirmação: Licitações devem observar princípios e regras previstos no ordenamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Licitações devem observar princípios e regras previstos no ordenamento."
+    },
+    {
+      "id": "q355",
+      "s": "Direito Administrativo",
+      "t": "Serviços públicos",
+      "q": "Considere a afirmação: A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis."
+    },
+    {
+      "id": "q356",
+      "s": "Direito Administrativo",
+      "t": "Controle administrativo",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Autarquias integram a Administração indireta.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autarquias integram a Administração indireta."
+    },
+    {
+      "id": "q357",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Desconcentração distribui competências dentro da mesma pessoa jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Desconcentração distribui competências dentro da mesma pessoa jurídica."
+    },
+    {
+      "id": "q358",
+      "s": "Direito Administrativo",
+      "t": "Organização administrativa",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A anulação de ato administrativo relaciona-se à ilegalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A anulação de ato administrativo relaciona-se à ilegalidade."
+    },
+    {
+      "id": "q359",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos."
+    },
+    {
+      "id": "q360",
+      "s": "Direito Administrativo",
+      "t": "Poderes administrativos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A autotutela permite à Administração controlar seus próprios atos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A autotutela permite à Administração controlar seus próprios atos."
+    },
+    {
+      "id": "q361",
+      "s": "Direito Administrativo",
+      "t": "Agentes públicos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O poder hierárquico relaciona-se à organização interna da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder hierárquico relaciona-se à organização interna da Administração."
+    },
+    {
+      "id": "q362",
+      "s": "Direito Administrativo",
+      "t": "Licitações",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa."
+    },
+    {
+      "id": "q363",
+      "s": "Direito Administrativo",
+      "t": "Contratos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A presunção de legitimidade dos atos administrativos é relativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A presunção de legitimidade dos atos administrativos é relativa."
+    },
+    {
+      "id": "q364",
+      "s": "Direito Administrativo",
+      "t": "Responsabilidade civil",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Licitações devem observar princípios e regras previstos no ordenamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Licitações devem observar princípios e regras previstos no ordenamento."
+    },
+    {
+      "id": "q365",
+      "s": "Direito Administrativo",
+      "t": "Serviços públicos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis."
+    },
+    {
+      "id": "q366",
+      "s": "Direito Administrativo",
+      "t": "Controle administrativo",
+      "q": "Para fins de prova objetiva, considere: Autarquias integram a Administração indireta.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autarquias integram a Administração indireta."
+    },
+    {
+      "id": "q367",
+      "s": "Direito Administrativo",
+      "t": "Princípios",
+      "q": "Para fins de prova objetiva, considere: Desconcentração distribui competências dentro da mesma pessoa jurídica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Desconcentração distribui competências dentro da mesma pessoa jurídica."
+    },
+    {
+      "id": "q368",
+      "s": "Direito Administrativo",
+      "t": "Organização administrativa",
+      "q": "Para fins de prova objetiva, considere: A anulação de ato administrativo relaciona-se à ilegalidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A anulação de ato administrativo relaciona-se à ilegalidade."
+    },
+    {
+      "id": "q369",
+      "s": "Direito Administrativo",
+      "t": "Atos administrativos",
+      "q": "Para fins de prova objetiva, considere: A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A revogação de ato válido pode decorrer de juízo de conveniência e oportunidade, observados os limites jurídicos."
+    },
+    {
+      "id": "q370",
+      "s": "Direito Administrativo",
+      "t": "Poderes administrativos",
+      "q": "Para fins de prova objetiva, considere: A autotutela permite à Administração controlar seus próprios atos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A autotutela permite à Administração controlar seus próprios atos."
+    },
+    {
+      "id": "q371",
+      "s": "Direito Administrativo",
+      "t": "Agentes públicos",
+      "q": "Para fins de prova objetiva, considere: O poder hierárquico relaciona-se à organização interna da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder hierárquico relaciona-se à organização interna da Administração."
+    },
+    {
+      "id": "q372",
+      "s": "Direito Administrativo",
+      "t": "Licitações",
+      "q": "Para fins de prova objetiva, considere: O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O poder disciplinar pode alcançar infrações funcionais nos vínculos sujeitos à disciplina administrativa."
+    },
+    {
+      "id": "q373",
+      "s": "Direito Administrativo",
+      "t": "Contratos",
+      "q": "Para fins de prova objetiva, considere: A presunção de legitimidade dos atos administrativos é relativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A presunção de legitimidade dos atos administrativos é relativa."
+    },
+    {
+      "id": "q374",
+      "s": "Direito Administrativo",
+      "t": "Responsabilidade civil",
+      "q": "Para fins de prova objetiva, considere: Licitações devem observar princípios e regras previstos no ordenamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Licitações devem observar princípios e regras previstos no ordenamento."
+    },
+    {
+      "id": "q375",
+      "s": "Direito Administrativo",
+      "t": "Serviços públicos",
+      "q": "Para fins de prova objetiva, considere: A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A responsabilidade estatal perante a vítima pode coexistir com ação regressiva contra o agente nos casos cabíveis."
+    },
+    {
+      "id": "q376",
+      "s": "Administração",
+      "t": "Planejamento",
+      "q": "Planejamento define objetivos e caminhos para alcançá-los.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Planejamento define objetivos e caminhos para alcançá-los."
+    },
+    {
+      "id": "q377",
+      "s": "Administração",
+      "t": "Organização",
+      "q": "Controle compara resultados com padrões ou objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Controle compara resultados com padrões ou objetivos."
+    },
+    {
+      "id": "q378",
+      "s": "Administração",
+      "t": "Direção",
+      "q": "Eficiência relaciona-se ao uso adequado de recursos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficiência relaciona-se ao uso adequado de recursos."
+    },
+    {
+      "id": "q379",
+      "s": "Administração",
+      "t": "Controle",
+      "q": "Eficácia relaciona-se ao alcance de objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficácia relaciona-se ao alcance de objetivos."
+    },
+    {
+      "id": "q380",
+      "s": "Administração",
+      "t": "Liderança",
+      "q": "Liderança envolve influência sobre pessoas em direção a objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Liderança envolve influência sobre pessoas em direção a objetivos."
+    },
+    {
+      "id": "q381",
+      "s": "Administração",
+      "t": "Motivação",
+      "q": "Recrutamento busca atrair candidatos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recrutamento busca atrair candidatos."
+    },
+    {
+      "id": "q382",
+      "s": "Administração",
+      "t": "Gestão de pessoas",
+      "q": "Seleção busca avaliar a adequação de candidatos às necessidades da organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Seleção busca avaliar a adequação de candidatos às necessidades da organização."
+    },
+    {
+      "id": "q383",
+      "s": "Administração",
+      "t": "Competências",
+      "q": "Treinamento pode desenvolver conhecimentos e habilidades para o trabalho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Treinamento pode desenvolver conhecimentos e habilidades para o trabalho."
+    },
+    {
+      "id": "q384",
+      "s": "Administração",
+      "t": "Processos",
+      "q": "Indicadores auxiliam no acompanhamento do desempenho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Indicadores auxiliam no acompanhamento do desempenho."
+    },
+    {
+      "id": "q385",
+      "s": "Administração",
+      "t": "Qualidade",
+      "q": "Comunicação organizacional influencia coordenação e execução das atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Comunicação organizacional influencia coordenação e execução das atividades."
+    },
+    {
+      "id": "q386",
+      "s": "Administração",
+      "t": "Indicadores",
+      "q": "Considere a afirmação: Planejamento define objetivos e caminhos para alcançá-los.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Planejamento define objetivos e caminhos para alcançá-los."
+    },
+    {
+      "id": "q387",
+      "s": "Administração",
+      "t": "Comunicação",
+      "q": "Considere a afirmação: Controle compara resultados com padrões ou objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Controle compara resultados com padrões ou objetivos."
+    },
+    {
+      "id": "q388",
+      "s": "Administração",
+      "t": "Planejamento",
+      "q": "Considere a afirmação: Eficiência relaciona-se ao uso adequado de recursos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficiência relaciona-se ao uso adequado de recursos."
+    },
+    {
+      "id": "q389",
+      "s": "Administração",
+      "t": "Organização",
+      "q": "Considere a afirmação: Eficácia relaciona-se ao alcance de objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficácia relaciona-se ao alcance de objetivos."
+    },
+    {
+      "id": "q390",
+      "s": "Administração",
+      "t": "Direção",
+      "q": "Considere a afirmação: Liderança envolve influência sobre pessoas em direção a objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Liderança envolve influência sobre pessoas em direção a objetivos."
+    },
+    {
+      "id": "q391",
+      "s": "Administração",
+      "t": "Controle",
+      "q": "Considere a afirmação: Recrutamento busca atrair candidatos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recrutamento busca atrair candidatos."
+    },
+    {
+      "id": "q392",
+      "s": "Administração",
+      "t": "Liderança",
+      "q": "Considere a afirmação: Seleção busca avaliar a adequação de candidatos às necessidades da organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Seleção busca avaliar a adequação de candidatos às necessidades da organização."
+    },
+    {
+      "id": "q393",
+      "s": "Administração",
+      "t": "Motivação",
+      "q": "Considere a afirmação: Treinamento pode desenvolver conhecimentos e habilidades para o trabalho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Treinamento pode desenvolver conhecimentos e habilidades para o trabalho."
+    },
+    {
+      "id": "q394",
+      "s": "Administração",
+      "t": "Gestão de pessoas",
+      "q": "Considere a afirmação: Indicadores auxiliam no acompanhamento do desempenho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Indicadores auxiliam no acompanhamento do desempenho."
+    },
+    {
+      "id": "q395",
+      "s": "Administração",
+      "t": "Competências",
+      "q": "Considere a afirmação: Comunicação organizacional influencia coordenação e execução das atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Comunicação organizacional influencia coordenação e execução das atividades."
+    },
+    {
+      "id": "q396",
+      "s": "Administração",
+      "t": "Processos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Planejamento define objetivos e caminhos para alcançá-los.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Planejamento define objetivos e caminhos para alcançá-los."
+    },
+    {
+      "id": "q397",
+      "s": "Administração",
+      "t": "Qualidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Controle compara resultados com padrões ou objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Controle compara resultados com padrões ou objetivos."
+    },
+    {
+      "id": "q398",
+      "s": "Administração",
+      "t": "Indicadores",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Eficiência relaciona-se ao uso adequado de recursos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficiência relaciona-se ao uso adequado de recursos."
+    },
+    {
+      "id": "q399",
+      "s": "Administração",
+      "t": "Comunicação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Eficácia relaciona-se ao alcance de objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficácia relaciona-se ao alcance de objetivos."
+    },
+    {
+      "id": "q400",
+      "s": "Administração",
+      "t": "Planejamento",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Liderança envolve influência sobre pessoas em direção a objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Liderança envolve influência sobre pessoas em direção a objetivos."
+    },
+    {
+      "id": "q401",
+      "s": "Administração",
+      "t": "Organização",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Recrutamento busca atrair candidatos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Recrutamento busca atrair candidatos."
+    },
+    {
+      "id": "q402",
+      "s": "Administração",
+      "t": "Direção",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Seleção busca avaliar a adequação de candidatos às necessidades da organização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Seleção busca avaliar a adequação de candidatos às necessidades da organização."
+    },
+    {
+      "id": "q403",
+      "s": "Administração",
+      "t": "Controle",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Treinamento pode desenvolver conhecimentos e habilidades para o trabalho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Treinamento pode desenvolver conhecimentos e habilidades para o trabalho."
+    },
+    {
+      "id": "q404",
+      "s": "Administração",
+      "t": "Liderança",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Indicadores auxiliam no acompanhamento do desempenho.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Indicadores auxiliam no acompanhamento do desempenho."
+    },
+    {
+      "id": "q405",
+      "s": "Administração",
+      "t": "Motivação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Comunicação organizacional influencia coordenação e execução das atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Comunicação organizacional influencia coordenação e execução das atividades."
+    },
+    {
+      "id": "q406",
+      "s": "Administração",
+      "t": "Gestão de pessoas",
+      "q": "Para fins de prova objetiva, considere: Planejamento define objetivos e caminhos para alcançá-los.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Planejamento define objetivos e caminhos para alcançá-los."
+    },
+    {
+      "id": "q407",
+      "s": "Administração",
+      "t": "Competências",
+      "q": "Para fins de prova objetiva, considere: Controle compara resultados com padrões ou objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Controle compara resultados com padrões ou objetivos."
+    },
+    {
+      "id": "q408",
+      "s": "Administração",
+      "t": "Processos",
+      "q": "Para fins de prova objetiva, considere: Eficiência relaciona-se ao uso adequado de recursos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficiência relaciona-se ao uso adequado de recursos."
+    },
+    {
+      "id": "q409",
+      "s": "Administração",
+      "t": "Qualidade",
+      "q": "Para fins de prova objetiva, considere: Eficácia relaciona-se ao alcance de objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Eficácia relaciona-se ao alcance de objetivos."
+    },
+    {
+      "id": "q410",
+      "s": "Administração",
+      "t": "Indicadores",
+      "q": "Para fins de prova objetiva, considere: Liderança envolve influência sobre pessoas em direção a objetivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Liderança envolve influência sobre pessoas em direção a objetivos."
+    },
+    {
+      "id": "q411",
+      "s": "Arquivologia",
+      "t": "Princípios arquivísticos",
+      "q": "O princípio da proveniência preserva a relação dos documentos com seu produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O princípio da proveniência preserva a relação dos documentos com seu produtor."
+    },
+    {
+      "id": "q412",
+      "s": "Arquivologia",
+      "t": "Ciclo vital",
+      "q": "Documentos correntes são frequentemente utilizados nas atividades do produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos correntes são frequentemente utilizados nas atividades do produtor."
+    },
+    {
+      "id": "q413",
+      "s": "Arquivologia",
+      "t": "Arquivo corrente",
+      "q": "Documentos intermediários aguardam destinação após redução de uso.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos intermediários aguardam destinação após redução de uso."
+    },
+    {
+      "id": "q414",
+      "s": "Arquivologia",
+      "t": "Arquivo intermediário",
+      "q": "Documentos permanentes são preservados definitivamente em razão de seu valor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos permanentes são preservados definitivamente em razão de seu valor."
+    },
+    {
+      "id": "q415",
+      "s": "Arquivologia",
+      "t": "Arquivo permanente",
+      "q": "A tabela de temporalidade registra prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A tabela de temporalidade registra prazos de guarda e destinação."
+    },
+    {
+      "id": "q416",
+      "s": "Arquivologia",
+      "t": "Protocolo",
+      "q": "A avaliação documental auxilia a definir prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A avaliação documental auxilia a definir prazos de guarda e destinação."
+    },
+    {
+      "id": "q417",
+      "s": "Arquivologia",
+      "t": "Classificação",
+      "q": "O protocolo pode controlar recebimento, registro e tramitação documental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O protocolo pode controlar recebimento, registro e tramitação documental."
+    },
+    {
+      "id": "q418",
+      "s": "Arquivologia",
+      "t": "Avaliação",
+      "q": "A classificação arquivística relaciona documentos às funções e atividades que os geraram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A classificação arquivística relaciona documentos às funções e atividades que os geraram."
+    },
+    {
+      "id": "q419",
+      "s": "Arquivologia",
+      "t": "Temporalidade",
+      "q": "Conservação preventiva busca reduzir riscos de deterioração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conservação preventiva busca reduzir riscos de deterioração."
+    },
+    {
+      "id": "q420",
+      "s": "Arquivologia",
+      "t": "Preservação",
+      "q": "Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram."
+    },
+    {
+      "id": "q421",
+      "s": "Arquivologia",
+      "t": "Gestão documental",
+      "q": "Considere a afirmação: O princípio da proveniência preserva a relação dos documentos com seu produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O princípio da proveniência preserva a relação dos documentos com seu produtor."
+    },
+    {
+      "id": "q422",
+      "s": "Arquivologia",
+      "t": "Princípios arquivísticos",
+      "q": "Considere a afirmação: Documentos correntes são frequentemente utilizados nas atividades do produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos correntes são frequentemente utilizados nas atividades do produtor."
+    },
+    {
+      "id": "q423",
+      "s": "Arquivologia",
+      "t": "Ciclo vital",
+      "q": "Considere a afirmação: Documentos intermediários aguardam destinação após redução de uso.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos intermediários aguardam destinação após redução de uso."
+    },
+    {
+      "id": "q424",
+      "s": "Arquivologia",
+      "t": "Arquivo corrente",
+      "q": "Considere a afirmação: Documentos permanentes são preservados definitivamente em razão de seu valor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos permanentes são preservados definitivamente em razão de seu valor."
+    },
+    {
+      "id": "q425",
+      "s": "Arquivologia",
+      "t": "Arquivo intermediário",
+      "q": "Considere a afirmação: A tabela de temporalidade registra prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A tabela de temporalidade registra prazos de guarda e destinação."
+    },
+    {
+      "id": "q426",
+      "s": "Arquivologia",
+      "t": "Arquivo permanente",
+      "q": "Considere a afirmação: A avaliação documental auxilia a definir prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A avaliação documental auxilia a definir prazos de guarda e destinação."
+    },
+    {
+      "id": "q427",
+      "s": "Arquivologia",
+      "t": "Protocolo",
+      "q": "Considere a afirmação: O protocolo pode controlar recebimento, registro e tramitação documental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O protocolo pode controlar recebimento, registro e tramitação documental."
+    },
+    {
+      "id": "q428",
+      "s": "Arquivologia",
+      "t": "Classificação",
+      "q": "Considere a afirmação: A classificação arquivística relaciona documentos às funções e atividades que os geraram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A classificação arquivística relaciona documentos às funções e atividades que os geraram."
+    },
+    {
+      "id": "q429",
+      "s": "Arquivologia",
+      "t": "Avaliação",
+      "q": "Considere a afirmação: Conservação preventiva busca reduzir riscos de deterioração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conservação preventiva busca reduzir riscos de deterioração."
+    },
+    {
+      "id": "q430",
+      "s": "Arquivologia",
+      "t": "Temporalidade",
+      "q": "Considere a afirmação: Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram."
+    },
+    {
+      "id": "q431",
+      "s": "Arquivologia",
+      "t": "Preservação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O princípio da proveniência preserva a relação dos documentos com seu produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O princípio da proveniência preserva a relação dos documentos com seu produtor."
+    },
+    {
+      "id": "q432",
+      "s": "Arquivologia",
+      "t": "Gestão documental",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Documentos correntes são frequentemente utilizados nas atividades do produtor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos correntes são frequentemente utilizados nas atividades do produtor."
+    },
+    {
+      "id": "q433",
+      "s": "Arquivologia",
+      "t": "Princípios arquivísticos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Documentos intermediários aguardam destinação após redução de uso.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos intermediários aguardam destinação após redução de uso."
+    },
+    {
+      "id": "q434",
+      "s": "Arquivologia",
+      "t": "Ciclo vital",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Documentos permanentes são preservados definitivamente em razão de seu valor.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Documentos permanentes são preservados definitivamente em razão de seu valor."
+    },
+    {
+      "id": "q435",
+      "s": "Arquivologia",
+      "t": "Arquivo corrente",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A tabela de temporalidade registra prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A tabela de temporalidade registra prazos de guarda e destinação."
+    },
+    {
+      "id": "q436",
+      "s": "Arquivologia",
+      "t": "Arquivo intermediário",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A avaliação documental auxilia a definir prazos de guarda e destinação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A avaliação documental auxilia a definir prazos de guarda e destinação."
+    },
+    {
+      "id": "q437",
+      "s": "Arquivologia",
+      "t": "Arquivo permanente",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O protocolo pode controlar recebimento, registro e tramitação documental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O protocolo pode controlar recebimento, registro e tramitação documental."
+    },
+    {
+      "id": "q438",
+      "s": "Arquivologia",
+      "t": "Protocolo",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A classificação arquivística relaciona documentos às funções e atividades que os geraram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A classificação arquivística relaciona documentos às funções e atividades que os geraram."
+    },
+    {
+      "id": "q439",
+      "s": "Arquivologia",
+      "t": "Classificação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Conservação preventiva busca reduzir riscos de deterioração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Conservação preventiva busca reduzir riscos de deterioração."
+    },
+    {
+      "id": "q440",
+      "s": "Arquivologia",
+      "t": "Avaliação",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Organicidade refere-se às relações dos documentos decorrentes das atividades que os produziram."
+    },
+    {
+      "id": "q441",
+      "s": "Informática",
+      "t": "Internet",
+      "q": "HTTPS acrescenta proteção criptográfica à comunicação web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "HTTPS acrescenta proteção criptográfica à comunicação web."
+    },
+    {
+      "id": "q442",
+      "s": "Informática",
+      "t": "Navegadores",
+      "q": "CCO oculta dos demais destinatários os endereços inseridos nesse campo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CCO oculta dos demais destinatários os endereços inseridos nesse campo."
+    },
+    {
+      "id": "q443",
+      "s": "Informática",
+      "t": "Correio eletrônico",
+      "q": "Phishing emprega engano para obter informações ou induzir ações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Phishing emprega engano para obter informações ou induzir ações."
+    },
+    {
+      "id": "q444",
+      "s": "Informática",
+      "t": "Segurança",
+      "q": "Autenticação multifator utiliza mais de um fator de verificação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autenticação multifator utiliza mais de um fator de verificação."
+    },
+    {
+      "id": "q445",
+      "s": "Informática",
+      "t": "Malware",
+      "q": "Backup auxilia na recuperação de dados após perda ou dano.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Backup auxilia na recuperação de dados após perda ou dano."
+    },
+    {
+      "id": "q446",
+      "s": "Informática",
+      "t": "Autenticação",
+      "q": "O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos."
+    },
+    {
+      "id": "q447",
+      "s": "Informática",
+      "t": "Backup",
+      "q": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos."
+    },
+    {
+      "id": "q448",
+      "s": "Informática",
+      "t": "Sistemas operacionais",
+      "q": "Endereços IP são utilizados na identificação e comunicação em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Endereços IP são utilizados na identificação e comunicação em redes IP."
+    },
+    {
+      "id": "q449",
+      "s": "Informática",
+      "t": "Redes",
+      "q": "Fórmulas de planilhas podem utilizar referências a outras células.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Fórmulas de planilhas podem utilizar referências a outras células."
+    },
+    {
+      "id": "q450",
+      "s": "Informática",
+      "t": "Nuvem",
+      "q": "Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento."
+    },
+    {
+      "id": "q451",
+      "s": "Informática",
+      "t": "Planilhas",
+      "q": "Considere a afirmação: HTTPS acrescenta proteção criptográfica à comunicação web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "HTTPS acrescenta proteção criptográfica à comunicação web."
+    },
+    {
+      "id": "q452",
+      "s": "Informática",
+      "t": "Arquivos",
+      "q": "Considere a afirmação: CCO oculta dos demais destinatários os endereços inseridos nesse campo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CCO oculta dos demais destinatários os endereços inseridos nesse campo."
+    },
+    {
+      "id": "q453",
+      "s": "Informática",
+      "t": "Privacidade",
+      "q": "Considere a afirmação: Phishing emprega engano para obter informações ou induzir ações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Phishing emprega engano para obter informações ou induzir ações."
+    },
+    {
+      "id": "q454",
+      "s": "Informática",
+      "t": "Internet",
+      "q": "Considere a afirmação: Autenticação multifator utiliza mais de um fator de verificação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autenticação multifator utiliza mais de um fator de verificação."
+    },
+    {
+      "id": "q455",
+      "s": "Informática",
+      "t": "Navegadores",
+      "q": "Considere a afirmação: Backup auxilia na recuperação de dados após perda ou dano.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Backup auxilia na recuperação de dados após perda ou dano."
+    },
+    {
+      "id": "q456",
+      "s": "Informática",
+      "t": "Correio eletrônico",
+      "q": "Considere a afirmação: O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos."
+    },
+    {
+      "id": "q457",
+      "s": "Informática",
+      "t": "Segurança",
+      "q": "Considere a afirmação: Armazenamento em nuvem pode sincronizar arquivos entre dispositivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos."
+    },
+    {
+      "id": "q458",
+      "s": "Informática",
+      "t": "Malware",
+      "q": "Considere a afirmação: Endereços IP são utilizados na identificação e comunicação em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Endereços IP são utilizados na identificação e comunicação em redes IP."
+    },
+    {
+      "id": "q459",
+      "s": "Informática",
+      "t": "Autenticação",
+      "q": "Considere a afirmação: Fórmulas de planilhas podem utilizar referências a outras células.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Fórmulas de planilhas podem utilizar referências a outras células."
+    },
+    {
+      "id": "q460",
+      "s": "Informática",
+      "t": "Backup",
+      "q": "Considere a afirmação: Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento."
+    },
+    {
+      "id": "q461",
+      "s": "Informática",
+      "t": "Sistemas operacionais",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: HTTPS acrescenta proteção criptográfica à comunicação web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "HTTPS acrescenta proteção criptográfica à comunicação web."
+    },
+    {
+      "id": "q462",
+      "s": "Informática",
+      "t": "Redes",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: CCO oculta dos demais destinatários os endereços inseridos nesse campo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CCO oculta dos demais destinatários os endereços inseridos nesse campo."
+    },
+    {
+      "id": "q463",
+      "s": "Informática",
+      "t": "Nuvem",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Phishing emprega engano para obter informações ou induzir ações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Phishing emprega engano para obter informações ou induzir ações."
+    },
+    {
+      "id": "q464",
+      "s": "Informática",
+      "t": "Planilhas",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Autenticação multifator utiliza mais de um fator de verificação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autenticação multifator utiliza mais de um fator de verificação."
+    },
+    {
+      "id": "q465",
+      "s": "Informática",
+      "t": "Arquivos",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Backup auxilia na recuperação de dados após perda ou dano.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Backup auxilia na recuperação de dados após perda ou dano."
+    },
+    {
+      "id": "q466",
+      "s": "Informática",
+      "t": "Privacidade",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos."
+    },
+    {
+      "id": "q467",
+      "s": "Informática",
+      "t": "Internet",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Armazenamento em nuvem pode sincronizar arquivos entre dispositivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos."
+    },
+    {
+      "id": "q468",
+      "s": "Informática",
+      "t": "Navegadores",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Endereços IP são utilizados na identificação e comunicação em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Endereços IP são utilizados na identificação e comunicação em redes IP."
+    },
+    {
+      "id": "q469",
+      "s": "Informática",
+      "t": "Correio eletrônico",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Fórmulas de planilhas podem utilizar referências a outras células.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Fórmulas de planilhas podem utilizar referências a outras células."
+    },
+    {
+      "id": "q470",
+      "s": "Informática",
+      "t": "Segurança",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Reutilizar a mesma senha em vários serviços amplia o impacto potencial de um vazamento."
+    },
+    {
+      "id": "q471",
+      "s": "Informática",
+      "t": "Malware",
+      "q": "Para fins de prova objetiva, considere: HTTPS acrescenta proteção criptográfica à comunicação web.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "HTTPS acrescenta proteção criptográfica à comunicação web."
+    },
+    {
+      "id": "q472",
+      "s": "Informática",
+      "t": "Autenticação",
+      "q": "Para fins de prova objetiva, considere: CCO oculta dos demais destinatários os endereços inseridos nesse campo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "CCO oculta dos demais destinatários os endereços inseridos nesse campo."
+    },
+    {
+      "id": "q473",
+      "s": "Informática",
+      "t": "Backup",
+      "q": "Para fins de prova objetiva, considere: Phishing emprega engano para obter informações ou induzir ações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Phishing emprega engano para obter informações ou induzir ações."
+    },
+    {
+      "id": "q474",
+      "s": "Informática",
+      "t": "Sistemas operacionais",
+      "q": "Para fins de prova objetiva, considere: Autenticação multifator utiliza mais de um fator de verificação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Autenticação multifator utiliza mais de um fator de verificação."
+    },
+    {
+      "id": "q475",
+      "s": "Informática",
+      "t": "Redes",
+      "q": "Para fins de prova objetiva, considere: Backup auxilia na recuperação de dados após perda ou dano.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Backup auxilia na recuperação de dados após perda ou dano."
+    },
+    {
+      "id": "q476",
+      "s": "Informática",
+      "t": "Nuvem",
+      "q": "Para fins de prova objetiva, considere: O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O sistema operacional gerencia recursos de hardware e oferece serviços a aplicativos."
+    },
+    {
+      "id": "q477",
+      "s": "Informática",
+      "t": "Planilhas",
+      "q": "Para fins de prova objetiva, considere: Armazenamento em nuvem pode sincronizar arquivos entre dispositivos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Armazenamento em nuvem pode sincronizar arquivos entre dispositivos."
+    },
+    {
+      "id": "q478",
+      "s": "Informática",
+      "t": "Arquivos",
+      "q": "Para fins de prova objetiva, considere: Endereços IP são utilizados na identificação e comunicação em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Endereços IP são utilizados na identificação e comunicação em redes IP."
+    },
+    {
+      "id": "q479",
+      "s": "Informática",
+      "t": "Privacidade",
+      "q": "Para fins de prova objetiva, considere: Fórmulas de planilhas podem utilizar referências a outras células.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Fórmulas de planilhas podem utilizar referências a outras células."
+    },
+    {
+      "id": "q480",
+      "s": "Legislação relativa à PRF",
+      "t": "PRF",
+      "q": "A PRF é órgão permanente, organizado e mantido pela União.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A PRF é órgão permanente, organizado e mantido pela União."
+    },
+    {
+      "id": "q481",
+      "s": "Legislação relativa à PRF",
+      "t": "Segurança pública",
+      "q": "O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF."
+    },
+    {
+      "id": "q482",
+      "s": "Legislação relativa à PRF",
+      "t": "Competências",
+      "q": "A atuação da PRF deve observar os princípios aplicáveis à Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação da PRF deve observar os princípios aplicáveis à Administração Pública."
+    },
+    {
+      "id": "q483",
+      "s": "Legislação relativa à PRF",
+      "t": "Rodovias federais",
+      "q": "Questões de legislação devem considerar a norma vigente aplicável.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Questões de legislação devem considerar a norma vigente aplicável."
+    },
+    {
+      "id": "q484",
+      "s": "Legislação relativa à PRF",
+      "t": "Trânsito",
+      "q": "Alterações legislativas podem modificar o gabarito de questões antigas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Alterações legislativas podem modificar o gabarito de questões antigas."
+    },
+    {
+      "id": "q485",
+      "s": "Legislação relativa à PRF",
+      "t": "Legalidade",
+      "q": "As competências de trânsito da PRF devem ser estudadas conforme a legislação vigente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "As competências de trânsito da PRF devem ser estudadas conforme a legislação vigente."
+    },
+    {
+      "id": "q486",
+      "s": "Legislação relativa à PRF",
+      "t": "Agentes públicos",
+      "q": "O interesse público não dispensa fundamento jurídico para a atuação administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O interesse público não dispensa fundamento jurídico para a atuação administrativa."
+    },
+    {
+      "id": "q487",
+      "s": "Legislação relativa à PRF",
+      "t": "Atualização legislativa",
+      "q": "Considere a afirmação: A PRF é órgão permanente, organizado e mantido pela União.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A PRF é órgão permanente, organizado e mantido pela União."
+    },
+    {
+      "id": "q488",
+      "s": "Legislação relativa à PRF",
+      "t": "PRF",
+      "q": "Considere a afirmação: O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF."
+    },
+    {
+      "id": "q489",
+      "s": "Legislação relativa à PRF",
+      "t": "Segurança pública",
+      "q": "Considere a afirmação: A atuação da PRF deve observar os princípios aplicáveis à Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação da PRF deve observar os princípios aplicáveis à Administração Pública."
+    },
+    {
+      "id": "q490",
+      "s": "Legislação relativa à PRF",
+      "t": "Competências",
+      "q": "Considere a afirmação: Questões de legislação devem considerar a norma vigente aplicável.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Questões de legislação devem considerar a norma vigente aplicável."
+    },
+    {
+      "id": "q491",
+      "s": "Legislação relativa à PRF",
+      "t": "Rodovias federais",
+      "q": "Considere a afirmação: Alterações legislativas podem modificar o gabarito de questões antigas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Alterações legislativas podem modificar o gabarito de questões antigas."
+    },
+    {
+      "id": "q492",
+      "s": "Legislação relativa à PRF",
+      "t": "Trânsito",
+      "q": "Considere a afirmação: A segurança pública é tratada constitucionalmente como dever do Estado, direito e responsabilidade de todos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A segurança pública é tratada constitucionalmente como dever do Estado, direito e responsabilidade de todos."
+    },
+    {
+      "id": "q493",
+      "s": "Legislação relativa à PRF",
+      "t": "Legalidade",
+      "q": "Considere a afirmação: As competências de trânsito da PRF devem ser estudadas conforme a legislação vigente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "As competências de trânsito da PRF devem ser estudadas conforme a legislação vigente."
+    },
+    {
+      "id": "q494",
+      "s": "Legislação relativa à PRF",
+      "t": "Agentes públicos",
+      "q": "Considere a afirmação: O interesse público não dispensa fundamento jurídico para a atuação administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O interesse público não dispensa fundamento jurídico para a atuação administrativa."
+    },
+    {
+      "id": "q495",
+      "s": "Legislação relativa à PRF",
+      "t": "Atualização legislativa",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A PRF é órgão permanente, organizado e mantido pela União.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A PRF é órgão permanente, organizado e mantido pela União."
+    },
+    {
+      "id": "q496",
+      "s": "Legislação relativa à PRF",
+      "t": "PRF",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O patrulhamento ostensivo das rodovias federais é atribuição constitucional da PRF."
+    },
+    {
+      "id": "q497",
+      "s": "Legislação relativa à PRF",
+      "t": "Segurança pública",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: A atuação da PRF deve observar os princípios aplicáveis à Administração Pública.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "A atuação da PRF deve observar os princípios aplicáveis à Administração Pública."
+    },
+    {
+      "id": "q498",
+      "s": "Legislação relativa à PRF",
+      "t": "Competências",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Questões de legislação devem considerar a norma vigente aplicável.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Questões de legislação devem considerar a norma vigente aplicável."
+    },
+    {
+      "id": "q499",
+      "s": "Legislação relativa à PRF",
+      "t": "Rodovias federais",
+      "q": "Em relação ao conteúdo estudado, está correta a seguinte afirmação: Alterações legislativas podem modificar o gabarito de questões antigas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "Alterações legislativas podem modificar o gabarito de questões antigas."
     }
   ]
 }
