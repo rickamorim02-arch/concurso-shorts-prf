@@ -1,7 +1,7 @@
 {
   "app": "Concurso Shorts SEFAZ-AL 2026",
   "schema_version": 1,
-  "bank_version": 5,
+  "bank_version": 6,
   "updated_at": "2026-09-29",
   "total": 240,
   "sources": [
@@ -510,2402 +510,2702 @@
     {
       "id": "s40",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 1",
-      "q": "Firewall pode aplicar regras para controlar o tráfego de rede.",
+      "t": "Disponibilidade",
+      "q": "Disponibilidade: garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+      "e": "O material da disciplina apresenta Disponibilidade nesse sentido: garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda."
     },
     {
       "id": "s41",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Firewall pode aplicar regras para controlar o tráfego de rede.",
+      "t": "Disponibilidade",
+      "q": "Segundo o material, qual alternativa descreve corretamente Disponibilidade?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda",
+        "B) protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais",
+        "C) isola serviços acessíveis externamente em uma zona de rede específica",
+        "D) pode dar suporte tecnológico a certificação e assinatura digital",
+        "E) na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Disponibilidade é: garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda."
     },
     {
       "id": "s42",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 2",
-      "q": "DNS realiza resolução de nomes em redes IP.",
+      "t": "DNSSEC",
+      "q": "DNSSEC: protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+      "e": "O material da disciplina apresenta DNSSEC nesse sentido: protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais."
     },
     {
       "id": "s43",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: DNS realiza resolução de nomes em redes IP.",
+      "t": "DNSSEC",
+      "q": "Segundo o material, qual alternativa descreve corretamente DNSSEC?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda",
+        "B) protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais",
+        "C) isola serviços acessíveis externamente em uma zona de rede específica",
+        "D) pode dar suporte tecnológico a certificação e assinatura digital",
+        "E) na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de DNSSEC é: protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais."
     },
     {
       "id": "s44",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 3",
-      "q": "Certificação digital pode empregar criptografia assimétrica.",
+      "t": "DMZ",
+      "q": "DMZ: isola serviços acessíveis externamente em uma zona de rede específica.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+      "e": "O material da disciplina apresenta DMZ nesse sentido: isola serviços acessíveis externamente em uma zona de rede específica."
     },
     {
       "id": "s45",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Certificação digital pode empregar criptografia assimétrica.",
+      "t": "DMZ",
+      "q": "Segundo o material, qual alternativa descreve corretamente DMZ?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda",
+        "B) protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais",
+        "C) isola serviços acessíveis externamente em uma zona de rede específica",
+        "D) pode dar suporte tecnológico a certificação e assinatura digital",
+        "E) na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de DMZ é: isola serviços acessíveis externamente em uma zona de rede específica."
     },
     {
       "id": "s46",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 4",
-      "q": "Gestão de riscos envolve identificar e tratar riscos de segurança da informação.",
+      "t": "Criptografia assimétrica",
+      "q": "Criptografia assimétrica: pode dar suporte tecnológico a certificação e assinatura digital.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+      "e": "O material da disciplina apresenta Criptografia assimétrica nesse sentido: pode dar suporte tecnológico a certificação e assinatura digital."
     },
     {
       "id": "s47",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Gestão de riscos envolve identificar e tratar riscos de segurança da informação.",
+      "t": "Criptografia assimétrica",
+      "q": "Segundo o material, qual alternativa descreve corretamente Criptografia assimétrica?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda",
+        "B) protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais",
+        "C) isola serviços acessíveis externamente em uma zona de rede específica",
+        "D) pode dar suporte tecnológico a certificação e assinatura digital",
+        "E) na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Criptografia assimétrica é: pode dar suporte tecnológico a certificação e assinatura digital."
     },
     {
       "id": "s48",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 5",
-      "q": "Continuidade de negócio busca manter ou recuperar atividades críticas.",
+      "t": "PDCA no SGSI",
+      "q": "PDCA no SGSI: na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+      "e": "O material da disciplina apresenta PDCA no SGSI nesse sentido: na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos."
     },
     {
       "id": "s49",
       "s": "Segurança da Informação e Redes",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Continuidade de negócio busca manter ou recuperar atividades críticas.",
+      "t": "PDCA no SGSI",
+      "q": "Segundo o material, qual alternativa descreve corretamente PDCA no SGSI?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) garante acesso a sistemas ou informações quando necessário, inclusive sob pressão ou alta demanda",
+        "B) protege integridade e autenticidade de respostas DNS por meio de assinaturas digitais",
+        "C) isola serviços acessíveis externamente em uma zona de rede específica",
+        "D) pode dar suporte tecnológico a certificação e assinatura digital",
+        "E) na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de PDCA no SGSI é: na fase Do, coloca em prática ações planejadas, inclusive o tratamento de riscos."
     },
     {
       "id": "s50",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 1",
-      "q": "SPED promove escrituração e intercâmbio digital de informações fiscais e contábeis.",
+      "t": "ECD",
+      "q": "ECD: é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+      "e": "O material da disciplina apresenta ECD nesse sentido: é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED."
     },
     {
       "id": "s51",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: SPED promove escrituração e intercâmbio digital de informações fiscais e contábeis.",
+      "t": "ECD",
+      "q": "Segundo o material, qual alternativa descreve corretamente ECD?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED",
+        "B) podem ser cruzadas eletronicamente para identificar inconsistências fiscais",
+        "C) promove escrituração digital e integração de informações contábeis e fiscais",
+        "D) pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal",
+        "E) são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de ECD é: é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED."
     },
     {
       "id": "s52",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 2",
-      "q": "EFD e NF-e podem ser cruzadas para detectar inconsistências fiscais.",
+      "t": "NF-e e EFD",
+      "q": "NF-e e EFD: podem ser cruzadas eletronicamente para identificar inconsistências fiscais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+      "e": "O material da disciplina apresenta NF-e e EFD nesse sentido: podem ser cruzadas eletronicamente para identificar inconsistências fiscais."
     },
     {
       "id": "s53",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: EFD e NF-e podem ser cruzadas para detectar inconsistências fiscais.",
+      "t": "NF-e e EFD",
+      "q": "Segundo o material, qual alternativa descreve corretamente NF-e e EFD?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED",
+        "B) podem ser cruzadas eletronicamente para identificar inconsistências fiscais",
+        "C) promove escrituração digital e integração de informações contábeis e fiscais",
+        "D) pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal",
+        "E) são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de NF-e e EFD é: podem ser cruzadas eletronicamente para identificar inconsistências fiscais."
     },
     {
       "id": "s54",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 3",
-      "q": "Omissão de receitas pode ser objeto de procedimentos de auditoria fiscal.",
+      "t": "SPED",
+      "q": "SPED: promove escrituração digital e integração de informações contábeis e fiscais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+      "e": "O material da disciplina apresenta SPED nesse sentido: promove escrituração digital e integração de informações contábeis e fiscais."
     },
     {
       "id": "s55",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Omissão de receitas pode ser objeto de procedimentos de auditoria fiscal.",
+      "t": "SPED",
+      "q": "Segundo o material, qual alternativa descreve corretamente SPED?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED",
+        "B) podem ser cruzadas eletronicamente para identificar inconsistências fiscais",
+        "C) promove escrituração digital e integração de informações contábeis e fiscais",
+        "D) pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal",
+        "E) são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de SPED é: promove escrituração digital e integração de informações contábeis e fiscais."
     },
     {
       "id": "s56",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 4",
-      "q": "ECD integra o ambiente do SPED.",
+      "t": "Omissão de receitas",
+      "q": "Omissão de receitas: pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+      "e": "O material da disciplina apresenta Omissão de receitas nesse sentido: pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal."
     },
     {
       "id": "s57",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: ECD integra o ambiente do SPED.",
+      "t": "Omissão de receitas",
+      "q": "Segundo o material, qual alternativa descreve corretamente Omissão de receitas?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED",
+        "B) podem ser cruzadas eletronicamente para identificar inconsistências fiscais",
+        "C) promove escrituração digital e integração de informações contábeis e fiscais",
+        "D) pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal",
+        "E) são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Omissão de receitas é: pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal."
     },
     {
       "id": "s58",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 5",
-      "q": "Documentos fiscais eletrônicos favorecem verificações automatizadas.",
+      "t": "Demonstrações auditadas",
+      "q": "Demonstrações auditadas: são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+      "e": "O material da disciplina apresenta Demonstrações auditadas nesse sentido: são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável."
     },
     {
       "id": "s59",
       "s": "Auditoria Fiscal",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Documentos fiscais eletrônicos favorecem verificações automatizadas.",
+      "t": "Demonstrações auditadas",
+      "q": "Segundo o material, qual alternativa descreve corretamente Demonstrações auditadas?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é submetida ao PVA para validação, assinatura e transmissão no ambiente do SPED",
+        "B) podem ser cruzadas eletronicamente para identificar inconsistências fiscais",
+        "C) promove escrituração digital e integração de informações contábeis e fiscais",
+        "D) pode ser identificada mediante procedimentos e cruzamentos de auditoria fiscal",
+        "E) são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Demonstrações auditadas é: são elaboradas pela administração, com supervisão dos responsáveis pela governança quando aplicável."
     },
     {
       "id": "s60",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 1",
-      "q": "O balanço patrimonial evidencia ativos, passivos e patrimônio líquido.",
+      "t": "Patrimônio",
+      "q": "Patrimônio: abrange bens, direitos e obrigações da entidade.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+      "e": "O material da disciplina apresenta Patrimônio nesse sentido: abrange bens, direitos e obrigações da entidade."
     },
     {
       "id": "s61",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: O balanço patrimonial evidencia ativos, passivos e patrimônio líquido.",
+      "t": "Patrimônio",
+      "q": "Segundo o material, qual alternativa descreve corretamente Patrimônio?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) abrange bens, direitos e obrigações da entidade",
+        "B) reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa",
+        "C) são mensurados pelo custo ou valor realizável líquido, dos dois o menor",
+        "D) é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso",
+        "E) corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Patrimônio é: abrange bens, direitos e obrigações da entidade."
     },
     {
       "id": "s62",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 2",
-      "q": "A DRE evidencia o desempenho por meio de receitas e despesas do período.",
+      "t": "Regime de competência",
+      "q": "Regime de competência: reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+      "e": "O material da disciplina apresenta Regime de competência nesse sentido: reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa."
     },
     {
       "id": "s63",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A DRE evidencia o desempenho por meio de receitas e despesas do período.",
+      "t": "Regime de competência",
+      "q": "Segundo o material, qual alternativa descreve corretamente Regime de competência?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) abrange bens, direitos e obrigações da entidade",
+        "B) reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa",
+        "C) são mensurados pelo custo ou valor realizável líquido, dos dois o menor",
+        "D) é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso",
+        "E) corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Regime de competência é: reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa."
     },
     {
       "id": "s64",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 3",
-      "q": "O CPC 01 trata de redução ao valor recuperável de ativos.",
+      "t": "Estoques",
+      "q": "Estoques: são mensurados pelo custo ou valor realizável líquido, dos dois o menor.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+      "e": "O material da disciplina apresenta Estoques nesse sentido: são mensurados pelo custo ou valor realizável líquido, dos dois o menor."
     },
     {
       "id": "s65",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: O CPC 01 trata de redução ao valor recuperável de ativos.",
+      "t": "Estoques",
+      "q": "Segundo o material, qual alternativa descreve corretamente Estoques?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) abrange bens, direitos e obrigações da entidade",
+        "B) reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa",
+        "C) são mensurados pelo custo ou valor realizável líquido, dos dois o menor",
+        "D) é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso",
+        "E) corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Estoques é: são mensurados pelo custo ou valor realizável líquido, dos dois o menor."
     },
     {
       "id": "s66",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 4",
-      "q": "O CPC 25 aborda provisões, passivos contingentes e ativos contingentes.",
+      "t": "Ativo imobilizado",
+      "q": "Ativo imobilizado: é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+      "e": "O material da disciplina apresenta Ativo imobilizado nesse sentido: é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso."
     },
     {
       "id": "s67",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: O CPC 25 aborda provisões, passivos contingentes e ativos contingentes.",
+      "t": "Ativo imobilizado",
+      "q": "Segundo o material, qual alternativa descreve corretamente Ativo imobilizado?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) abrange bens, direitos e obrigações da entidade",
+        "B) reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa",
+        "C) são mensurados pelo custo ou valor realizável líquido, dos dois o menor",
+        "D) é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso",
+        "E) corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Ativo imobilizado é: é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso."
     },
     {
       "id": "s68",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 5",
-      "q": "Escrituração registra fatos contábeis segundo método e critérios próprios da contabilidade.",
+      "t": "Valor recuperável",
+      "q": "Valor recuperável: corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+      "e": "O material da disciplina apresenta Valor recuperável nesse sentido: corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda."
     },
     {
       "id": "s69",
       "s": "Contabilidade Geral",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Escrituração registra fatos contábeis segundo método e critérios próprios da contabilidade.",
+      "t": "Valor recuperável",
+      "q": "Segundo o material, qual alternativa descreve corretamente Valor recuperável?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) abrange bens, direitos e obrigações da entidade",
+        "B) reconhece receitas e despesas conforme os fatos geradores, independentemente do caixa",
+        "C) são mensurados pelo custo ou valor realizável líquido, dos dois o menor",
+        "D) é inicialmente mensurado pelo custo, incluindo gastos necessários para colocá-lo em condições de uso",
+        "E) corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Valor recuperável é: corresponde ao maior entre valor em uso e valor justo líquido das despesas de venda."
     },
     {
       "id": "s70",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 1",
-      "q": "O balanço orçamentário confronta previsão/fixação com a execução de receitas e despesas.",
+      "t": "Objeto da CASP",
+      "q": "Objeto da CASP: é o patrimônio público.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+      "e": "O material da disciplina apresenta Objeto da CASP nesse sentido: é o patrimônio público."
     },
     {
       "id": "s71",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: O balanço orçamentário confronta previsão/fixação com a execução de receitas e despesas.",
+      "t": "Objeto da CASP",
+      "q": "Segundo o material, qual alternativa descreve corretamente Objeto da CASP?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é o patrimônio público",
+        "B) são temporários e sua devolução não depende de autorização legislativa",
+        "C) são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor",
+        "D) exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas",
+        "E) decorre do confronto entre receitas arrecadadas e despesas empenhadas"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Objeto da CASP é: é o patrimônio público."
     },
     {
       "id": "s72",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 2",
-      "q": "O balanço financeiro evidencia ingressos e dispêndios financeiros conforme a estrutura do setor público.",
+      "t": "Ingressos extraorçamentários",
+      "q": "Ingressos extraorçamentários: são temporários e sua devolução não depende de autorização legislativa.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+      "e": "O material da disciplina apresenta Ingressos extraorçamentários nesse sentido: são temporários e sua devolução não depende de autorização legislativa."
     },
     {
       "id": "s73",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: O balanço financeiro evidencia ingressos e dispêndios financeiros conforme a estrutura do setor público.",
+      "t": "Ingressos extraorçamentários",
+      "q": "Segundo o material, qual alternativa descreve corretamente Ingressos extraorçamentários?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é o patrimônio público",
+        "B) são temporários e sua devolução não depende de autorização legislativa",
+        "C) são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor",
+        "D) exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas",
+        "E) decorre do confronto entre receitas arrecadadas e despesas empenhadas"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Ingressos extraorçamentários é: são temporários e sua devolução não depende de autorização legislativa."
     },
     {
       "id": "s74",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 3",
-      "q": "A DVP evidencia variações patrimoniais aumentativas e diminutivas.",
+      "t": "Equivalentes de caixa",
+      "q": "Equivalentes de caixa: são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+      "e": "O material da disciplina apresenta Equivalentes de caixa nesse sentido: são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor."
     },
     {
       "id": "s75",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: A DVP evidencia variações patrimoniais aumentativas e diminutivas.",
+      "t": "Equivalentes de caixa",
+      "q": "Segundo o material, qual alternativa descreve corretamente Equivalentes de caixa?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é o patrimônio público",
+        "B) são temporários e sua devolução não depende de autorização legislativa",
+        "C) são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor",
+        "D) exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas",
+        "E) decorre do confronto entre receitas arrecadadas e despesas empenhadas"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Equivalentes de caixa é: são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor."
     },
     {
       "id": "s76",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 4",
-      "q": "O PCASP padroniza contas aplicáveis à contabilidade do setor público.",
+      "t": "PCASP",
+      "q": "PCASP: exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+      "e": "O material da disciplina apresenta PCASP nesse sentido: exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas."
     },
     {
       "id": "s77",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: O PCASP padroniza contas aplicáveis à contabilidade do setor público.",
+      "t": "PCASP",
+      "q": "Segundo o material, qual alternativa descreve corretamente PCASP?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é o patrimônio público",
+        "B) são temporários e sua devolução não depende de autorização legislativa",
+        "C) são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor",
+        "D) exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas",
+        "E) decorre do confronto entre receitas arrecadadas e despesas empenhadas"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de PCASP é: exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas."
     },
     {
       "id": "s78",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 5",
-      "q": "O MCASP reúne procedimentos contábeis aplicáveis ao setor público.",
+      "t": "Resultado orçamentário",
+      "q": "Resultado orçamentário: decorre do confronto entre receitas arrecadadas e despesas empenhadas.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+      "e": "O material da disciplina apresenta Resultado orçamentário nesse sentido: decorre do confronto entre receitas arrecadadas e despesas empenhadas."
     },
     {
       "id": "s79",
       "s": "Contabilidade Pública",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O MCASP reúne procedimentos contábeis aplicáveis ao setor público.",
+      "t": "Resultado orçamentário",
+      "q": "Segundo o material, qual alternativa descreve corretamente Resultado orçamentário?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é o patrimônio público",
+        "B) são temporários e sua devolução não depende de autorização legislativa",
+        "C) são aplicações de curto prazo, alta liquidez e risco insignificante de mudança de valor",
+        "D) exige integridade dos lançamentos e respeito à natureza da informação nas partidas dobradas",
+        "E) decorre do confronto entre receitas arrecadadas e despesas empenhadas"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Resultado orçamentário é: decorre do confronto entre receitas arrecadadas e despesas empenhadas."
     },
     {
       "id": "s80",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 1",
-      "q": "Git permite controle de versões e trabalho com branches.",
+      "t": "Pseudocódigo",
+      "q": "Pseudocódigo: descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+      "e": "O material da disciplina apresenta Pseudocódigo nesse sentido: descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica."
     },
     {
       "id": "s81",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Git permite controle de versões e trabalho com branches.",
+      "t": "Pseudocódigo",
+      "q": "Segundo o material, qual alternativa descreve corretamente Pseudocódigo?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica",
+        "B) armazenam valores elementares diretamente, enquanto arrays são objetos",
+        "C) interpreta uma string numérica e retorna sua parte inteira conforme as regras da função",
+        "D) permite desenvolver isoladamente e integrar alterações após testes e revisão",
+        "E) permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Pseudocódigo é: descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica."
     },
     {
       "id": "s82",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 2",
-      "q": "Java e JavaScript são linguagens distintas.",
+      "t": "Tipos primitivos em Java",
+      "q": "Tipos primitivos em Java: armazenam valores elementares diretamente, enquanto arrays são objetos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+      "e": "O material da disciplina apresenta Tipos primitivos em Java nesse sentido: armazenam valores elementares diretamente, enquanto arrays são objetos."
     },
     {
       "id": "s83",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Java e JavaScript são linguagens distintas.",
+      "t": "Tipos primitivos em Java",
+      "q": "Segundo o material, qual alternativa descreve corretamente Tipos primitivos em Java?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica",
+        "B) armazenam valores elementares diretamente, enquanto arrays são objetos",
+        "C) interpreta uma string numérica e retorna sua parte inteira conforme as regras da função",
+        "D) permite desenvolver isoladamente e integrar alterações após testes e revisão",
+        "E) permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Tipos primitivos em Java é: armazenam valores elementares diretamente, enquanto arrays são objetos."
     },
     {
       "id": "s84",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 3",
-      "q": "DevSecOps integra práticas de segurança ao ciclo de desenvolvimento e operações.",
+      "t": "parseInt em JavaScript",
+      "q": "parseInt em JavaScript: interpreta uma string numérica e retorna sua parte inteira conforme as regras da função.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+      "e": "O material da disciplina apresenta parseInt em JavaScript nesse sentido: interpreta uma string numérica e retorna sua parte inteira conforme as regras da função."
     },
     {
       "id": "s85",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: DevSecOps integra práticas de segurança ao ciclo de desenvolvimento e operações.",
+      "t": "parseInt em JavaScript",
+      "q": "Segundo o material, qual alternativa descreve corretamente parseInt em JavaScript?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica",
+        "B) armazenam valores elementares diretamente, enquanto arrays são objetos",
+        "C) interpreta uma string numérica e retorna sua parte inteira conforme as regras da função",
+        "D) permite desenvolver isoladamente e integrar alterações após testes e revisão",
+        "E) permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de parseInt em JavaScript é: interpreta uma string numérica e retorna sua parte inteira conforme as regras da função."
     },
     {
       "id": "s86",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 4",
-      "q": "Contêineres empacotam aplicações e dependências de forma isolada.",
+      "t": "Branch no Git",
+      "q": "Branch no Git: permite desenvolver isoladamente e integrar alterações após testes e revisão.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+      "e": "O material da disciplina apresenta Branch no Git nesse sentido: permite desenvolver isoladamente e integrar alterações após testes e revisão."
     },
     {
       "id": "s87",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Contêineres empacotam aplicações e dependências de forma isolada.",
+      "t": "Branch no Git",
+      "q": "Segundo o material, qual alternativa descreve corretamente Branch no Git?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica",
+        "B) armazenam valores elementares diretamente, enquanto arrays são objetos",
+        "C) interpreta uma string numérica e retorna sua parte inteira conforme as regras da função",
+        "D) permite desenvolver isoladamente e integrar alterações após testes e revisão",
+        "E) permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Branch no Git é: permite desenvolver isoladamente e integrar alterações após testes e revisão."
     },
     {
       "id": "s88",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 5",
-      "q": "Mensageria pode desacoplar componentes por meio da troca de mensagens.",
+      "t": "Mensageria",
+      "q": "Mensageria: permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+      "e": "O material da disciplina apresenta Mensageria nesse sentido: permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento."
     },
     {
       "id": "s89",
       "s": "Desenvolvimento de Sistemas",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Mensageria pode desacoplar componentes por meio da troca de mensagens.",
+      "t": "Mensageria",
+      "q": "Segundo o material, qual alternativa descreve corretamente Mensageria?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) descreve algoritmos sem exigir a sintaxe de uma linguagem de programação específica",
+        "B) armazenam valores elementares diretamente, enquanto arrays são objetos",
+        "C) interpreta uma string numérica e retorna sua parte inteira conforme as regras da função",
+        "D) permite desenvolver isoladamente e integrar alterações após testes e revisão",
+        "E) permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Mensageria é: permite comunicação entre componentes por troca de mensagens, favorecendo desacoplamento."
     },
     {
       "id": "s90",
       "s": "Direito Administrativo",
-      "t": "Revisão — 1",
-      "q": "Ato administrativo é tema próprio do regime jurídico-administrativo.",
+      "t": "Inexigibilidade",
+      "q": "Inexigibilidade: ocorre quando há inviabilidade de competição nas hipóteses legais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+      "e": "O material da disciplina apresenta Inexigibilidade nesse sentido: ocorre quando há inviabilidade de competição nas hipóteses legais."
     },
     {
       "id": "s91",
       "s": "Direito Administrativo",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Ato administrativo é tema próprio do regime jurídico-administrativo.",
+      "t": "Inexigibilidade",
+      "q": "Segundo o material, qual alternativa descreve corretamente Inexigibilidade?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) ocorre quando há inviabilidade de competição nas hipóteses legais",
+        "B) é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração",
+        "C) integra o regime jurídico administrativo e possui disciplina própria",
+        "D) deve observar garantias como contraditório e ampla defesa quando aplicáveis",
+        "E) possui elementos e atributos estudados no regime jurídico da Administração"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Inexigibilidade é: ocorre quando há inviabilidade de competição nas hipóteses legais."
     },
     {
       "id": "s92",
       "s": "Direito Administrativo",
-      "t": "Revisão — 2",
-      "q": "A licitação deve observar regras e princípios legais.",
+      "t": "Vencimento",
+      "q": "Vencimento: é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+      "e": "O material da disciplina apresenta Vencimento nesse sentido: é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração."
     },
     {
       "id": "s93",
       "s": "Direito Administrativo",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A licitação deve observar regras e princípios legais.",
+      "t": "Vencimento",
+      "q": "Segundo o material, qual alternativa descreve corretamente Vencimento?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) ocorre quando há inviabilidade de competição nas hipóteses legais",
+        "B) é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração",
+        "C) integra o regime jurídico administrativo e possui disciplina própria",
+        "D) deve observar garantias como contraditório e ampla defesa quando aplicáveis",
+        "E) possui elementos e atributos estudados no regime jurídico da Administração"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Vencimento é: é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração."
     },
     {
       "id": "s94",
       "s": "Direito Administrativo",
-      "t": "Revisão — 3",
-      "q": "Contratos administrativos podem conter prerrogativas próprias da Administração.",
+      "t": "Responsabilidade civil do Estado",
+      "q": "Responsabilidade civil do Estado: integra o regime jurídico administrativo e possui disciplina própria.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+      "e": "O material da disciplina apresenta Responsabilidade civil do Estado nesse sentido: integra o regime jurídico administrativo e possui disciplina própria."
     },
     {
       "id": "s95",
       "s": "Direito Administrativo",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Contratos administrativos podem conter prerrogativas próprias da Administração.",
+      "t": "Responsabilidade civil do Estado",
+      "q": "Segundo o material, qual alternativa descreve corretamente Responsabilidade civil do Estado?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) ocorre quando há inviabilidade de competição nas hipóteses legais",
+        "B) é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração",
+        "C) integra o regime jurídico administrativo e possui disciplina própria",
+        "D) deve observar garantias como contraditório e ampla defesa quando aplicáveis",
+        "E) possui elementos e atributos estudados no regime jurídico da Administração"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Responsabilidade civil do Estado é: integra o regime jurídico administrativo e possui disciplina própria."
     },
     {
       "id": "s96",
       "s": "Direito Administrativo",
-      "t": "Revisão — 4",
-      "q": "A responsabilidade civil do Estado integra o estudo do Direito Administrativo.",
+      "t": "Processo administrativo",
+      "q": "Processo administrativo: deve observar garantias como contraditório e ampla defesa quando aplicáveis.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+      "e": "O material da disciplina apresenta Processo administrativo nesse sentido: deve observar garantias como contraditório e ampla defesa quando aplicáveis."
     },
     {
       "id": "s97",
       "s": "Direito Administrativo",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: A responsabilidade civil do Estado integra o estudo do Direito Administrativo.",
+      "t": "Processo administrativo",
+      "q": "Segundo o material, qual alternativa descreve corretamente Processo administrativo?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) ocorre quando há inviabilidade de competição nas hipóteses legais",
+        "B) é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração",
+        "C) integra o regime jurídico administrativo e possui disciplina própria",
+        "D) deve observar garantias como contraditório e ampla defesa quando aplicáveis",
+        "E) possui elementos e atributos estudados no regime jurídico da Administração"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Processo administrativo é: deve observar garantias como contraditório e ampla defesa quando aplicáveis."
     },
     {
       "id": "s98",
       "s": "Direito Administrativo",
-      "t": "Revisão — 5",
-      "q": "Processo administrativo deve observar contraditório e ampla defesa quando cabíveis.",
+      "t": "Ato administrativo",
+      "q": "Ato administrativo: possui elementos e atributos estudados no regime jurídico da Administração.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+      "e": "O material da disciplina apresenta Ato administrativo nesse sentido: possui elementos e atributos estudados no regime jurídico da Administração."
     },
     {
       "id": "s99",
       "s": "Direito Administrativo",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Processo administrativo deve observar contraditório e ampla defesa quando cabíveis.",
+      "t": "Ato administrativo",
+      "q": "Segundo o material, qual alternativa descreve corretamente Ato administrativo?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) ocorre quando há inviabilidade de competição nas hipóteses legais",
+        "B) é a retribuição pecuniária pelo exercício do cargo, sem se confundir com remuneração",
+        "C) integra o regime jurídico administrativo e possui disciplina própria",
+        "D) deve observar garantias como contraditório e ampla defesa quando aplicáveis",
+        "E) possui elementos e atributos estudados no regime jurídico da Administração"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Ato administrativo é: possui elementos e atributos estudados no regime jurídico da Administração."
     },
     {
       "id": "s100",
       "s": "Direito Constitucional",
-      "t": "Revisão — 1",
-      "q": "Direitos e garantias fundamentais ocupam posição central na Constituição.",
+      "t": "Art. 5º, XLI",
+      "q": "Art. 5º, XLI: determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+      "e": "O material da disciplina apresenta Art. 5º, XLI nesse sentido: determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais."
     },
     {
       "id": "s101",
       "s": "Direito Constitucional",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Direitos e garantias fundamentais ocupam posição central na Constituição.",
+      "t": "Art. 5º, XLI",
+      "q": "Segundo o material, qual alternativa descreve corretamente Art. 5º, XLI?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais",
+        "B) o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito",
+        "C) pode alcançar certidões forenses quando preenchidos os requisitos constitucionais",
+        "D) em regra, não supera oito horas diárias e quarenta e quatro semanais",
+        "E) pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Art. 5º, XLI é: determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais."
     },
     {
       "id": "s102",
       "s": "Direito Constitucional",
-      "t": "Revisão — 2",
-      "q": "A organização político-administrativa disciplina a estrutura federativa do Estado.",
+      "t": "Direito de reunião",
+      "q": "Direito de reunião: o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+      "e": "O material da disciplina apresenta Direito de reunião nesse sentido: o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito."
     },
     {
       "id": "s103",
       "s": "Direito Constitucional",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A organização político-administrativa disciplina a estrutura federativa do Estado.",
+      "t": "Direito de reunião",
+      "q": "Segundo o material, qual alternativa descreve corretamente Direito de reunião?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais",
+        "B) o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito",
+        "C) pode alcançar certidões forenses quando preenchidos os requisitos constitucionais",
+        "D) em regra, não supera oito horas diárias e quarenta e quatro semanais",
+        "E) pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Direito de reunião é: o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito."
     },
     {
       "id": "s104",
       "s": "Direito Constitucional",
-      "t": "Revisão — 3",
-      "q": "O processo legislativo disciplina a formação das espécies normativas.",
+      "t": "Gratuidade de certidões",
+      "q": "Gratuidade de certidões: pode alcançar certidões forenses quando preenchidos os requisitos constitucionais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+      "e": "O material da disciplina apresenta Gratuidade de certidões nesse sentido: pode alcançar certidões forenses quando preenchidos os requisitos constitucionais."
     },
     {
       "id": "s105",
       "s": "Direito Constitucional",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: O processo legislativo disciplina a formação das espécies normativas.",
+      "t": "Gratuidade de certidões",
+      "q": "Segundo o material, qual alternativa descreve corretamente Gratuidade de certidões?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais",
+        "B) o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito",
+        "C) pode alcançar certidões forenses quando preenchidos os requisitos constitucionais",
+        "D) em regra, não supera oito horas diárias e quarenta e quatro semanais",
+        "E) pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Gratuidade de certidões é: pode alcançar certidões forenses quando preenchidos os requisitos constitucionais."
     },
     {
       "id": "s106",
       "s": "Direito Constitucional",
-      "t": "Revisão — 4",
-      "q": "O controle de constitucionalidade verifica compatibilidade de atos normativos com a Constituição.",
+      "t": "Jornada constitucional",
+      "q": "Jornada constitucional: em regra, não supera oito horas diárias e quarenta e quatro semanais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+      "e": "O material da disciplina apresenta Jornada constitucional nesse sentido: em regra, não supera oito horas diárias e quarenta e quatro semanais."
     },
     {
       "id": "s107",
       "s": "Direito Constitucional",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: O controle de constitucionalidade verifica compatibilidade de atos normativos com a Constituição.",
+      "t": "Jornada constitucional",
+      "q": "Segundo o material, qual alternativa descreve corretamente Jornada constitucional?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais",
+        "B) o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito",
+        "C) pode alcançar certidões forenses quando preenchidos os requisitos constitucionais",
+        "D) em regra, não supera oito horas diárias e quarenta e quatro semanais",
+        "E) pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Jornada constitucional é: em regra, não supera oito horas diárias e quarenta e quatro semanais."
     },
     {
       "id": "s108",
       "s": "Direito Constitucional",
-      "t": "Revisão — 5",
-      "q": "A Constituição disciplina os Poderes Executivo, Legislativo e Judiciário.",
+      "t": "Controle de constitucionalidade",
+      "q": "Controle de constitucionalidade: pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+      "e": "O material da disciplina apresenta Controle de constitucionalidade nesse sentido: pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição."
     },
     {
       "id": "s109",
       "s": "Direito Constitucional",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: A Constituição disciplina os Poderes Executivo, Legislativo e Judiciário.",
+      "t": "Controle de constitucionalidade",
+      "q": "Segundo o material, qual alternativa descreve corretamente Controle de constitucionalidade?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) determina que a lei puna discriminação atentatória dos direitos e liberdades fundamentais",
+        "B) o aviso prévio pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito",
+        "C) pode alcançar certidões forenses quando preenchidos os requisitos constitucionais",
+        "D) em regra, não supera oito horas diárias e quarenta e quatro semanais",
+        "E) pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Controle de constitucionalidade é: pressupõe a supremacia constitucional e verifica compatibilidade de atos com a Constituição."
     },
     {
       "id": "s110",
       "s": "Direito Tributário",
-      "t": "Revisão — 1",
-      "q": "Competência tributária refere-se ao poder constitucionalmente atribuído para instituir tributos.",
+      "t": "Competência tributária",
+      "q": "Competência tributária: é a atribuição constitucional para instituir tributos nos limites previstos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+      "e": "O material da disciplina apresenta Competência tributária nesse sentido: é a atribuição constitucional para instituir tributos nos limites previstos."
     },
     {
       "id": "s111",
       "s": "Direito Tributário",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Competência tributária refere-se ao poder constitucionalmente atribuído para instituir tributos.",
+      "t": "Competência tributária",
+      "q": "Segundo o material, qual alternativa descreve corretamente Competência tributária?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é a atribuição constitucional para instituir tributos nos limites previstos",
+        "B) reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN",
+        "C) é hipótese de exclusão do crédito tributário segundo o CTN",
+        "D) abrange fiscalização e outras atividades disciplinadas pelo CTN",
+        "E) pode ser principal ou acessória conforme a disciplina do CTN"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Competência tributária é: é a atribuição constitucional para instituir tributos nos limites previstos."
     },
     {
       "id": "s112",
       "s": "Direito Tributário",
-      "t": "Revisão — 2",
-      "q": "A obrigação tributária pode ser principal ou acessória nos termos do CTN.",
+      "t": "Lançamento",
+      "q": "Lançamento: reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+      "e": "O material da disciplina apresenta Lançamento nesse sentido: reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN."
     },
     {
       "id": "s113",
       "s": "Direito Tributário",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A obrigação tributária pode ser principal ou acessória nos termos do CTN.",
+      "t": "Lançamento",
+      "q": "Segundo o material, qual alternativa descreve corretamente Lançamento?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é a atribuição constitucional para instituir tributos nos limites previstos",
+        "B) reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN",
+        "C) é hipótese de exclusão do crédito tributário segundo o CTN",
+        "D) abrange fiscalização e outras atividades disciplinadas pelo CTN",
+        "E) pode ser principal ou acessória conforme a disciplina do CTN"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Lançamento é: reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN."
     },
     {
       "id": "s114",
       "s": "Direito Tributário",
-      "t": "Revisão — 3",
-      "q": "O lançamento relaciona-se à constituição do crédito tributário.",
+      "t": "Isenção",
+      "q": "Isenção: é hipótese de exclusão do crédito tributário segundo o CTN.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+      "e": "O material da disciplina apresenta Isenção nesse sentido: é hipótese de exclusão do crédito tributário segundo o CTN."
     },
     {
       "id": "s115",
       "s": "Direito Tributário",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: O lançamento relaciona-se à constituição do crédito tributário.",
+      "t": "Isenção",
+      "q": "Segundo o material, qual alternativa descreve corretamente Isenção?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é a atribuição constitucional para instituir tributos nos limites previstos",
+        "B) reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN",
+        "C) é hipótese de exclusão do crédito tributário segundo o CTN",
+        "D) abrange fiscalização e outras atividades disciplinadas pelo CTN",
+        "E) pode ser principal ou acessória conforme a disciplina do CTN"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Isenção é: é hipótese de exclusão do crédito tributário segundo o CTN."
     },
     {
       "id": "s116",
       "s": "Direito Tributário",
-      "t": "Revisão — 4",
-      "q": "A isenção é tratada pelo CTN entre as hipóteses de exclusão do crédito tributário.",
+      "t": "Administração tributária",
+      "q": "Administração tributária: abrange fiscalização e outras atividades disciplinadas pelo CTN.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+      "e": "O material da disciplina apresenta Administração tributária nesse sentido: abrange fiscalização e outras atividades disciplinadas pelo CTN."
     },
     {
       "id": "s117",
       "s": "Direito Tributário",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: A isenção é tratada pelo CTN entre as hipóteses de exclusão do crédito tributário.",
+      "t": "Administração tributária",
+      "q": "Segundo o material, qual alternativa descreve corretamente Administração tributária?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é a atribuição constitucional para instituir tributos nos limites previstos",
+        "B) reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN",
+        "C) é hipótese de exclusão do crédito tributário segundo o CTN",
+        "D) abrange fiscalização e outras atividades disciplinadas pelo CTN",
+        "E) pode ser principal ou acessória conforme a disciplina do CTN"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Administração tributária é: abrange fiscalização e outras atividades disciplinadas pelo CTN."
     },
     {
       "id": "s118",
       "s": "Direito Tributário",
-      "t": "Revisão — 5",
-      "q": "A administração tributária abrange atividades de fiscalização.",
+      "t": "Obrigação tributária",
+      "q": "Obrigação tributária: pode ser principal ou acessória conforme a disciplina do CTN.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+      "e": "O material da disciplina apresenta Obrigação tributária nesse sentido: pode ser principal ou acessória conforme a disciplina do CTN."
     },
     {
       "id": "s119",
       "s": "Direito Tributário",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: A administração tributária abrange atividades de fiscalização.",
+      "t": "Obrigação tributária",
+      "q": "Segundo o material, qual alternativa descreve corretamente Obrigação tributária?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é a atribuição constitucional para instituir tributos nos limites previstos",
+        "B) reporta-se à data da ocorrência do fato gerador e constitui o crédito tributário nos termos do CTN",
+        "C) é hipótese de exclusão do crédito tributário segundo o CTN",
+        "D) abrange fiscalização e outras atividades disciplinadas pelo CTN",
+        "E) pode ser principal ou acessória conforme a disciplina do CTN"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Obrigação tributária é: pode ser principal ou acessória conforme a disciplina do CTN."
     },
     {
       "id": "s120",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 1",
-      "q": "Elasticidade mede a sensibilidade de uma variável econômica a mudanças em outra.",
+      "t": "Escassez",
+      "q": "Escassez: decorre da limitação dos recursos diante de necessidades e desejos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+      "e": "O material da disciplina apresenta Escassez nesse sentido: decorre da limitação dos recursos diante de necessidades e desejos."
     },
     {
       "id": "s121",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Elasticidade mede a sensibilidade de uma variável econômica a mudanças em outra.",
+      "t": "Escassez",
+      "q": "Segundo o material, qual alternativa descreve corretamente Escassez?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) decorre da limitação dos recursos diante de necessidades e desejos",
+        "B) mede a sensibilidade de uma variável econômica à alteração de outra",
+        "C) considera receita total menos custos explícitos e implícitos",
+        "D) ocorre quando não é possível melhorar alguém sem piorar outro agente",
+        "E) orienta tributação de acordo com a capacidade econômica do contribuinte"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Escassez é: decorre da limitação dos recursos diante de necessidades e desejos."
     },
     {
       "id": "s122",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 2",
-      "q": "Concorrência perfeita e monopólio são estruturas de mercado distintas.",
+      "t": "Elasticidade",
+      "q": "Elasticidade: mede a sensibilidade de uma variável econômica à alteração de outra.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+      "e": "O material da disciplina apresenta Elasticidade nesse sentido: mede a sensibilidade de uma variável econômica à alteração de outra."
     },
     {
       "id": "s123",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Concorrência perfeita e monopólio são estruturas de mercado distintas.",
+      "t": "Elasticidade",
+      "q": "Segundo o material, qual alternativa descreve corretamente Elasticidade?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) decorre da limitação dos recursos diante de necessidades e desejos",
+        "B) mede a sensibilidade de uma variável econômica à alteração de outra",
+        "C) considera receita total menos custos explícitos e implícitos",
+        "D) ocorre quando não é possível melhorar alguém sem piorar outro agente",
+        "E) orienta tributação de acordo com a capacidade econômica do contribuinte"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Elasticidade é: mede a sensibilidade de uma variável econômica à alteração de outra."
     },
     {
       "id": "s124",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 3",
-      "q": "Receitas, despesas e financiamento estatal integram o estudo das finanças públicas.",
+      "t": "Lucro econômico",
+      "q": "Lucro econômico: considera receita total menos custos explícitos e implícitos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+      "e": "O material da disciplina apresenta Lucro econômico nesse sentido: considera receita total menos custos explícitos e implícitos."
     },
     {
       "id": "s125",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Receitas, despesas e financiamento estatal integram o estudo das finanças públicas.",
+      "t": "Lucro econômico",
+      "q": "Segundo o material, qual alternativa descreve corretamente Lucro econômico?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) decorre da limitação dos recursos diante de necessidades e desejos",
+        "B) mede a sensibilidade de uma variável econômica à alteração de outra",
+        "C) considera receita total menos custos explícitos e implícitos",
+        "D) ocorre quando não é possível melhorar alguém sem piorar outro agente",
+        "E) orienta tributação de acordo com a capacidade econômica do contribuinte"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Lucro econômico é: considera receita total menos custos explícitos e implícitos."
     },
     {
       "id": "s126",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 4",
-      "q": "Taxa de câmbio relaciona valores de moedas distintas.",
+      "t": "Eficiência de Pareto",
+      "q": "Eficiência de Pareto: ocorre quando não é possível melhorar alguém sem piorar outro agente.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+      "e": "O material da disciplina apresenta Eficiência de Pareto nesse sentido: ocorre quando não é possível melhorar alguém sem piorar outro agente."
     },
     {
       "id": "s127",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Taxa de câmbio relaciona valores de moedas distintas.",
+      "t": "Eficiência de Pareto",
+      "q": "Segundo o material, qual alternativa descreve corretamente Eficiência de Pareto?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) decorre da limitação dos recursos diante de necessidades e desejos",
+        "B) mede a sensibilidade de uma variável econômica à alteração de outra",
+        "C) considera receita total menos custos explícitos e implícitos",
+        "D) ocorre quando não é possível melhorar alguém sem piorar outro agente",
+        "E) orienta tributação de acordo com a capacidade econômica do contribuinte"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Eficiência de Pareto é: ocorre quando não é possível melhorar alguém sem piorar outro agente."
     },
     {
       "id": "s128",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 5",
-      "q": "Crédito público pode financiar necessidades do Estado.",
+      "t": "Capacidade de pagamento",
+      "q": "Capacidade de pagamento: orienta tributação de acordo com a capacidade econômica do contribuinte.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+      "e": "O material da disciplina apresenta Capacidade de pagamento nesse sentido: orienta tributação de acordo com a capacidade econômica do contribuinte."
     },
     {
       "id": "s129",
       "s": "Economia + Finanças Públicas",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Crédito público pode financiar necessidades do Estado.",
+      "t": "Capacidade de pagamento",
+      "q": "Segundo o material, qual alternativa descreve corretamente Capacidade de pagamento?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) decorre da limitação dos recursos diante de necessidades e desejos",
+        "B) mede a sensibilidade de uma variável econômica à alteração de outra",
+        "C) considera receita total menos custos explícitos e implícitos",
+        "D) ocorre quando não é possível melhorar alguém sem piorar outro agente",
+        "E) orienta tributação de acordo com a capacidade econômica do contribuinte"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Capacidade de pagamento é: orienta tributação de acordo com a capacidade econômica do contribuinte."
     },
     {
       "id": "s130",
       "s": "Engenharia de Software",
-      "t": "Revisão — 1",
-      "q": "Scrum organiza trabalho de forma iterativa e incremental.",
+      "t": "Scrum",
+      "q": "Scrum: é uma abordagem ágil de desenvolvimento iterativo e incremental.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+      "e": "O material da disciplina apresenta Scrum nesse sentido: é uma abordagem ágil de desenvolvimento iterativo e incremental."
     },
     {
       "id": "s131",
       "s": "Engenharia de Software",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Scrum organiza trabalho de forma iterativa e incremental.",
+      "t": "Scrum",
+      "q": "Segundo o material, qual alternativa descreve corretamente Scrum?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é uma abordagem ágil de desenvolvimento iterativo e incremental",
+        "B) visualiza o fluxo de trabalho e pode limitar trabalho em andamento",
+        "C) integra a escrita de testes ao processo de desenvolvimento",
+        "D) simula comportamentos específicos necessários a cenários de teste",
+        "E) é uma notação utilizada para modelar processos de negócio"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Scrum é: é uma abordagem ágil de desenvolvimento iterativo e incremental."
     },
     {
       "id": "s132",
       "s": "Engenharia de Software",
-      "t": "Revisão — 2",
-      "q": "Kanban utiliza visualização do fluxo e controle do trabalho em andamento.",
+      "t": "Kanban",
+      "q": "Kanban: visualiza o fluxo de trabalho e pode limitar trabalho em andamento.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+      "e": "O material da disciplina apresenta Kanban nesse sentido: visualiza o fluxo de trabalho e pode limitar trabalho em andamento."
     },
     {
       "id": "s133",
       "s": "Engenharia de Software",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Kanban utiliza visualização do fluxo e controle do trabalho em andamento.",
+      "t": "Kanban",
+      "q": "Segundo o material, qual alternativa descreve corretamente Kanban?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é uma abordagem ágil de desenvolvimento iterativo e incremental",
+        "B) visualiza o fluxo de trabalho e pode limitar trabalho em andamento",
+        "C) integra a escrita de testes ao processo de desenvolvimento",
+        "D) simula comportamentos específicos necessários a cenários de teste",
+        "E) é uma notação utilizada para modelar processos de negócio"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Kanban é: visualiza o fluxo de trabalho e pode limitar trabalho em andamento."
     },
     {
       "id": "s134",
       "s": "Engenharia de Software",
-      "t": "Revisão — 3",
-      "q": "TDD enfatiza testes no processo de desenvolvimento.",
+      "t": "TDD",
+      "q": "TDD: integra a escrita de testes ao processo de desenvolvimento.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+      "e": "O material da disciplina apresenta TDD nesse sentido: integra a escrita de testes ao processo de desenvolvimento."
     },
     {
       "id": "s135",
       "s": "Engenharia de Software",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: TDD enfatiza testes no processo de desenvolvimento.",
+      "t": "TDD",
+      "q": "Segundo o material, qual alternativa descreve corretamente TDD?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é uma abordagem ágil de desenvolvimento iterativo e incremental",
+        "B) visualiza o fluxo de trabalho e pode limitar trabalho em andamento",
+        "C) integra a escrita de testes ao processo de desenvolvimento",
+        "D) simula comportamentos específicos necessários a cenários de teste",
+        "E) é uma notação utilizada para modelar processos de negócio"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de TDD é: integra a escrita de testes ao processo de desenvolvimento."
     },
     {
       "id": "s136",
       "s": "Engenharia de Software",
-      "t": "Revisão — 4",
-      "q": "Arquitetura orientada a serviços organiza funcionalidades como serviços interoperáveis.",
+      "t": "Mock object",
+      "q": "Mock object: simula comportamentos específicos necessários a cenários de teste.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+      "e": "O material da disciplina apresenta Mock object nesse sentido: simula comportamentos específicos necessários a cenários de teste."
     },
     {
       "id": "s137",
       "s": "Engenharia de Software",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Arquitetura orientada a serviços organiza funcionalidades como serviços interoperáveis.",
+      "t": "Mock object",
+      "q": "Segundo o material, qual alternativa descreve corretamente Mock object?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é uma abordagem ágil de desenvolvimento iterativo e incremental",
+        "B) visualiza o fluxo de trabalho e pode limitar trabalho em andamento",
+        "C) integra a escrita de testes ao processo de desenvolvimento",
+        "D) simula comportamentos específicos necessários a cenários de teste",
+        "E) é uma notação utilizada para modelar processos de negócio"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Mock object é: simula comportamentos específicos necessários a cenários de teste."
     },
     {
       "id": "s138",
       "s": "Engenharia de Software",
-      "t": "Revisão — 5",
-      "q": "BPMN é utilizada na modelagem de processos de negócio.",
+      "t": "BPMN",
+      "q": "BPMN: é uma notação utilizada para modelar processos de negócio.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+      "e": "O material da disciplina apresenta BPMN nesse sentido: é uma notação utilizada para modelar processos de negócio."
     },
     {
       "id": "s139",
       "s": "Engenharia de Software",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: BPMN é utilizada na modelagem de processos de negócio.",
+      "t": "BPMN",
+      "q": "Segundo o material, qual alternativa descreve corretamente BPMN?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é uma abordagem ágil de desenvolvimento iterativo e incremental",
+        "B) visualiza o fluxo de trabalho e pode limitar trabalho em andamento",
+        "C) integra a escrita de testes ao processo de desenvolvimento",
+        "D) simula comportamentos específicos necessários a cenários de teste",
+        "E) é uma notação utilizada para modelar processos de negócio"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de BPMN é: é uma notação utilizada para modelar processos de negócio."
     },
     {
       "id": "s140",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 1",
-      "q": "A média aritmética é uma medida de tendência central.",
+      "t": "Inferência estatística",
+      "q": "Inferência estatística: tira conclusões sobre uma população com base em amostra e envolve incerteza.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+      "e": "O material da disciplina apresenta Inferência estatística nesse sentido: tira conclusões sobre uma população com base em amostra e envolve incerteza."
     },
     {
       "id": "s141",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: A média aritmética é uma medida de tendência central.",
+      "t": "Inferência estatística",
+      "q": "Segundo o material, qual alternativa descreve corretamente Inferência estatística?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) tira conclusões sobre uma população com base em amostra e envolve incerteza",
+        "B) é o valor central de um conjunto de dados ordenados",
+        "C) é o valor que ocorre com maior frequência",
+        "D) é a diferença entre o maior e o menor valor do conjunto",
+        "E) quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Inferência estatística é: tira conclusões sobre uma população com base em amostra e envolve incerteza."
     },
     {
       "id": "s142",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 2",
-      "q": "A mediana é uma medida separatriz ligada à posição central dos dados ordenados.",
+      "t": "Mediana",
+      "q": "Mediana: é o valor central de um conjunto de dados ordenados.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+      "e": "O material da disciplina apresenta Mediana nesse sentido: é o valor central de um conjunto de dados ordenados."
     },
     {
       "id": "s143",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A mediana é uma medida separatriz ligada à posição central dos dados ordenados.",
+      "t": "Mediana",
+      "q": "Segundo o material, qual alternativa descreve corretamente Mediana?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) tira conclusões sobre uma população com base em amostra e envolve incerteza",
+        "B) é o valor central de um conjunto de dados ordenados",
+        "C) é o valor que ocorre com maior frequência",
+        "D) é a diferença entre o maior e o menor valor do conjunto",
+        "E) quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Mediana é: é o valor central de um conjunto de dados ordenados."
     },
     {
       "id": "s144",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 3",
-      "q": "Variância e desvio padrão são medidas de dispersão.",
+      "t": "Moda",
+      "q": "Moda: é o valor que ocorre com maior frequência.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+      "e": "O material da disciplina apresenta Moda nesse sentido: é o valor que ocorre com maior frequência."
     },
     {
       "id": "s145",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Variância e desvio padrão são medidas de dispersão.",
+      "t": "Moda",
+      "q": "Segundo o material, qual alternativa descreve corretamente Moda?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) tira conclusões sobre uma população com base em amostra e envolve incerteza",
+        "B) é o valor central de um conjunto de dados ordenados",
+        "C) é o valor que ocorre com maior frequência",
+        "D) é a diferença entre o maior e o menor valor do conjunto",
+        "E) quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Moda é: é o valor que ocorre com maior frequência."
     },
     {
       "id": "s146",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 4",
-      "q": "Análise combinatória auxilia a contagem em problemas de probabilidade.",
+      "t": "Amplitude total",
+      "q": "Amplitude total: é a diferença entre o maior e o menor valor do conjunto.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+      "e": "O material da disciplina apresenta Amplitude total nesse sentido: é a diferença entre o maior e o menor valor do conjunto."
     },
     {
       "id": "s147",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Análise combinatória auxilia a contagem em problemas de probabilidade.",
+      "t": "Amplitude total",
+      "q": "Segundo o material, qual alternativa descreve corretamente Amplitude total?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) tira conclusões sobre uma população com base em amostra e envolve incerteza",
+        "B) é o valor central de um conjunto de dados ordenados",
+        "C) é o valor que ocorre com maior frequência",
+        "D) é a diferença entre o maior e o menor valor do conjunto",
+        "E) quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Amplitude total é: é a diferença entre o maior e o menor valor do conjunto."
     },
     {
       "id": "s148",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 5",
-      "q": "Amostragem estuda procedimentos para selecionar subconjuntos de uma população.",
+      "t": "Tamanho da amostra",
+      "q": "Tamanho da amostra: quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+      "e": "O material da disciplina apresenta Tamanho da amostra nesse sentido: quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa."
     },
     {
       "id": "s149",
       "s": "Estatística e Probabilidade",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Amostragem estuda procedimentos para selecionar subconjuntos de uma população.",
+      "t": "Tamanho da amostra",
+      "q": "Segundo o material, qual alternativa descreve corretamente Tamanho da amostra?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) tira conclusões sobre uma população com base em amostra e envolve incerteza",
+        "B) é o valor central de um conjunto de dados ordenados",
+        "C) é o valor que ocorre com maior frequência",
+        "D) é a diferença entre o maior e o menor valor do conjunto",
+        "E) quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Tamanho da amostra é: quando aumentado, tende a reduzir o erro amostral e elevar a precisão da estimativa."
     },
     {
       "id": "s150",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 1",
-      "q": "PPA, LDO e LOA integram o sistema brasileiro de planejamento e orçamento.",
+      "t": "Não vinculação",
+      "q": "Não vinculação: veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+      "e": "O material da disciplina apresenta Não vinculação nesse sentido: veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais."
     },
     {
       "id": "s151",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: PPA, LDO e LOA integram o sistema brasileiro de planejamento e orçamento.",
+      "t": "Não vinculação",
+      "q": "Segundo o material, qual alternativa descreve corretamente Não vinculação?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais",
+        "B) destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento",
+        "C) é classificada como receita de capital, e não receita patrimonial",
+        "D) inclui créditos tributários ou não tributários regularmente inscritos após o vencimento",
+        "E) não se aplicam necessariamente todos a todas as modalidades de receita orçamentária"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Não vinculação é: veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais."
     },
     {
       "id": "s152",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 2",
-      "q": "Créditos adicionais permitem alterações orçamentárias nas hipóteses legais.",
+      "t": "Crédito extraordinário",
+      "q": "Crédito extraordinário: destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+      "e": "O material da disciplina apresenta Crédito extraordinário nesse sentido: destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento."
     },
     {
       "id": "s153",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Créditos adicionais permitem alterações orçamentárias nas hipóteses legais.",
+      "t": "Crédito extraordinário",
+      "q": "Segundo o material, qual alternativa descreve corretamente Crédito extraordinário?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais",
+        "B) destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento",
+        "C) é classificada como receita de capital, e não receita patrimonial",
+        "D) inclui créditos tributários ou não tributários regularmente inscritos após o vencimento",
+        "E) não se aplicam necessariamente todos a todas as modalidades de receita orçamentária"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Crédito extraordinário é: destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento."
     },
     {
       "id": "s154",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 3",
-      "q": "Receita e despesa públicas possuem estágios na execução orçamentária.",
+      "t": "Alienação de bens",
+      "q": "Alienação de bens: é classificada como receita de capital, e não receita patrimonial.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+      "e": "O material da disciplina apresenta Alienação de bens nesse sentido: é classificada como receita de capital, e não receita patrimonial."
     },
     {
       "id": "s155",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Receita e despesa públicas possuem estágios na execução orçamentária.",
+      "t": "Alienação de bens",
+      "q": "Segundo o material, qual alternativa descreve corretamente Alienação de bens?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais",
+        "B) destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento",
+        "C) é classificada como receita de capital, e não receita patrimonial",
+        "D) inclui créditos tributários ou não tributários regularmente inscritos após o vencimento",
+        "E) não se aplicam necessariamente todos a todas as modalidades de receita orçamentária"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Alienação de bens é: é classificada como receita de capital, e não receita patrimonial."
     },
     {
       "id": "s156",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 4",
-      "q": "Restos a pagar relacionam-se a despesas empenhadas e não pagas até o encerramento do exercício, conforme as regras aplicáveis.",
+      "t": "Dívida ativa",
+      "q": "Dívida ativa: inclui créditos tributários ou não tributários regularmente inscritos após o vencimento.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+      "e": "O material da disciplina apresenta Dívida ativa nesse sentido: inclui créditos tributários ou não tributários regularmente inscritos após o vencimento."
     },
     {
       "id": "s157",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Restos a pagar relacionam-se a despesas empenhadas e não pagas até o encerramento do exercício, conforme as regras aplicáveis.",
+      "t": "Dívida ativa",
+      "q": "Segundo o material, qual alternativa descreve corretamente Dívida ativa?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais",
+        "B) destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento",
+        "C) é classificada como receita de capital, e não receita patrimonial",
+        "D) inclui créditos tributários ou não tributários regularmente inscritos após o vencimento",
+        "E) não se aplicam necessariamente todos a todas as modalidades de receita orçamentária"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Dívida ativa é: inclui créditos tributários ou não tributários regularmente inscritos após o vencimento."
     },
     {
       "id": "s158",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 5",
-      "q": "A LRF estabelece normas voltadas à responsabilidade na gestão fiscal.",
+      "t": "Estágios da receita",
+      "q": "Estágios da receita: não se aplicam necessariamente todos a todas as modalidades de receita orçamentária.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+      "e": "O material da disciplina apresenta Estágios da receita nesse sentido: não se aplicam necessariamente todos a todas as modalidades de receita orçamentária."
     },
     {
       "id": "s159",
       "s": "Finanças Públicas (Orçamento + LRF)",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: A LRF estabelece normas voltadas à responsabilidade na gestão fiscal.",
+      "t": "Estágios da receita",
+      "q": "Segundo o material, qual alternativa descreve corretamente Estágios da receita?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) veda, como regra, a vinculação de receitas de impostos, ressalvadas exceções constitucionais",
+        "B) destina-se a despesas urgentes e imprevisíveis nas condições previstas no ordenamento",
+        "C) é classificada como receita de capital, e não receita patrimonial",
+        "D) inclui créditos tributários ou não tributários regularmente inscritos após o vencimento",
+        "E) não se aplicam necessariamente todos a todas as modalidades de receita orçamentária"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Estágios da receita é: não se aplicam necessariamente todos a todas as modalidades de receita orçamentária."
     },
     {
       "id": "s160",
       "s": "Forense Computacional",
-      "t": "Revisão — 1",
-      "q": "Imagem forense de disco permite análise preservando a mídia original.",
+      "t": "Análise de ambiente virtualizado",
+      "q": "Análise de ambiente virtualizado: pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+      "e": "O material da disciplina apresenta Análise de ambiente virtualizado nesse sentido: pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais."
     },
     {
       "id": "s161",
       "s": "Forense Computacional",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Imagem forense de disco permite análise preservando a mídia original.",
+      "t": "Análise de ambiente virtualizado",
+      "q": "Segundo o material, qual alternativa descreve corretamente Análise de ambiente virtualizado?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais",
+        "B) permite examinar uma cópia da mídia preservando o original",
+        "C) é empregado para verificar integridade de evidências digitais",
+        "D) usa a mesma chave para cifrar e decifrar",
+        "E) oculta a existência da informação dentro de outro conteúdo"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Análise de ambiente virtualizado é: pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais."
     },
     {
       "id": "s162",
       "s": "Forense Computacional",
-      "t": "Revisão — 2",
-      "q": "Hash pode auxiliar na verificação de integridade de evidências digitais.",
+      "t": "Imagem forense",
+      "q": "Imagem forense: permite examinar uma cópia da mídia preservando o original.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+      "e": "O material da disciplina apresenta Imagem forense nesse sentido: permite examinar uma cópia da mídia preservando o original."
     },
     {
       "id": "s163",
       "s": "Forense Computacional",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Hash pode auxiliar na verificação de integridade de evidências digitais.",
+      "t": "Imagem forense",
+      "q": "Segundo o material, qual alternativa descreve corretamente Imagem forense?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais",
+        "B) permite examinar uma cópia da mídia preservando o original",
+        "C) é empregado para verificar integridade de evidências digitais",
+        "D) usa a mesma chave para cifrar e decifrar",
+        "E) oculta a existência da informação dentro de outro conteúdo"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Imagem forense é: permite examinar uma cópia da mídia preservando o original."
     },
     {
       "id": "s164",
       "s": "Forense Computacional",
-      "t": "Revisão — 3",
-      "q": "Cadeia de custódia documenta o tratamento da evidência ao longo do processo.",
+      "t": "Hash",
+      "q": "Hash: é empregado para verificar integridade de evidências digitais.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+      "e": "O material da disciplina apresenta Hash nesse sentido: é empregado para verificar integridade de evidências digitais."
     },
     {
       "id": "s165",
       "s": "Forense Computacional",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Cadeia de custódia documenta o tratamento da evidência ao longo do processo.",
+      "t": "Hash",
+      "q": "Segundo o material, qual alternativa descreve corretamente Hash?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais",
+        "B) permite examinar uma cópia da mídia preservando o original",
+        "C) é empregado para verificar integridade de evidências digitais",
+        "D) usa a mesma chave para cifrar e decifrar",
+        "E) oculta a existência da informação dentro de outro conteúdo"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Hash é: é empregado para verificar integridade de evidências digitais."
     },
     {
       "id": "s166",
       "s": "Forense Computacional",
-      "t": "Revisão — 4",
-      "q": "Criptografia pode dificultar o acesso a conteúdo em análise forense.",
+      "t": "Criptografia simétrica",
+      "q": "Criptografia simétrica: usa a mesma chave para cifrar e decifrar.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+      "e": "O material da disciplina apresenta Criptografia simétrica nesse sentido: usa a mesma chave para cifrar e decifrar."
     },
     {
       "id": "s167",
       "s": "Forense Computacional",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Criptografia pode dificultar o acesso a conteúdo em análise forense.",
+      "t": "Criptografia simétrica",
+      "q": "Segundo o material, qual alternativa descreve corretamente Criptografia simétrica?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais",
+        "B) permite examinar uma cópia da mídia preservando o original",
+        "C) é empregado para verificar integridade de evidências digitais",
+        "D) usa a mesma chave para cifrar e decifrar",
+        "E) oculta a existência da informação dentro de outro conteúdo"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Criptografia simétrica é: usa a mesma chave para cifrar e decifrar."
     },
     {
       "id": "s168",
       "s": "Forense Computacional",
-      "t": "Revisão — 5",
-      "q": "Esteganografia busca ocultar a existência de uma informação em outro conteúdo.",
+      "t": "Esteganografia",
+      "q": "Esteganografia: oculta a existência da informação dentro de outro conteúdo.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+      "e": "O material da disciplina apresenta Esteganografia nesse sentido: oculta a existência da informação dentro de outro conteúdo."
     },
     {
       "id": "s169",
       "s": "Forense Computacional",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Esteganografia busca ocultar a existência de uma informação em outro conteúdo.",
+      "t": "Esteganografia",
+      "q": "Segundo o material, qual alternativa descreve corretamente Esteganografia?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode considerar logs de hypervisor, snapshots e arquivos de discos virtuais",
+        "B) permite examinar uma cópia da mídia preservando o original",
+        "C) é empregado para verificar integridade de evidências digitais",
+        "D) usa a mesma chave para cifrar e decifrar",
+        "E) oculta a existência da informação dentro de outro conteúdo"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Esteganografia é: oculta a existência da informação dentro de outro conteúdo."
     },
     {
       "id": "s170",
       "s": "Governança de TI",
-      "t": "Revisão — 1",
-      "q": "No ITIL 4, a cadeia de valor de serviço possui seis atividades.",
+      "t": "Cadeia de valor do ITIL 4",
+      "q": "Cadeia de valor do ITIL 4: é composta por seis atividades de valor de serviço.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+      "e": "O material da disciplina apresenta Cadeia de valor do ITIL 4 nesse sentido: é composta por seis atividades de valor de serviço."
     },
     {
       "id": "s171",
       "s": "Governança de TI",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: No ITIL 4, a cadeia de valor de serviço possui seis atividades.",
+      "t": "Cadeia de valor do ITIL 4",
+      "q": "Segundo o material, qual alternativa descreve corretamente Cadeia de valor do ITIL 4?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é composta por seis atividades de valor de serviço",
+        "B) é uma das atividades da cadeia de valor de serviço",
+        "C) é uma das atividades da cadeia de valor de serviço",
+        "D) é uma das atividades da cadeia de valor de serviço",
+        "E) é uma das atividades da cadeia de valor de serviço"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Cadeia de valor do ITIL 4 é: é composta por seis atividades de valor de serviço."
     },
     {
       "id": "s172",
       "s": "Governança de TI",
-      "t": "Revisão — 2",
-      "q": "Planejar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "t": "Planejar",
+      "q": "Planejar: é uma das atividades da cadeia de valor de serviço.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+      "e": "O material da disciplina apresenta Planejar nesse sentido: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s173",
       "s": "Governança de TI",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Planejar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "t": "Planejar",
+      "q": "Segundo o material, qual alternativa descreve corretamente Planejar?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é composta por seis atividades de valor de serviço",
+        "B) é uma das atividades da cadeia de valor de serviço",
+        "C) é uma das atividades da cadeia de valor de serviço",
+        "D) é uma das atividades da cadeia de valor de serviço",
+        "E) é uma das atividades da cadeia de valor de serviço"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Planejar é: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s174",
       "s": "Governança de TI",
-      "t": "Revisão — 3",
-      "q": "Engajar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "t": "Engajar",
+      "q": "Engajar: é uma das atividades da cadeia de valor de serviço.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+      "e": "O material da disciplina apresenta Engajar nesse sentido: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s175",
       "s": "Governança de TI",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Engajar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "t": "Engajar",
+      "q": "Segundo o material, qual alternativa descreve corretamente Engajar?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é composta por seis atividades de valor de serviço",
+        "B) é uma das atividades da cadeia de valor de serviço",
+        "C) é uma das atividades da cadeia de valor de serviço",
+        "D) é uma das atividades da cadeia de valor de serviço",
+        "E) é uma das atividades da cadeia de valor de serviço"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Engajar é: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s176",
       "s": "Governança de TI",
-      "t": "Revisão — 4",
-      "q": "Entregar e suportar integra a cadeia de valor de serviço do ITIL 4.",
+      "t": "Obter/construir",
+      "q": "Obter/construir: é uma das atividades da cadeia de valor de serviço.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+      "e": "O material da disciplina apresenta Obter/construir nesse sentido: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s177",
       "s": "Governança de TI",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Entregar e suportar integra a cadeia de valor de serviço do ITIL 4.",
+      "t": "Obter/construir",
+      "q": "Segundo o material, qual alternativa descreve corretamente Obter/construir?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é composta por seis atividades de valor de serviço",
+        "B) é uma das atividades da cadeia de valor de serviço",
+        "C) é uma das atividades da cadeia de valor de serviço",
+        "D) é uma das atividades da cadeia de valor de serviço",
+        "E) é uma das atividades da cadeia de valor de serviço"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Obter/construir é: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s178",
       "s": "Governança de TI",
-      "t": "Revisão — 5",
-      "q": "Melhoria contínua integra o sistema de valor de serviço do ITIL 4.",
+      "t": "Entregar e suportar",
+      "q": "Entregar e suportar: é uma das atividades da cadeia de valor de serviço.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+      "e": "O material da disciplina apresenta Entregar e suportar nesse sentido: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s179",
       "s": "Governança de TI",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Melhoria contínua integra o sistema de valor de serviço do ITIL 4.",
+      "t": "Entregar e suportar",
+      "q": "Segundo o material, qual alternativa descreve corretamente Entregar e suportar?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é composta por seis atividades de valor de serviço",
+        "B) é uma das atividades da cadeia de valor de serviço",
+        "C) é uma das atividades da cadeia de valor de serviço",
+        "D) é uma das atividades da cadeia de valor de serviço",
+        "E) é uma das atividades da cadeia de valor de serviço"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Entregar e suportar é: é uma das atividades da cadeia de valor de serviço."
     },
     {
       "id": "s180",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 1",
-      "q": "CRISP-DM é um modelo de referência para projetos de mineração e ciência de dados.",
+      "t": "Correlação",
+      "q": "Correlação: não implica, por si só, causalidade.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+      "e": "O material da disciplina apresenta Correlação nesse sentido: não implica, por si só, causalidade."
     },
     {
       "id": "s181",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: CRISP-DM é um modelo de referência para projetos de mineração e ciência de dados.",
+      "t": "Correlação",
+      "q": "Segundo o material, qual alternativa descreve corretamente Correlação?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) não implica, por si só, causalidade",
+        "B) determina que uma transação seja concluída integralmente ou não produza seus efeitos",
+        "C) identifica de forma única as tuplas de uma relação",
+        "D) armazena grandes volumes de dados, inclusive em formato bruto",
+        "E) coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Correlação é: não implica, por si só, causalidade."
     },
     {
       "id": "s182",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 2",
-      "q": "Clusterização é uma técnica de agrupamento de dados.",
+      "t": "Atomicidade",
+      "q": "Atomicidade: determina que uma transação seja concluída integralmente ou não produza seus efeitos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+      "e": "O material da disciplina apresenta Atomicidade nesse sentido: determina que uma transação seja concluída integralmente ou não produza seus efeitos."
     },
     {
       "id": "s183",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Clusterização é uma técnica de agrupamento de dados.",
+      "t": "Atomicidade",
+      "q": "Segundo o material, qual alternativa descreve corretamente Atomicidade?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) não implica, por si só, causalidade",
+        "B) determina que uma transação seja concluída integralmente ou não produza seus efeitos",
+        "C) identifica de forma única as tuplas de uma relação",
+        "D) armazena grandes volumes de dados, inclusive em formato bruto",
+        "E) coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Atomicidade é: determina que uma transação seja concluída integralmente ou não produza seus efeitos."
     },
     {
       "id": "s184",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 3",
-      "q": "Aprendizado supervisionado utiliza exemplos rotulados no treinamento.",
+      "t": "Chave primária",
+      "q": "Chave primária: identifica de forma única as tuplas de uma relação.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+      "e": "O material da disciplina apresenta Chave primária nesse sentido: identifica de forma única as tuplas de uma relação."
     },
     {
       "id": "s185",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Aprendizado supervisionado utiliza exemplos rotulados no treinamento.",
+      "t": "Chave primária",
+      "q": "Segundo o material, qual alternativa descreve corretamente Chave primária?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) não implica, por si só, causalidade",
+        "B) determina que uma transação seja concluída integralmente ou não produza seus efeitos",
+        "C) identifica de forma única as tuplas de uma relação",
+        "D) armazena grandes volumes de dados, inclusive em formato bruto",
+        "E) coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Chave primária é: identifica de forma única as tuplas de uma relação."
     },
     {
       "id": "s186",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 4",
-      "q": "Pré-processamento pode incluir limpeza e transformação de dados antes da modelagem.",
+      "t": "Data lake",
+      "q": "Data lake: armazena grandes volumes de dados, inclusive em formato bruto.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+      "e": "O material da disciplina apresenta Data lake nesse sentido: armazena grandes volumes de dados, inclusive em formato bruto."
     },
     {
       "id": "s187",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Pré-processamento pode incluir limpeza e transformação de dados antes da modelagem.",
+      "t": "Data lake",
+      "q": "Segundo o material, qual alternativa descreve corretamente Data lake?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) não implica, por si só, causalidade",
+        "B) determina que uma transação seja concluída integralmente ou não produza seus efeitos",
+        "C) identifica de forma única as tuplas de uma relação",
+        "D) armazena grandes volumes de dados, inclusive em formato bruto",
+        "E) coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Data lake é: armazena grandes volumes de dados, inclusive em formato bruto."
     },
     {
       "id": "s188",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 5",
-      "q": "O teorema CAP trata de propriedades e compromissos em sistemas distribuídos.",
+      "t": "Normalização",
+      "q": "Normalização: coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+      "e": "O material da disciplina apresenta Normalização nesse sentido: coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija."
     },
     {
       "id": "s189",
       "s": "Inteligência Artificial e Ciência de Dados",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O teorema CAP trata de propriedades e compromissos em sistemas distribuídos.",
+      "t": "Normalização",
+      "q": "Segundo o material, qual alternativa descreve corretamente Normalização?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) não implica, por si só, causalidade",
+        "B) determina que uma transação seja concluída integralmente ou não produza seus efeitos",
+        "C) identifica de forma única as tuplas de uma relação",
+        "D) armazena grandes volumes de dados, inclusive em formato bruto",
+        "E) coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Normalização é: coloca variáveis em escalas comparáveis, embora nem todo algoritmo a exija."
     },
     {
       "id": "s190",
       "s": "LTE 1",
-      "t": "Revisão — 1",
-      "q": "Na importação, o desembaraço aduaneiro pode ser relevante para o fato gerador do ICMS.",
+      "t": "Não cumulatividade do ICMS",
+      "q": "Não cumulatividade do ICMS: permite compensação entre débitos e créditos do imposto.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+      "e": "O material da disciplina apresenta Não cumulatividade do ICMS nesse sentido: permite compensação entre débitos e créditos do imposto."
     },
     {
       "id": "s191",
       "s": "LTE 1",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Na importação, o desembaraço aduaneiro pode ser relevante para o fato gerador do ICMS.",
+      "t": "Não cumulatividade do ICMS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Não cumulatividade do ICMS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) permite compensação entre débitos e créditos do imposto",
+        "B) tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador",
+        "C) passou a ter imunidade de ICMS nos termos constitucionais tratados no material",
+        "D) pode ser apropriado segundo as regras específicas do ICMS",
+        "E) é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Não cumulatividade do ICMS é: permite compensação entre débitos e créditos do imposto."
     },
     {
       "id": "s192",
       "s": "LTE 1",
-      "t": "Revisão — 2",
-      "q": "O ICMS integra sua própria base de cálculo nas hipóteses previstas na legislação.",
+      "t": "Importação no ICMS",
+      "q": "Importação no ICMS: tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+      "e": "O material da disciplina apresenta Importação no ICMS nesse sentido: tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador."
     },
     {
       "id": "s193",
       "s": "LTE 1",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: O ICMS integra sua própria base de cálculo nas hipóteses previstas na legislação.",
+      "t": "Importação no ICMS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Importação no ICMS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) permite compensação entre débitos e créditos do imposto",
+        "B) tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador",
+        "C) passou a ter imunidade de ICMS nos termos constitucionais tratados no material",
+        "D) pode ser apropriado segundo as regras específicas do ICMS",
+        "E) é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Importação no ICMS é: tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador."
     },
     {
       "id": "s194",
       "s": "LTE 1",
-      "t": "Revisão — 3",
-      "q": "A Lei Kandir disciplina normas gerais relativas ao ICMS.",
+      "t": "Exportação",
+      "q": "Exportação: passou a ter imunidade de ICMS nos termos constitucionais tratados no material.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+      "e": "O material da disciplina apresenta Exportação nesse sentido: passou a ter imunidade de ICMS nos termos constitucionais tratados no material."
     },
     {
       "id": "s195",
       "s": "LTE 1",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: A Lei Kandir disciplina normas gerais relativas ao ICMS.",
+      "t": "Exportação",
+      "q": "Segundo o material, qual alternativa descreve corretamente Exportação?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) permite compensação entre débitos e créditos do imposto",
+        "B) tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador",
+        "C) passou a ter imunidade de ICMS nos termos constitucionais tratados no material",
+        "D) pode ser apropriado segundo as regras específicas do ICMS",
+        "E) é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Exportação é: passou a ter imunidade de ICMS nos termos constitucionais tratados no material."
     },
     {
       "id": "s196",
       "s": "LTE 1",
-      "t": "Revisão — 4",
-      "q": "A apropriação de crédito de ICMS relativo a ativo imobilizado observa regras específicas.",
+      "t": "Crédito do ativo imobilizado",
+      "q": "Crédito do ativo imobilizado: pode ser apropriado segundo as regras específicas do ICMS.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+      "e": "O material da disciplina apresenta Crédito do ativo imobilizado nesse sentido: pode ser apropriado segundo as regras específicas do ICMS."
     },
     {
       "id": "s197",
       "s": "LTE 1",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: A apropriação de crédito de ICMS relativo a ativo imobilizado observa regras específicas.",
+      "t": "Crédito do ativo imobilizado",
+      "q": "Segundo o material, qual alternativa descreve corretamente Crédito do ativo imobilizado?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) permite compensação entre débitos e créditos do imposto",
+        "B) tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador",
+        "C) passou a ter imunidade de ICMS nos termos constitucionais tratados no material",
+        "D) pode ser apropriado segundo as regras específicas do ICMS",
+        "E) é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Crédito do ativo imobilizado é: pode ser apropriado segundo as regras específicas do ICMS."
     },
     {
       "id": "s198",
       "s": "LTE 1",
-      "t": "Revisão — 5",
-      "q": "O material de LTE 1 também aborda IPVA e legislação estadual de Alagoas.",
+      "t": "IPVA em Alagoas",
+      "q": "IPVA em Alagoas: é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+      "e": "O material da disciplina apresenta IPVA em Alagoas nesse sentido: é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada."
     },
     {
       "id": "s199",
       "s": "LTE 1",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O material de LTE 1 também aborda IPVA e legislação estadual de Alagoas.",
+      "t": "IPVA em Alagoas",
+      "q": "Segundo o material, qual alternativa descreve corretamente IPVA em Alagoas?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) permite compensação entre débitos e créditos do imposto",
+        "B) tem no desembaraço aduaneiro um momento relevante de ocorrência do fato gerador",
+        "C) passou a ter imunidade de ICMS nos termos constitucionais tratados no material",
+        "D) pode ser apropriado segundo as regras específicas do ICMS",
+        "E) é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de IPVA em Alagoas é: é devido conforme o domicílio ou residência do proprietário, segundo a legislação estudada."
     },
     {
       "id": "s200",
       "s": "LTE 2",
-      "t": "Revisão — 1",
-      "q": "No PAT de Alagoas, a intimação do sujeito passivo segue os meios previstos na legislação estadual.",
+      "t": "Intimação por edital no PAT",
+      "q": "Intimação por edital no PAT: considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+      "e": "O material da disciplina apresenta Intimação por edital no PAT nesse sentido: considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada."
     },
     {
       "id": "s201",
       "s": "LTE 2",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: No PAT de Alagoas, a intimação do sujeito passivo segue os meios previstos na legislação estadual.",
+      "t": "Intimação por edital no PAT",
+      "q": "Segundo o material, qual alternativa descreve corretamente Intimação por edital no PAT?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada",
+        "B) não possuem ordem obrigatória de preferência no PAT estudado",
+        "C) incluem recurso ordinário e recurso especial",
+        "D) é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado",
+        "E) pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Intimação por edital no PAT é: considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada."
     },
     {
       "id": "s202",
       "s": "LTE 2",
-      "t": "Revisão — 2",
-      "q": "A propositura de ação judicial pode repercutir no conhecimento da defesa administrativa.",
+      "t": "Intimação postal e pessoal",
+      "q": "Intimação postal e pessoal: não possuem ordem obrigatória de preferência no PAT estudado.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+      "e": "O material da disciplina apresenta Intimação postal e pessoal nesse sentido: não possuem ordem obrigatória de preferência no PAT estudado."
     },
     {
       "id": "s203",
       "s": "LTE 2",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A propositura de ação judicial pode repercutir no conhecimento da defesa administrativa.",
+      "t": "Intimação postal e pessoal",
+      "q": "Segundo o material, qual alternativa descreve corretamente Intimação postal e pessoal?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada",
+        "B) não possuem ordem obrigatória de preferência no PAT estudado",
+        "C) incluem recurso ordinário e recurso especial",
+        "D) é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado",
+        "E) pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Intimação postal e pessoal é: não possuem ordem obrigatória de preferência no PAT estudado."
     },
     {
       "id": "s204",
       "s": "LTE 2",
-      "t": "Revisão — 3",
-      "q": "Legislação superveniente mais benéfica pode alcançar situações previstas nas regras estudadas do PAT.",
+      "t": "Recursos ao CTE",
+      "q": "Recursos ao CTE: incluem recurso ordinário e recurso especial.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+      "e": "O material da disciplina apresenta Recursos ao CTE nesse sentido: incluem recurso ordinário e recurso especial."
     },
     {
       "id": "s205",
       "s": "LTE 2",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Legislação superveniente mais benéfica pode alcançar situações previstas nas regras estudadas do PAT.",
+      "t": "Recursos ao CTE",
+      "q": "Segundo o material, qual alternativa descreve corretamente Recursos ao CTE?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada",
+        "B) não possuem ordem obrigatória de preferência no PAT estudado",
+        "C) incluem recurso ordinário e recurso especial",
+        "D) é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado",
+        "E) pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Recursos ao CTE é: incluem recurso ordinário e recurso especial."
     },
     {
       "id": "s206",
       "s": "LTE 2",
-      "t": "Revisão — 4",
-      "q": "O ITCMD incide sobre transmissões causa mortis e doações nos termos legais.",
+      "t": "Prazo recursal ao CTE",
+      "q": "Prazo recursal ao CTE: é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+      "e": "O material da disciplina apresenta Prazo recursal ao CTE nesse sentido: é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado."
     },
     {
       "id": "s207",
       "s": "LTE 2",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: O ITCMD incide sobre transmissões causa mortis e doações nos termos legais.",
+      "t": "Prazo recursal ao CTE",
+      "q": "Segundo o material, qual alternativa descreve corretamente Prazo recursal ao CTE?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada",
+        "B) não possuem ordem obrigatória de preferência no PAT estudado",
+        "C) incluem recurso ordinário e recurso especial",
+        "D) é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado",
+        "E) pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Prazo recursal ao CTE é: é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado."
     },
     {
       "id": "s208",
       "s": "LTE 2",
-      "t": "Revisão — 5",
-      "q": "O processo administrativo tributário admite instâncias e recursos conforme a disciplina estadual.",
+      "t": "Ação judicial",
+      "q": "Ação judicial: pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+      "e": "O material da disciplina apresenta Ação judicial nesse sentido: pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário."
     },
     {
       "id": "s209",
       "s": "LTE 2",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O processo administrativo tributário admite instâncias e recursos conforme a disciplina estadual.",
+      "t": "Ação judicial",
+      "q": "Segundo o material, qual alternativa descreve corretamente Ação judicial?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) considera-se feita no primeiro dia útil após sua publicação, segundo a regra estudada",
+        "B) não possuem ordem obrigatória de preferência no PAT estudado",
+        "C) incluem recurso ordinário e recurso especial",
+        "D) é de quinze dias contados da ciência da decisão, conforme o dispositivo estudado",
+        "E) pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Ação judicial é: pode limitar o conhecimento da defesa administrativa sobre matéria também levada ao Judiciário."
     },
     {
       "id": "s210",
       "s": "Matemática Financeira",
-      "t": "Revisão — 1",
-      "q": "Nos juros simples, os juros são calculados segundo o regime simples sobre o capital-base.",
+      "t": "Porcentagem",
+      "q": "Porcentagem: pode ser obtida pela razão entre a parte e o todo.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+      "e": "O material da disciplina apresenta Porcentagem nesse sentido: pode ser obtida pela razão entre a parte e o todo."
     },
     {
       "id": "s211",
       "s": "Matemática Financeira",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: Nos juros simples, os juros são calculados segundo o regime simples sobre o capital-base.",
+      "t": "Porcentagem",
+      "q": "Segundo o material, qual alternativa descreve corretamente Porcentagem?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode ser obtida pela razão entre a parte e o todo",
+        "B) para taxas positivas, corresponde ao capital acrescido dos juros",
+        "C) utilizam capitalização ao longo dos períodos",
+        "D) é obtida pela relação de Fisher e não por simples subtração da inflação",
+        "E) indica rejeição do investimento segundo o critério de valor presente líquido"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Porcentagem é: pode ser obtida pela razão entre a parte e o todo."
     },
     {
       "id": "s212",
       "s": "Matemática Financeira",
-      "t": "Revisão — 2",
-      "q": "Nos juros compostos ocorre capitalização ao longo dos períodos.",
+      "t": "Montante",
+      "q": "Montante: para taxas positivas, corresponde ao capital acrescido dos juros.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+      "e": "O material da disciplina apresenta Montante nesse sentido: para taxas positivas, corresponde ao capital acrescido dos juros."
     },
     {
       "id": "s213",
       "s": "Matemática Financeira",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: Nos juros compostos ocorre capitalização ao longo dos períodos.",
+      "t": "Montante",
+      "q": "Segundo o material, qual alternativa descreve corretamente Montante?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode ser obtida pela razão entre a parte e o todo",
+        "B) para taxas positivas, corresponde ao capital acrescido dos juros",
+        "C) utilizam capitalização ao longo dos períodos",
+        "D) é obtida pela relação de Fisher e não por simples subtração da inflação",
+        "E) indica rejeição do investimento segundo o critério de valor presente líquido"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Montante é: para taxas positivas, corresponde ao capital acrescido dos juros."
     },
     {
       "id": "s214",
       "s": "Matemática Financeira",
-      "t": "Revisão — 3",
-      "q": "Taxas equivalentes produzem resultado financeiro equivalente em horizonte temporal compatível.",
+      "t": "Juros compostos",
+      "q": "Juros compostos: utilizam capitalização ao longo dos períodos.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+      "e": "O material da disciplina apresenta Juros compostos nesse sentido: utilizam capitalização ao longo dos períodos."
     },
     {
       "id": "s215",
       "s": "Matemática Financeira",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: Taxas equivalentes produzem resultado financeiro equivalente em horizonte temporal compatível.",
+      "t": "Juros compostos",
+      "q": "Segundo o material, qual alternativa descreve corretamente Juros compostos?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode ser obtida pela razão entre a parte e o todo",
+        "B) para taxas positivas, corresponde ao capital acrescido dos juros",
+        "C) utilizam capitalização ao longo dos períodos",
+        "D) é obtida pela relação de Fisher e não por simples subtração da inflação",
+        "E) indica rejeição do investimento segundo o critério de valor presente líquido"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Juros compostos é: utilizam capitalização ao longo dos períodos."
     },
     {
       "id": "s216",
       "s": "Matemática Financeira",
-      "t": "Revisão — 4",
-      "q": "Sistemas de amortização descrevem formas de pagamento de principal e juros ao longo do tempo.",
+      "t": "Taxa real",
+      "q": "Taxa real: é obtida pela relação de Fisher e não por simples subtração da inflação.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+      "e": "O material da disciplina apresenta Taxa real nesse sentido: é obtida pela relação de Fisher e não por simples subtração da inflação."
     },
     {
       "id": "s217",
       "s": "Matemática Financeira",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: Sistemas de amortização descrevem formas de pagamento de principal e juros ao longo do tempo.",
+      "t": "Taxa real",
+      "q": "Segundo o material, qual alternativa descreve corretamente Taxa real?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode ser obtida pela razão entre a parte e o todo",
+        "B) para taxas positivas, corresponde ao capital acrescido dos juros",
+        "C) utilizam capitalização ao longo dos períodos",
+        "D) é obtida pela relação de Fisher e não por simples subtração da inflação",
+        "E) indica rejeição do investimento segundo o critério de valor presente líquido"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Taxa real é: é obtida pela relação de Fisher e não por simples subtração da inflação."
     },
     {
       "id": "s218",
       "s": "Matemática Financeira",
-      "t": "Revisão — 5",
-      "q": "Análise de investimentos pode utilizar fluxos de caixa distribuídos no tempo.",
+      "t": "VPL negativo",
+      "q": "VPL negativo: indica rejeição do investimento segundo o critério de valor presente líquido.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+      "e": "O material da disciplina apresenta VPL negativo nesse sentido: indica rejeição do investimento segundo o critério de valor presente líquido."
     },
     {
       "id": "s219",
       "s": "Matemática Financeira",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: Análise de investimentos pode utilizar fluxos de caixa distribuídos no tempo.",
+      "t": "VPL negativo",
+      "q": "Segundo o material, qual alternativa descreve corretamente VPL negativo?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) pode ser obtida pela razão entre a parte e o todo",
+        "B) para taxas positivas, corresponde ao capital acrescido dos juros",
+        "C) utilizam capitalização ao longo dos períodos",
+        "D) é obtida pela relação de Fisher e não por simples subtração da inflação",
+        "E) indica rejeição do investimento segundo o critério de valor presente líquido"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de VPL negativo é: indica rejeição do investimento segundo o critério de valor presente líquido."
     },
     {
       "id": "s220",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 1",
-      "q": "IBS e CBS integram a nova estrutura de tributação do consumo disciplinada pela reforma.",
+      "t": "Local da operação com bem móvel",
+      "q": "Local da operação com bem móvel: é, como regra, o local da entrega ou disponibilização ao destinatário.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+      "e": "O material da disciplina apresenta Local da operação com bem móvel nesse sentido: é, como regra, o local da entrega ou disponibilização ao destinatário."
     },
     {
       "id": "s221",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: IBS e CBS integram a nova estrutura de tributação do consumo disciplinada pela reforma.",
+      "t": "Local da operação com bem móvel",
+      "q": "Segundo o material, qual alternativa descreve corretamente Local da operação com bem móvel?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é, como regra, o local da entrega ou disponibilização ao destinatário",
+        "B) admite modalidades além da compensação com créditos, conforme a LC 214/2025",
+        "C) prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências",
+        "D) depende de requisitos legais relativos ao destinatário e à unidade familiar",
+        "E) podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Local da operação com bem móvel é: é, como regra, o local da entrega ou disponibilização ao destinatário."
     },
     {
       "id": "s222",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 2",
-      "q": "A LC 214/2025 prevê diferentes mecanismos de extinção de débitos de IBS e CBS.",
+      "t": "Extinção de IBS e CBS",
+      "q": "Extinção de IBS e CBS: admite modalidades além da compensação com créditos, conforme a LC 214/2025.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+      "e": "O material da disciplina apresenta Extinção de IBS e CBS nesse sentido: admite modalidades além da compensação com créditos, conforme a LC 214/2025."
     },
     {
       "id": "s223",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A LC 214/2025 prevê diferentes mecanismos de extinção de débitos de IBS e CBS.",
+      "t": "Extinção de IBS e CBS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Extinção de IBS e CBS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é, como regra, o local da entrega ou disponibilização ao destinatário",
+        "B) admite modalidades além da compensação com créditos, conforme a LC 214/2025",
+        "C) prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências",
+        "D) depende de requisitos legais relativos ao destinatário e à unidade familiar",
+        "E) podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Extinção de IBS e CBS é: admite modalidades além da compensação com créditos, conforme a LC 214/2025."
     },
     {
       "id": "s224",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 3",
-      "q": "A administração do IBS e da CBS prevê soluções integradas entre os órgãos competentes.",
+      "t": "Administração de IBS e CBS",
+      "q": "Administração de IBS e CBS: prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+      "e": "O material da disciplina apresenta Administração de IBS e CBS nesse sentido: prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências."
     },
     {
       "id": "s225",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: A administração do IBS e da CBS prevê soluções integradas entre os órgãos competentes.",
+      "t": "Administração de IBS e CBS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Administração de IBS e CBS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é, como regra, o local da entrega ou disponibilização ao destinatário",
+        "B) admite modalidades além da compensação com créditos, conforme a LC 214/2025",
+        "C) prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências",
+        "D) depende de requisitos legais relativos ao destinatário e à unidade familiar",
+        "E) podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de Administração de IBS e CBS é: prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências."
     },
     {
       "id": "s226",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 4",
-      "q": "A reforma prevê sistemática de devolução de IBS e CBS a quem atenda aos requisitos legais.",
+      "t": "Cashback",
+      "q": "Cashback: depende de requisitos legais relativos ao destinatário e à unidade familiar.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+      "e": "O material da disciplina apresenta Cashback nesse sentido: depende de requisitos legais relativos ao destinatário e à unidade familiar."
     },
     {
       "id": "s227",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: A reforma prevê sistemática de devolução de IBS e CBS a quem atenda aos requisitos legais.",
+      "t": "Cashback",
+      "q": "Segundo o material, qual alternativa descreve corretamente Cashback?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é, como regra, o local da entrega ou disponibilização ao destinatário",
+        "B) admite modalidades além da compensação com créditos, conforme a LC 214/2025",
+        "C) prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências",
+        "D) depende de requisitos legais relativos ao destinatário e à unidade familiar",
+        "E) podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Cashback é: depende de requisitos legais relativos ao destinatário e à unidade familiar."
     },
     {
       "id": "s228",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 5",
-      "q": "O Imposto Seletivo integra os temas disciplinados na reforma tributária.",
+      "t": "Combustíveis em regime específico",
+      "q": "Combustíveis em regime específico: podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+      "e": "O material da disciplina apresenta Combustíveis em regime específico nesse sentido: podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025."
     },
     {
       "id": "s229",
       "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O Imposto Seletivo integra os temas disciplinados na reforma tributária.",
+      "t": "Combustíveis em regime específico",
+      "q": "Segundo o material, qual alternativa descreve corretamente Combustíveis em regime específico?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é, como regra, o local da entrega ou disponibilização ao destinatário",
+        "B) admite modalidades além da compensação com créditos, conforme a LC 214/2025",
+        "C) prevê atuação conjunta do CGIBS e da Receita Federal em soluções integradas, preservadas competências",
+        "D) depende de requisitos legais relativos ao destinatário e à unidade familiar",
+        "E) podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Combustíveis em regime específico é: podem sofrer incidência única de IBS e CBS nas hipóteses da LC 214/2025."
     },
     {
       "id": "s230",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 1",
-      "q": "O PAT do IBS previsto na LC 227/2026 contempla princípios e regras do contencioso administrativo.",
+      "t": "Verdade material",
+      "q": "Verdade material: é princípio do processo administrativo do IBS previsto na LC 227/2026.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+      "e": "O material da disciplina apresenta Verdade material nesse sentido: é princípio do processo administrativo do IBS previsto na LC 227/2026."
     },
     {
       "id": "s231",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 1",
-      "q": "É incorreto afirmar que: O PAT do IBS previsto na LC 227/2026 contempla princípios e regras do contencioso administrativo.",
+      "t": "Verdade material",
+      "q": "Segundo o material, qual alternativa descreve corretamente Verdade material?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é princípio do processo administrativo do IBS previsto na LC 227/2026",
+        "B) é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS",
+        "C) é entidade pública de caráter técnico e operacional sob regime especial",
+        "D) é órgão técnico e executivo subordinado ao Conselho Superior",
+        "E) são criadas exclusivamente pelo CGIBS segundo a regra estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "A",
+      "e": "A descrição correta de Verdade material é: é princípio do processo administrativo do IBS previsto na LC 227/2026."
     },
     {
       "id": "s232",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 2",
-      "q": "A LC 227/2026 disciplina estrutura e competências do Comitê Gestor do IBS.",
+      "t": "Prazo recursal geral",
+      "q": "Prazo recursal geral: é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+      "e": "O material da disciplina apresenta Prazo recursal geral nesse sentido: é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS."
     },
     {
       "id": "s233",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 2",
-      "q": "É incorreto afirmar que: A LC 227/2026 disciplina estrutura e competências do Comitê Gestor do IBS.",
+      "t": "Prazo recursal geral",
+      "q": "Segundo o material, qual alternativa descreve corretamente Prazo recursal geral?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é princípio do processo administrativo do IBS previsto na LC 227/2026",
+        "B) é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS",
+        "C) é entidade pública de caráter técnico e operacional sob regime especial",
+        "D) é órgão técnico e executivo subordinado ao Conselho Superior",
+        "E) são criadas exclusivamente pelo CGIBS segundo a regra estudada"
       ],
       "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "e": "A descrição correta de Prazo recursal geral é: é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS."
     },
     {
       "id": "s234",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 3",
-      "q": "O CGIBS possui características institucionais definidas em lei complementar.",
+      "t": "CGIBS",
+      "q": "CGIBS: é entidade pública de caráter técnico e operacional sob regime especial.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+      "e": "O material da disciplina apresenta CGIBS nesse sentido: é entidade pública de caráter técnico e operacional sob regime especial."
     },
     {
       "id": "s235",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 3",
-      "q": "É incorreto afirmar que: O CGIBS possui características institucionais definidas em lei complementar.",
+      "t": "CGIBS",
+      "q": "Segundo o material, qual alternativa descreve corretamente CGIBS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é princípio do processo administrativo do IBS previsto na LC 227/2026",
+        "B) é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS",
+        "C) é entidade pública de caráter técnico e operacional sob regime especial",
+        "D) é órgão técnico e executivo subordinado ao Conselho Superior",
+        "E) são criadas exclusivamente pelo CGIBS segundo a regra estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "C",
+      "e": "A descrição correta de CGIBS é: é entidade pública de caráter técnico e operacional sob regime especial."
     },
     {
       "id": "s236",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 4",
-      "q": "A LC 227/2026 trata da distribuição do produto da arrecadação do IBS.",
+      "t": "Diretoria Executiva do CGIBS",
+      "q": "Diretoria Executiva do CGIBS: é órgão técnico e executivo subordinado ao Conselho Superior.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+      "e": "O material da disciplina apresenta Diretoria Executiva do CGIBS nesse sentido: é órgão técnico e executivo subordinado ao Conselho Superior."
     },
     {
       "id": "s237",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 4",
-      "q": "É incorreto afirmar que: A LC 227/2026 trata da distribuição do produto da arrecadação do IBS.",
+      "t": "Diretoria Executiva do CGIBS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Diretoria Executiva do CGIBS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é princípio do processo administrativo do IBS previsto na LC 227/2026",
+        "B) é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS",
+        "C) é entidade pública de caráter técnico e operacional sob regime especial",
+        "D) é órgão técnico e executivo subordinado ao Conselho Superior",
+        "E) são criadas exclusivamente pelo CGIBS segundo a regra estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "D",
+      "e": "A descrição correta de Diretoria Executiva do CGIBS é: é órgão técnico e executivo subordinado ao Conselho Superior."
     },
     {
       "id": "s238",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 5",
-      "q": "O material da LC 227/2026 também aborda ITCMD, ITBI e COSIP.",
+      "t": "Obrigações acessórias do IBS",
+      "q": "Obrigações acessórias do IBS: são criadas exclusivamente pelo CGIBS segundo a regra estudada.",
       "o": [
         "A) Certo",
         "B) Errado"
       ],
       "r": "A",
-      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+      "e": "O material da disciplina apresenta Obrigações acessórias do IBS nesse sentido: são criadas exclusivamente pelo CGIBS segundo a regra estudada."
     },
     {
       "id": "s239",
       "s": "Reforma (LC nº 2272026)",
-      "t": "Revisão — 5",
-      "q": "É incorreto afirmar que: O material da LC 227/2026 também aborda ITCMD, ITBI e COSIP.",
+      "t": "Obrigações acessórias do IBS",
+      "q": "Segundo o material, qual alternativa descreve corretamente Obrigações acessórias do IBS?",
       "o": [
-        "A) Certo",
-        "B) Errado"
+        "A) é princípio do processo administrativo do IBS previsto na LC 227/2026",
+        "B) é de vinte dias quando não houver disposição expressa em contrário no título do PAT do IBS",
+        "C) é entidade pública de caráter técnico e operacional sob regime especial",
+        "D) é órgão técnico e executivo subordinado ao Conselho Superior",
+        "E) são criadas exclusivamente pelo CGIBS segundo a regra estudada"
       ],
-      "r": "B",
-      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+      "r": "E",
+      "e": "A descrição correta de Obrigações acessórias do IBS é: são criadas exclusivamente pelo CGIBS segundo a regra estudada."
     }
   ]
 }
