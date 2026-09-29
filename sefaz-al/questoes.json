@@ -3,310 +3,490 @@
   "schema_version": 1,
   "bank_version": 3,
   "updated_at": "2026-09-29",
-  "total": 20,
+  "total": 32,
+  "sources": [
+    "20 pacotes de materiais SEFAZ-AL enviados pelo usuário em 2026-09-29"
+  ],
   "questions": [
     {
       "id": "s0",
-      "m": "Auditoria Fiscal",
-      "t": "SPED e ECD",
-      "e": "Sobre a Escrituração Contábil Digital (ECD), assinale a alternativa correta.",
+      "m": "Matemática Financeira",
+      "t": "Regra de três",
+      "e": "Um áudio é reproduzido em velocidade 1,5× e termina em 20 minutos. Qual era sua duração original?",
       "o": [
-        "A) A validação da ECD é realizada pelo Programa Validador e Assinador (PVA).",
-        "B) A ECD dispensa assinatura antes da transmissão.",
-        "C) A ECD não integra o SPED.",
-        "D) O PVA serve apenas para visualização.",
-        "E) A transmissão ocorre fora do SPED."
+        "A) 20 minutos",
+        "B) 25 minutos",
+        "C) 30 minutos",
+        "D) 35 minutos",
+        "E) 40 minutos"
       ],
-      "r": "A",
-      "c": "O material destaca que o PVA realiza, entre outras funções, validação, assinatura e transmissão da ECD ao SPED."
+      "r": "C",
+      "c": "Velocidade e tempo são inversamente proporcionais. Assim, 1,5 × 20 = 30 minutos na velocidade normal."
     },
     {
       "id": "s1",
-      "m": "Contabilidade Geral",
-      "t": "CPC 18 — influência significativa",
-      "e": "Segundo o material sobre o CPC 18, a posse de 20% ou mais do poder de voto de uma investida:",
+      "m": "Matemática Financeira",
+      "t": "Proporcionalidade",
+      "e": "Se o preço de uma mercadoria é diretamente proporcional ao seu peso, dobrar o peso, mantendo a mesma relação de preço, implica:",
       "o": [
-        "A) prova de modo absoluto a existência de controle.",
-        "B) impede a equivalência patrimonial.",
-        "C) gera presunção de influência significativa, admitindo prova em contrário.",
-        "D) é irrelevante para a análise.",
-        "E) sempre caracteriza controle conjunto."
+        "A) reduzir o preço à metade",
+        "B) manter o preço",
+        "C) dobrar o preço",
+        "D) quadruplicar o preço",
+        "E) aumentar o preço em 50%"
       ],
       "r": "C",
-      "c": "A aula ressalta que 20% do capital votante gera presunção de influência significativa, mas admite prova em contrário."
+      "c": "Em grandezas diretamente proporcionais, multiplicar uma grandeza por 2 multiplica a outra pelo mesmo fator."
     },
     {
       "id": "s2",
-      "m": "Contabilidade Pública",
-      "t": "Mensuração de ativos",
-      "e": "Na NBC TSP Estrutura Conceitual apresentada no material, o custo de reposição ou substituição é uma base de mensuração:",
+      "m": "Direito Constitucional",
+      "t": "Eficácia constitucional",
+      "e": "A norma constitucional que determina que a lei punirá discriminação atentatória aos direitos e liberdades fundamentais é classificada, no material, como norma de eficácia:",
       "o": [
-        "A) de saída e não específica.",
-        "B) de entrada e específica para a entidade.",
-        "C) sempre não observável.",
-        "D) exclusiva de passivos.",
-        "E) idêntica ao preço líquido de venda."
+        "A) plena",
+        "B) contida",
+        "C) limitada",
+        "D) exaurida",
+        "E) absoluta"
       ],
-      "r": "B",
-      "c": "O quadro da aula classifica o custo de reposição ou substituição como valor de entrada, observável e específico para a entidade."
+      "r": "C",
+      "c": "O dispositivo depende de atuação legislativa para sua plena produção de efeitos, razão pela qual o material o classifica como norma de eficácia limitada."
     },
     {
       "id": "s3",
-      "m": "Desenvolvimento de Sistemas",
-      "t": "JavaScript — parseInt",
-      "e": "Em JavaScript, para interpretar a string \"10.5\" como número inteiro, o material indica o uso de:",
+      "m": "Direito Constitucional",
+      "t": "Aplicabilidade",
+      "e": "Sobre normas constitucionais de eficácia plena e contida, assinale a correta.",
       "o": [
-        "A) JSON.parse.",
-        "B) parseFloat.",
-        "C) Math.random.",
-        "D) parseInt.",
-        "E) String."
+        "A) Ambas têm aplicabilidade mediata",
+        "B) Somente as contidas têm aplicabilidade imediata",
+        "C) Ambas têm aplicabilidade imediata, mas as contidas admitem restrição",
+        "D) Nenhuma admite restrição infraconstitucional",
+        "E) As plenas dependem sempre de lei"
       ],
-      "r": "D",
-      "c": "A aula explica que parseInt interpreta a string e produz um número inteiro."
+      "r": "C",
+      "c": "Ambas possuem aplicabilidade imediata, mas a eficácia contida pode sofrer restrições nos termos constitucionalmente admitidos."
     },
     {
       "id": "s4",
       "m": "Direito Administrativo",
-      "t": "Exploração de prestígio",
-      "e": "Conforme a questão comentada no material, alegar fraudulentamente influência sobre uma decisão judicial para obter dinheiro caracteriza, em tese:",
+      "t": "Publicidade",
+      "e": "Segundo o material, um ato do poder público que restrinja publicidade deve ser motivado de forma:",
       "o": [
-        "A) peculato.",
-        "B) concussão.",
-        "C) exploração de prestígio.",
-        "D) prevaricação.",
-        "E) desacato."
+        "A) genérica e verbal",
+        "B) objetiva, específica e formal",
+        "C) reservada e imotivada",
+        "D) apenas política",
+        "E) exclusivamente judicial"
       ],
-      "r": "C",
-      "c": "O material diferencia exploração de prestígio de tráfico de influência considerando sobre quem se alega exercer influência."
+      "r": "B",
+      "c": "O material destaca que restrições à publicidade exigem motivação concreta/objetiva, específica e formal."
     },
     {
       "id": "s5",
-      "m": "Direito Constitucional",
-      "t": "Direito de reunião",
-      "e": "Segundo o entendimento apresentado no material, o aviso prévio para o exercício do direito de reunião:",
+      "m": "Direito Administrativo",
+      "t": "Transparência",
+      "e": "À luz do princípio da publicidade, a divulgação dos nomes de servidores públicos e dos respectivos vencimentos e vantagens, em sítio oficial, é apresentada como:",
       "o": [
-        "A) exige sempre notificação pessoal registrada.",
-        "B) é dispensável em qualquer situação.",
-        "C) pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito.",
-        "D) depende de autorização judicial.",
-        "E) transforma a reunião em ato sujeito a licença."
+        "A) sempre proibida",
+        "B) legítima",
+        "C) crime funcional",
+        "D) permitida apenas com autorização individual",
+        "E) restrita ao Poder Judiciário"
       ],
-      "r": "C",
-      "c": "A aula afirma que não é necessária notificação pessoal ou registrada, bastando informação apta a permitir a atuação do poder público."
+      "r": "B",
+      "c": "O material apresenta como legítima a divulgação oficial dessas informações em atenção ao princípio da publicidade."
     },
     {
       "id": "s6",
-      "m": "Direito Tributário",
-      "t": "IPI e medida provisória",
-      "e": "De acordo com o material, a União pode majorar o IPI por medida provisória:",
+      "m": "Contabilidade Geral",
+      "t": "Patrimônio líquido",
+      "e": "Na ciência contábil, patrimônio líquido corresponde:",
       "o": [
-        "A) não, porque imposto algum pode ser alterado por MP.",
-        "B) sim, observadas as limitações constitucionais aplicáveis, inclusive a noventena indicada na aula.",
-        "C) somente após autorização dos estados.",
-        "D) apenas por lei complementar.",
-        "E) somente uma vez por exercício."
+        "A) ao conjunto de bens, direitos e obrigações",
+        "B) somente aos bens",
+        "C) à participação residual nos ativos após dedução dos passivos",
+        "D) ao total do passivo",
+        "E) às receitas menos despesas, sempre"
       ],
-      "r": "B",
-      "c": "A aula afirma que o IPI pode ser instituído ou majorado por medida provisória e destaca a observância da noventena."
+      "r": "C",
+      "c": "Patrimônio líquido é a participação residual nos ativos depois de deduzidos os passivos."
     },
     {
       "id": "s7",
-      "m": "Economia",
-      "t": "Monopólio",
-      "e": "Para maximização do lucro, a aula de microeconomia destaca a condição:",
+      "m": "Contabilidade Geral",
+      "t": "Ajustes de avaliação patrimonial",
+      "e": "A conta Ajustes de Avaliação Patrimonial é classificada como:",
       "o": [
-        "A) receita marginal igual ao custo marginal.",
-        "B) preço sempre igual a zero.",
-        "C) custo fixo igual à receita total.",
-        "D) receita média sempre negativa.",
-        "E) demanda perfeitamente inelástica."
+        "A) conta de resultado",
+        "B) conta do patrimônio líquido",
+        "C) ativo circulante",
+        "D) passivo circulante",
+        "E) receita financeira"
       ],
-      "r": "A",
-      "c": "O material ressalta a igualdade entre receita marginal e custo marginal como condição de maximização do lucro."
+      "r": "B",
+      "c": "Segundo o material, ajustes de avaliação patrimonial integra o patrimônio líquido e pode apresentar saldo devedor ou credor."
     },
     {
       "id": "s8",
-      "m": "Desenvolvimento de Sistemas",
-      "t": "SOA",
-      "e": "Em arquitetura orientada a serviços (SOA), a independência entre serviços é favorecida por:",
+      "m": "Direito Tributário",
+      "t": "Conceito de tributo",
+      "e": "De acordo com o conceito de tributo apresentado no material, uma multa por ato ilícito:",
       "o": [
-        "A) alto acoplamento e baixa abstração.",
-        "B) baixo acoplamento e interfaces bem definidas.",
-        "C) eliminação de interfaces.",
-        "D) dependência direta entre todos os componentes.",
-        "E) uso obrigatório de um monólito."
+        "A) é sempre tributo",
+        "B) é imposto extraordinário",
+        "C) não integra o conceito de tributo",
+        "D) é taxa",
+        "E) é contribuição de melhoria"
       ],
-      "r": "B",
-      "c": "O material associa SOA a maior abstração, interfaces bem definidas e baixo acoplamento."
+      "r": "C",
+      "c": "O material destaca o art. 3º do CTN: tributo é prestação pecuniária compulsória que não constitui sanção de ato ilícito."
     },
     {
       "id": "s9",
-      "m": "Estatística e Probabilidade",
-      "t": "Amplitude total",
-      "e": "Em estatística descritiva, a amplitude total de um conjunto de dados corresponde:",
+      "m": "Direito Tributário",
+      "t": "Prestação tributária",
+      "e": "Qual característica é compatível com o conceito de tributo trabalhado no material?",
       "o": [
-        "A) à soma das observações.",
-        "B) à diferença entre o maior e o menor valor.",
-        "C) à média dos quartis.",
-        "D) ao valor mais frequente.",
-        "E) à raiz quadrada da média."
+        "A) Ser sanção por ilícito",
+        "B) Ser facultativo",
+        "C) Ser prestação pecuniária compulsória",
+        "D) Depender de acordo entre Fisco e contribuinte",
+        "E) Ser sempre imposto"
       ],
-      "r": "B",
-      "c": "A aula trata a amplitude total como medida de dispersão baseada nos valores extremos."
+      "r": "C",
+      "c": "O conceito estudado apresenta o tributo como prestação pecuniária compulsória e distinta de sanção por ilícito."
     },
     {
       "id": "s10",
-      "m": "Finanças Públicas",
-      "t": "Despesa com pessoal",
-      "e": "Na classificação por Grupo de Natureza da Despesa (GND), Pessoal e Encargos Sociais correspondem ao:",
+      "m": "Estatística e Probabilidade",
+      "t": "Probabilidade",
+      "e": "Se dois eventos A e B são mutuamente exclusivos, então:",
       "o": [
-        "A) GND 1.",
-        "B) GND 2.",
-        "C) GND 3.",
-        "D) GND 4.",
-        "E) GND 6."
+        "A) P(A∩B)=1",
+        "B) P(A∩B)=0",
+        "C) P(A)=P(B) necessariamente",
+        "D) P(A∪B)=0",
+        "E) A e B são necessariamente independentes"
       ],
-      "r": "A",
-      "c": "O material identifica Pessoal e Encargos Sociais como GND 1."
+      "r": "B",
+      "c": "Eventos mutuamente exclusivos não podem ocorrer simultaneamente; portanto, sua interseção tem probabilidade zero."
     },
     {
       "id": "s11",
-      "m": "Infraestrutura de TIC e Segurança da Informação",
-      "t": "Forense — negação plausível",
-      "e": "O sistema de arquivos Rubberhose é citado no material como mecanismo associado a:",
+      "m": "Estatística e Probabilidade",
+      "t": "Análise combinatória",
+      "e": "Em um arranjo simples de n elementos tomados p a p, a ordem dos elementos:",
       "o": [
-        "A) compressão sem perdas.",
-        "B) negação plausível por criptografia e volumes ocultos.",
-        "C) assinatura de e-mails.",
-        "D) roteamento dinâmico.",
-        "E) controle de versão."
+        "A) não importa",
+        "B) importa",
+        "C) só importa quando p=n",
+        "D) é sempre aleatória",
+        "E) não pode ser considerada"
       ],
       "r": "B",
-      "c": "A aula associa Rubberhose à negação plausível e à possibilidade de múltiplos volumes ocultos não demonstráveis sem a chave."
+      "c": "Nos arranjos, diferentemente das combinações, a ordem dos elementos selecionados é relevante."
     },
     {
       "id": "s12",
-      "m": "Infraestrutura de TIC e Segurança da Informação",
-      "t": "ITIL 4 — cadeia de valor",
-      "e": "Qual alternativa contém apenas atividades da cadeia de valor de serviço do ITIL 4 citadas no material?",
+      "m": "Contabilidade Pública",
+      "t": "Objeto da CASP",
+      "e": "O objeto da Contabilidade Aplicada ao Setor Público é:",
       "o": [
-        "A) Planejar, melhorar e engajar.",
-        "B) Governança, princípios e práticas.",
-        "C) Risco, auditoria e conformidade.",
-        "D) Portfólio, programa e projeto.",
-        "E) Estratégia, tática e operação."
+        "A) orçamento público",
+        "B) plano de contas",
+        "C) patrimônio público",
+        "D) resultado fiscal apenas",
+        "E) registro contábil"
       ],
-      "r": "A",
-      "c": "A aula lista seis atividades: planejar, melhorar, engajar, desenhar e fazer a transição, obter/construir e entregar e suportar."
+      "r": "C",
+      "c": "O material afirma expressamente que o objeto da CASP é o patrimônio público."
     },
     {
       "id": "s13",
-      "m": "Ciência de Dados",
-      "t": "Amostra e população",
-      "e": "Em inferência estatística, uma amostra é:",
+      "m": "Contabilidade Pública",
+      "t": "Ingressos extraorçamentários",
+      "e": "A devolução de ingressos extraorçamentários:",
       "o": [
-        "A) o conjunto de todas as observações possíveis.",
-        "B) um subconjunto da população.",
-        "C) sempre maior que a população.",
-        "D) um parâmetro populacional.",
-        "E) necessariamente uma variável qualitativa."
+        "A) depende sempre de autorização legislativa",
+        "B) integra necessariamente a LOA",
+        "C) não se sujeita a autorização legislativa",
+        "D) é receita tributária",
+        "E) é despesa de capital"
       ],
-      "r": "B",
-      "c": "A aula de análise exploratória define amostra como parte ou subconjunto da população."
+      "r": "C",
+      "c": "Segundo o MCASP apresentado no material, sua devolução não se sujeita a autorização legislativa."
     },
     {
       "id": "s14",
-      "m": "Legislação Tributária Estadual",
-      "t": "ICMS — local da operação",
-      "e": "Para fins de ICMS, o material sobre a LC 87/1996 evidencia que o local da operação ou prestação:",
+      "m": "Economia",
+      "t": "Escassez",
+      "e": "O problema econômico fundamental decorre:",
       "o": [
-        "A) é sempre o domicílio do adquirente.",
-        "B) depende da hipótese prevista na legislação.",
-        "C) é sempre o Distrito Federal nas importações.",
-        "D) é sempre o local do remetente.",
-        "E) não influencia a definição do responsável."
+        "A) da inexistência de desejos",
+        "B) da abundância ilimitada de recursos",
+        "C) da limitação de recursos diante de necessidades e desejos",
+        "D) apenas da falta de moeda",
+        "E) somente da pobreza"
       ],
-      "r": "B",
-      "c": "A questão comentada rejeita uma regra única e destaca que a definição do local varia conforme a operação ou prestação."
+      "r": "C",
+      "c": "O material relaciona o problema econômico fundamental à escassez: recursos limitados frente a desejos e necessidades."
     },
     {
       "id": "s15",
-      "m": "Legislação Tributária Estadual",
-      "t": "PAT de Alagoas",
-      "e": "Entre os meios de intimação discutidos na aula do processo administrativo tributário de Alagoas estão:",
+      "m": "Economia",
+      "t": "Custo de oportunidade",
+      "e": "Custo de oportunidade corresponde:",
       "o": [
-        "A) apenas ligação telefônica.",
-        "B) via postal, pessoal e edital, conforme as regras legais.",
-        "C) somente redes sociais.",
-        "D) exclusivamente comunicação verbal.",
-        "E) apenas publicação fora do Diário Oficial."
+        "A) sempre ao desembolso monetário",
+        "B) ao valor do melhor uso alternativo viável renunciado",
+        "C) ao preço tabelado pelo governo",
+        "D) ao custo contábil total",
+        "E) à soma de todos os usos possíveis"
       ],
       "r": "B",
-      "c": "O material compara hipóteses de intimação postal, pessoal e por edital e seus requisitos."
+      "c": "Ao escolher uma finalidade para um recurso escasso, renuncia-se ao melhor uso alternativo viável."
     },
     {
       "id": "s16",
-      "m": "Matemática Financeira",
-      "t": "Valor Presente Líquido",
-      "e": "Se um projeto apresenta Valor Presente Líquido (VPL) negativo à taxa de desconto adotada, o material indica:",
+      "m": "Finanças Públicas",
+      "t": "Finanças públicas",
+      "e": "No estudo das finanças públicas, a atividade estatal envolve, entre outros aspectos:",
       "o": [
-        "A) aceitação obrigatória.",
-        "B) indiferença absoluta.",
-        "C) indicação de rejeição do investimento.",
-        "D) custo de capital igual a zero.",
-        "E) ausência de desembolso inicial."
+        "A) apenas emissão de moeda",
+        "B) obtenção de receitas e realização de despesas públicas",
+        "C) somente tributação",
+        "D) apenas dívida externa",
+        "E) exclusivamente política monetária"
       ],
-      "r": "C",
-      "c": "A aula afirma que VPL negativo indica inviabilidade nas condições consideradas e, consequentemente, rejeição do investimento."
+      "r": "B",
+      "c": "Os materiais abordam obtenção de recursos, gasto público, orçamento, déficit e financiamento da atuação estatal."
     },
     {
       "id": "s17",
-      "m": "Reforma Tributária",
-      "t": "LC 214/2025 — regimes específicos",
-      "e": "A existência de regime específico na LC 214/2025 significa, conforme o material, que:",
+      "m": "Finanças Públicas",
+      "t": "Déficit público",
+      "e": "Em termos gerais, ocorre déficit quando, no período considerado:",
       "o": [
-        "A) todos os setores têm tratamento idêntico.",
-        "B) determinadas atividades recebem regras próprias de incidência e apuração de IBS/CBS.",
-        "C) o IBS deixa de existir.",
-        "D) a CBS passa a ser imposto estadual.",
-        "E) nenhuma base de cálculo precisa ser definida."
+        "A) receitas superam despesas",
+        "B) despesas superam receitas segundo o conceito de déficit adotado",
+        "C) não há qualquer gasto",
+        "D) a arrecadação é zero necessariamente",
+        "E) a dívida pública é extinta"
       ],
       "r": "B",
-      "c": "O material organiza aulas próprias para regimes específicos e suas regras de base e apuração."
+      "c": "A noção de déficit está associada à insuficiência de receitas frente às despesas, conforme a metodologia fiscal empregada."
     },
     {
       "id": "s18",
-      "m": "Reforma Tributária",
-      "t": "LC 227/2026 — receita média de referência",
-      "e": "Segundo a aula sobre distribuição do produto do IBS, a receita média de referência:",
+      "m": "Legislação Tributária Estadual",
+      "t": "ICMS",
+      "e": "Uma característica constitucional destacada no material para o ICMS é a:",
       "o": [
-        "A) corresponde exclusivamente à arrecadação do IBS.",
-        "B) considera a média da receita dos tributos substituídos, conforme critérios legais.",
-        "C) é definida livremente por cada contribuinte.",
-        "D) considera apenas exercícios posteriores a 2033.",
-        "E) é sempre igual à arrecadação do ICMS."
+        "A) cumulatividade obrigatória",
+        "B) não cumulatividade",
+        "C) competência exclusiva da União",
+        "D) dispensa de documento fiscal",
+        "E) incidência apenas municipal"
       ],
       "r": "B",
-      "c": "A questão comentada aponta que a receita média de referência é calculada nos termos da LC 227/2026 com base na receita dos tributos substituídos."
+      "c": "O material destaca a não cumulatividade do ICMS, com compensação entre débitos e créditos."
     },
     {
       "id": "s19",
-      "m": "Infraestrutura de TIC e Segurança da Informação",
-      "t": "Redes P2P",
-      "e": "Em uma rede peer-to-peer (P2P), conforme o material:",
+      "m": "Legislação Tributária Estadual",
+      "t": "Competência do ICMS",
+      "e": "A competência para instituição do ICMS pertence:",
       "o": [
-        "A) todo nó atua exclusivamente como cliente.",
-        "B) os pontos podem atuar como clientes e servidores.",
-        "C) é obrigatório um servidor central.",
-        "D) não é possível compartilhar periféricos.",
-        "E) não há comunicação direta entre pontos."
+        "A) somente à União",
+        "B) aos Municípios",
+        "C) aos Estados e ao Distrito Federal",
+        "D) somente ao Distrito Federal",
+        "E) à União e aos Municípios"
+      ],
+      "r": "C",
+      "c": "O material ressalta que o ICMS é de competência dos Estados e também do Distrito Federal."
+    },
+    {
+      "id": "s20",
+      "m": "Inteligência Artificial",
+      "t": "Dado e informação",
+      "e": "No material de IA e Ciência de Dados, dados são apresentados como:",
+      "o": [
+        "A) decisões automatizadas",
+        "B) fatos brutos que podem ser organizados e interpretados",
+        "C) sinônimo obrigatório de conhecimento",
+        "D) apenas arquivos digitais",
+        "E) somente números"
       ],
       "r": "B",
-      "c": "A aula descreve P2P como modelo em que cada ponto pode desempenhar papéis de cliente e servidor."
+      "c": "O material diferencia dados, entendidos como fatos brutos, de informação, obtida quando esses dados são organizados e interpretados."
+    },
+    {
+      "id": "s21",
+      "m": "Inteligência Artificial",
+      "t": "Conhecimento tácito",
+      "e": "Conhecimento tácito é associado principalmente:",
+      "o": [
+        "A) apenas a manuais escritos",
+        "B) a experiências, habilidades e insights",
+        "C) a bancos relacionais",
+        "D) a dados não processados",
+        "E) somente a leis formais"
+      ],
+      "r": "B",
+      "c": "O material caracteriza conhecimento tácito como adquirido por experiências pessoais e práticas, incluindo habilidades e insights."
+    },
+    {
+      "id": "s22",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "Pseudocódigo",
+      "e": "Pseudocódigo é:",
+      "o": [
+        "A) uma linguagem de máquina",
+        "B) um texto estruturado para descrever algoritmos em linguagem próxima da humana",
+        "C) um banco de dados",
+        "D) um protocolo de rede",
+        "E) um sistema operacional"
+      ],
+      "r": "B",
+      "c": "Pseudocódigo é uma forma estruturada de descrever algoritmos sem depender da sintaxe de uma linguagem de programação específica."
+    },
+    {
+      "id": "s23",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "Algoritmos",
+      "e": "Uma vantagem do pseudocódigo no projeto de algoritmos é:",
+      "o": [
+        "A) exigir compilador específico",
+        "B) independer, em grande medida, da sintaxe de uma linguagem de programação",
+        "C) executar diretamente no processador",
+        "D) substituir todos os testes",
+        "E) eliminar estruturas condicionais"
+      ],
+      "r": "B",
+      "c": "A pseudolinguagem permite estruturar a lógica antes de traduzi-la para uma linguagem de programação concreta."
+    },
+    {
+      "id": "s24",
+      "m": "Infraestrutura de TIC e Segurança da Informação",
+      "t": "Redes P2P",
+      "e": "Em uma rede peer-to-peer (P2P):",
+      "o": [
+        "A) há necessariamente um servidor central dedicado",
+        "B) cada ponto pode atuar como cliente e servidor",
+        "C) não há compartilhamento de recursos",
+        "D) somente um computador transmite",
+        "E) é proibida comunicação direta entre pares"
+      ],
+      "r": "B",
+      "c": "O material caracteriza P2P como comunicação não hierárquica em que os pontos podem atuar como clientes e servidores."
+    },
+    {
+      "id": "s25",
+      "m": "Infraestrutura de TIC e Segurança da Informação",
+      "t": "Assinatura digital",
+      "e": "Segundo o material, a assinatura digital está associada especialmente a:",
+      "o": [
+        "A) confidencialidade apenas",
+        "B) autenticidade, integridade e irretratabilidade",
+        "C) disponibilidade apenas",
+        "D) compressão de dados",
+        "E) anonimato obrigatório"
+      ],
+      "r": "B",
+      "c": "O material relaciona assinatura digital a autenticidade, integridade e não repúdio/irretratabilidade."
+    },
+    {
+      "id": "s26",
+      "m": "Reforma Tributária",
+      "t": "Imposto Seletivo",
+      "e": "Segundo o material sobre a EC 132/2023, o Imposto Seletivo é de competência:",
+      "o": [
+        "A) dos Municípios",
+        "B) dos Estados",
+        "C) da União",
+        "D) do Distrito Federal exclusivamente",
+        "E) compartilhada apenas entre Estados e Municípios"
+      ],
+      "r": "C",
+      "c": "O material apresenta o Imposto Seletivo como tributo de competência da União e de caráter predominantemente extrafiscal."
+    },
+    {
+      "id": "s27",
+      "m": "Reforma Tributária",
+      "t": "IBS",
+      "e": "Nos materiais da reforma, os períodos de determinação do montante da arrecadação do IBS a distribuir:",
+      "o": [
+        "A) devem ser sempre mensais",
+        "B) não podem ser inferiores a um dia útil nem superiores ao período de apuração",
+        "C) são ilimitados",
+        "D) devem coincidir com o ano civil",
+        "E) só podem ser anuais"
+      ],
+      "r": "B",
+      "c": "O material sobre a LC 227/2026 informa limite mínimo de um dia útil e máximo correspondente ao período de apuração do IBS."
+    },
+    {
+      "id": "s28",
+      "m": "Auditoria Fiscal",
+      "t": "ECD e SPED",
+      "e": "A validação da Escrituração Contábil Digital (ECD), conforme o material, é realizada por meio do:",
+      "o": [
+        "A) eSocial",
+        "B) PVA",
+        "C) SIAFI",
+        "D) SEI",
+        "E) CADIN"
+      ],
+      "r": "B",
+      "c": "A ECD é submetida ao Programa Validador e Assinador (PVA), que realiza, entre outras funções, a validação."
+    },
+    {
+      "id": "s29",
+      "m": "Auditoria Fiscal",
+      "t": "Responsabilidade pelas demonstrações",
+      "e": "As demonstrações contábeis sujeitas à auditoria são elaboradas:",
+      "o": [
+        "A) pelo auditor independente",
+        "B) pela administração da entidade, com supervisão da governança quando aplicável",
+        "C) pelo Fisco exclusivamente",
+        "D) pelo conselho fiscal obrigatoriamente",
+        "E) pelo banco central"
+      ],
+      "r": "B",
+      "c": "O material ressalta que a elaboração das demonstrações é responsabilidade da administração, não do auditor."
+    },
+    {
+      "id": "s30",
+      "m": "Ciência de Dados",
+      "t": "Informação",
+      "e": "Quando dados são organizados e interpretados de modo a adquirir significado, passam a constituir:",
+      "o": [
+        "A) ruído",
+        "B) informação",
+        "C) hardware",
+        "D) criptografia",
+        "E) redundância"
+      ],
+      "r": "B",
+      "c": "O material apresenta informação como resultado da organização e interpretação de dados."
+    },
+    {
+      "id": "s31",
+      "m": "Ciência de Dados",
+      "t": "CRISP-DM",
+      "e": "O CRISP-DM, presente no material de Ciência de Dados, é um modelo de referência voltado principalmente para:",
+      "o": [
+        "A) cabeamento estruturado",
+        "B) projetos de mineração de dados",
+        "C) assinatura digital",
+        "D) licitações públicas",
+        "E) contabilidade patrimonial"
+      ],
+      "r": "B",
+      "c": "O conteúdo inclui o CRISP-DM como modelo de referência para organizar projetos de mineração e análise de dados."
     }
-  ],
-  "sources": [
-    "20 pacotes de materiais SEFAZ-AL enviados pelo usuário em 2026-09-29"
   ]
 }
