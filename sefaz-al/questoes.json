@@ -1,8 +1,312 @@
 {
   "app": "Concurso Shorts SEFAZ-AL 2026",
   "schema_version": 1,
-  "bank_version": 2,
-  "updated_at": "2026-09-28",
-  "total": 160,
-  "questions": []
+  "bank_version": 3,
+  "updated_at": "2026-09-29",
+  "total": 20,
+  "questions": [
+    {
+      "id": "s0",
+      "m": "Auditoria Fiscal",
+      "t": "SPED e ECD",
+      "e": "Sobre a Escrituração Contábil Digital (ECD), assinale a alternativa correta.",
+      "o": [
+        "A) A validação da ECD é realizada pelo Programa Validador e Assinador (PVA).",
+        "B) A ECD dispensa assinatura antes da transmissão.",
+        "C) A ECD não integra o SPED.",
+        "D) O PVA serve apenas para visualização.",
+        "E) A transmissão ocorre fora do SPED."
+      ],
+      "r": "A",
+      "c": "O material destaca que o PVA realiza, entre outras funções, validação, assinatura e transmissão da ECD ao SPED."
+    },
+    {
+      "id": "s1",
+      "m": "Contabilidade Geral",
+      "t": "CPC 18 — influência significativa",
+      "e": "Segundo o material sobre o CPC 18, a posse de 20% ou mais do poder de voto de uma investida:",
+      "o": [
+        "A) prova de modo absoluto a existência de controle.",
+        "B) impede a equivalência patrimonial.",
+        "C) gera presunção de influência significativa, admitindo prova em contrário.",
+        "D) é irrelevante para a análise.",
+        "E) sempre caracteriza controle conjunto."
+      ],
+      "r": "C",
+      "c": "A aula ressalta que 20% do capital votante gera presunção de influência significativa, mas admite prova em contrário."
+    },
+    {
+      "id": "s2",
+      "m": "Contabilidade Pública",
+      "t": "Mensuração de ativos",
+      "e": "Na NBC TSP Estrutura Conceitual apresentada no material, o custo de reposição ou substituição é uma base de mensuração:",
+      "o": [
+        "A) de saída e não específica.",
+        "B) de entrada e específica para a entidade.",
+        "C) sempre não observável.",
+        "D) exclusiva de passivos.",
+        "E) idêntica ao preço líquido de venda."
+      ],
+      "r": "B",
+      "c": "O quadro da aula classifica o custo de reposição ou substituição como valor de entrada, observável e específico para a entidade."
+    },
+    {
+      "id": "s3",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "JavaScript — parseInt",
+      "e": "Em JavaScript, para interpretar a string \"10.5\" como número inteiro, o material indica o uso de:",
+      "o": [
+        "A) JSON.parse.",
+        "B) parseFloat.",
+        "C) Math.random.",
+        "D) parseInt.",
+        "E) String."
+      ],
+      "r": "D",
+      "c": "A aula explica que parseInt interpreta a string e produz um número inteiro."
+    },
+    {
+      "id": "s4",
+      "m": "Direito Administrativo",
+      "t": "Exploração de prestígio",
+      "e": "Conforme a questão comentada no material, alegar fraudulentamente influência sobre uma decisão judicial para obter dinheiro caracteriza, em tese:",
+      "o": [
+        "A) peculato.",
+        "B) concussão.",
+        "C) exploração de prestígio.",
+        "D) prevaricação.",
+        "E) desacato."
+      ],
+      "r": "C",
+      "c": "O material diferencia exploração de prestígio de tráfico de influência considerando sobre quem se alega exercer influência."
+    },
+    {
+      "id": "s5",
+      "m": "Direito Constitucional",
+      "t": "Direito de reunião",
+      "e": "Segundo o entendimento apresentado no material, o aviso prévio para o exercício do direito de reunião:",
+      "o": [
+        "A) exige sempre notificação pessoal registrada.",
+        "B) é dispensável em qualquer situação.",
+        "C) pode ser satisfeito por informação que permita ao poder público organizar o exercício do direito.",
+        "D) depende de autorização judicial.",
+        "E) transforma a reunião em ato sujeito a licença."
+      ],
+      "r": "C",
+      "c": "A aula afirma que não é necessária notificação pessoal ou registrada, bastando informação apta a permitir a atuação do poder público."
+    },
+    {
+      "id": "s6",
+      "m": "Direito Tributário",
+      "t": "IPI e medida provisória",
+      "e": "De acordo com o material, a União pode majorar o IPI por medida provisória:",
+      "o": [
+        "A) não, porque imposto algum pode ser alterado por MP.",
+        "B) sim, observadas as limitações constitucionais aplicáveis, inclusive a noventena indicada na aula.",
+        "C) somente após autorização dos estados.",
+        "D) apenas por lei complementar.",
+        "E) somente uma vez por exercício."
+      ],
+      "r": "B",
+      "c": "A aula afirma que o IPI pode ser instituído ou majorado por medida provisória e destaca a observância da noventena."
+    },
+    {
+      "id": "s7",
+      "m": "Economia",
+      "t": "Monopólio",
+      "e": "Para maximização do lucro, a aula de microeconomia destaca a condição:",
+      "o": [
+        "A) receita marginal igual ao custo marginal.",
+        "B) preço sempre igual a zero.",
+        "C) custo fixo igual à receita total.",
+        "D) receita média sempre negativa.",
+        "E) demanda perfeitamente inelástica."
+      ],
+      "r": "A",
+      "c": "O material ressalta a igualdade entre receita marginal e custo marginal como condição de maximização do lucro."
+    },
+    {
+      "id": "s8",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "SOA",
+      "e": "Em arquitetura orientada a serviços (SOA), a independência entre serviços é favorecida por:",
+      "o": [
+        "A) alto acoplamento e baixa abstração.",
+        "B) baixo acoplamento e interfaces bem definidas.",
+        "C) eliminação de interfaces.",
+        "D) dependência direta entre todos os componentes.",
+        "E) uso obrigatório de um monólito."
+      ],
+      "r": "B",
+      "c": "O material associa SOA a maior abstração, interfaces bem definidas e baixo acoplamento."
+    },
+    {
+      "id": "s9",
+      "m": "Estatística e Probabilidade",
+      "t": "Amplitude total",
+      "e": "Em estatística descritiva, a amplitude total de um conjunto de dados corresponde:",
+      "o": [
+        "A) à soma das observações.",
+        "B) à diferença entre o maior e o menor valor.",
+        "C) à média dos quartis.",
+        "D) ao valor mais frequente.",
+        "E) à raiz quadrada da média."
+      ],
+      "r": "B",
+      "c": "A aula trata a amplitude total como medida de dispersão baseada nos valores extremos."
+    },
+    {
+      "id": "s10",
+      "m": "Finanças Públicas",
+      "t": "Despesa com pessoal",
+      "e": "Na classificação por Grupo de Natureza da Despesa (GND), Pessoal e Encargos Sociais correspondem ao:",
+      "o": [
+        "A) GND 1.",
+        "B) GND 2.",
+        "C) GND 3.",
+        "D) GND 4.",
+        "E) GND 6."
+      ],
+      "r": "A",
+      "c": "O material identifica Pessoal e Encargos Sociais como GND 1."
+    },
+    {
+      "id": "s11",
+      "m": "Infraestrutura de TIC e Segurança da Informação",
+      "t": "Forense — negação plausível",
+      "e": "O sistema de arquivos Rubberhose é citado no material como mecanismo associado a:",
+      "o": [
+        "A) compressão sem perdas.",
+        "B) negação plausível por criptografia e volumes ocultos.",
+        "C) assinatura de e-mails.",
+        "D) roteamento dinâmico.",
+        "E) controle de versão."
+      ],
+      "r": "B",
+      "c": "A aula associa Rubberhose à negação plausível e à possibilidade de múltiplos volumes ocultos não demonstráveis sem a chave."
+    },
+    {
+      "id": "s12",
+      "m": "Infraestrutura de TIC e Segurança da Informação",
+      "t": "ITIL 4 — cadeia de valor",
+      "e": "Qual alternativa contém apenas atividades da cadeia de valor de serviço do ITIL 4 citadas no material?",
+      "o": [
+        "A) Planejar, melhorar e engajar.",
+        "B) Governança, princípios e práticas.",
+        "C) Risco, auditoria e conformidade.",
+        "D) Portfólio, programa e projeto.",
+        "E) Estratégia, tática e operação."
+      ],
+      "r": "A",
+      "c": "A aula lista seis atividades: planejar, melhorar, engajar, desenhar e fazer a transição, obter/construir e entregar e suportar."
+    },
+    {
+      "id": "s13",
+      "m": "Ciência de Dados",
+      "t": "Amostra e população",
+      "e": "Em inferência estatística, uma amostra é:",
+      "o": [
+        "A) o conjunto de todas as observações possíveis.",
+        "B) um subconjunto da população.",
+        "C) sempre maior que a população.",
+        "D) um parâmetro populacional.",
+        "E) necessariamente uma variável qualitativa."
+      ],
+      "r": "B",
+      "c": "A aula de análise exploratória define amostra como parte ou subconjunto da população."
+    },
+    {
+      "id": "s14",
+      "m": "Legislação Tributária Estadual",
+      "t": "ICMS — local da operação",
+      "e": "Para fins de ICMS, o material sobre a LC 87/1996 evidencia que o local da operação ou prestação:",
+      "o": [
+        "A) é sempre o domicílio do adquirente.",
+        "B) depende da hipótese prevista na legislação.",
+        "C) é sempre o Distrito Federal nas importações.",
+        "D) é sempre o local do remetente.",
+        "E) não influencia a definição do responsável."
+      ],
+      "r": "B",
+      "c": "A questão comentada rejeita uma regra única e destaca que a definição do local varia conforme a operação ou prestação."
+    },
+    {
+      "id": "s15",
+      "m": "Legislação Tributária Estadual",
+      "t": "PAT de Alagoas",
+      "e": "Entre os meios de intimação discutidos na aula do processo administrativo tributário de Alagoas estão:",
+      "o": [
+        "A) apenas ligação telefônica.",
+        "B) via postal, pessoal e edital, conforme as regras legais.",
+        "C) somente redes sociais.",
+        "D) exclusivamente comunicação verbal.",
+        "E) apenas publicação fora do Diário Oficial."
+      ],
+      "r": "B",
+      "c": "O material compara hipóteses de intimação postal, pessoal e por edital e seus requisitos."
+    },
+    {
+      "id": "s16",
+      "m": "Matemática Financeira",
+      "t": "Valor Presente Líquido",
+      "e": "Se um projeto apresenta Valor Presente Líquido (VPL) negativo à taxa de desconto adotada, o material indica:",
+      "o": [
+        "A) aceitação obrigatória.",
+        "B) indiferença absoluta.",
+        "C) indicação de rejeição do investimento.",
+        "D) custo de capital igual a zero.",
+        "E) ausência de desembolso inicial."
+      ],
+      "r": "C",
+      "c": "A aula afirma que VPL negativo indica inviabilidade nas condições consideradas e, consequentemente, rejeição do investimento."
+    },
+    {
+      "id": "s17",
+      "m": "Reforma Tributária",
+      "t": "LC 214/2025 — regimes específicos",
+      "e": "A existência de regime específico na LC 214/2025 significa, conforme o material, que:",
+      "o": [
+        "A) todos os setores têm tratamento idêntico.",
+        "B) determinadas atividades recebem regras próprias de incidência e apuração de IBS/CBS.",
+        "C) o IBS deixa de existir.",
+        "D) a CBS passa a ser imposto estadual.",
+        "E) nenhuma base de cálculo precisa ser definida."
+      ],
+      "r": "B",
+      "c": "O material organiza aulas próprias para regimes específicos e suas regras de base e apuração."
+    },
+    {
+      "id": "s18",
+      "m": "Reforma Tributária",
+      "t": "LC 227/2026 — receita média de referência",
+      "e": "Segundo a aula sobre distribuição do produto do IBS, a receita média de referência:",
+      "o": [
+        "A) corresponde exclusivamente à arrecadação do IBS.",
+        "B) considera a média da receita dos tributos substituídos, conforme critérios legais.",
+        "C) é definida livremente por cada contribuinte.",
+        "D) considera apenas exercícios posteriores a 2033.",
+        "E) é sempre igual à arrecadação do ICMS."
+      ],
+      "r": "B",
+      "c": "A questão comentada aponta que a receita média de referência é calculada nos termos da LC 227/2026 com base na receita dos tributos substituídos."
+    },
+    {
+      "id": "s19",
+      "m": "Infraestrutura de TIC e Segurança da Informação",
+      "t": "Redes P2P",
+      "e": "Em uma rede peer-to-peer (P2P), conforme o material:",
+      "o": [
+        "A) todo nó atua exclusivamente como cliente.",
+        "B) os pontos podem atuar como clientes e servidores.",
+        "C) é obrigatório um servidor central.",
+        "D) não é possível compartilhar periféricos.",
+        "E) não há comunicação direta entre pontos."
+      ],
+      "r": "B",
+      "c": "A aula descreve P2P como modelo em que cada ponto pode desempenhar papéis de cliente e servidor."
+    }
+  ],
+  "sources": [
+    "20 pacotes de materiais SEFAZ-AL enviados pelo usuário em 2026-09-29"
+  ]
 }
