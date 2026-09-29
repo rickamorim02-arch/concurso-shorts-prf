@@ -3,490 +3,469 @@
   "schema_version": 1,
   "bank_version": 3,
   "updated_at": "2026-09-29",
-  "total": 32,
+  "total": 40,
   "sources": [
-    "20 pacotes de materiais SEFAZ-AL enviados pelo usuário em 2026-09-29"
+    "Segurança da Informação e Redes.zip",
+    "Auditoria Fiscal.zip",
+    "Contabilidade Geral.zip",
+    "Contabilidade Pública.zip",
+    "Desenvolvimento de Sistemas.zip",
+    "Direito Administrativo.zip",
+    "Direito Constitucional.zip",
+    "Direito Tributário.zip",
+    "Economia + Finanças Públicas.zip",
+    "Engenharia de Software.zip",
+    "Estatística e Probabilidade.zip",
+    "Finanças Públicas (Orçamento + LRF).zip",
+    "Forense Computacional.zip",
+    "Governança de TI.zip",
+    "Inteligência Artificial e Ciência de Dados.zip",
+    "LTE 1.zip",
+    "LTE 2.zip",
+    "Matemática Financeira.zip",
+    "Reforma (EC nº 1322023 e LC nº 2142025).zip",
+    "Reforma (LC nº 2272026).zip"
   ],
   "questions": [
     {
       "id": "s0",
-      "m": "Matemática Financeira",
-      "t": "Regra de três",
-      "e": "Um áudio é reproduzido em velocidade 1,5× e termina em 20 minutos. Qual era sua duração original?",
+      "m": "Segurança da Informação e Redes",
+      "t": "A criptografia assimétrica pode servir de base tecnológica para certificação e assinatura digital.",
       "o": [
-        "A) 20 minutos",
-        "B) 25 minutos",
-        "C) 30 minutos",
-        "D) 35 minutos",
-        "E) 40 minutos"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "Velocidade e tempo são inversamente proporcionais. Assim, 1,5 × 20 = 30 minutos na velocidade normal."
+      "r": "A",
+      "c": "O material relaciona explicitamente criptografia de chave assimétrica com certificação e assinatura digital."
     },
     {
       "id": "s1",
-      "m": "Matemática Financeira",
-      "t": "Proporcionalidade",
-      "e": "Se o preço de uma mercadoria é diretamente proporcional ao seu peso, dobrar o peso, mantendo a mesma relação de preço, implica:",
+      "m": "Segurança da Informação e Redes",
+      "t": "Em uma rede peer-to-peer, cada nó depende obrigatoriamente de um servidor central para compartilhar recursos.",
       "o": [
-        "A) reduzir o preço à metade",
-        "B) manter o preço",
-        "C) dobrar o preço",
-        "D) quadruplicar o preço",
-        "E) aumentar o preço em 50%"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "C",
-      "c": "Em grandezas diretamente proporcionais, multiplicar uma grandeza por 2 multiplica a outra pelo mesmo fator."
+      "r": "A",
+      "c": "A aula de redes descreve a rede ponto a ponto como uma arquitetura em que cada ponto pode atuar como cliente e servidor, sem depender de servidor central."
     },
     {
       "id": "s2",
-      "m": "Direito Constitucional",
-      "t": "Eficácia constitucional",
-      "e": "A norma constitucional que determina que a lei punirá discriminação atentatória aos direitos e liberdades fundamentais é classificada, no material, como norma de eficácia:",
+      "m": "Auditoria Fiscal",
+      "t": "A validação da Escrituração Contábil Digital (ECD) pode ser realizada pelo Programa Validador e Assinador (PVA).",
       "o": [
-        "A) plena",
-        "B) contida",
-        "C) limitada",
-        "D) exaurida",
-        "E) absoluta"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "O dispositivo depende de atuação legislativa para sua plena produção de efeitos, razão pela qual o material o classifica como norma de eficácia limitada."
+      "r": "A",
+      "c": "O material de SPED/ECD afirma que o PVA realiza, entre outras funções, a validação da escrituração."
     },
     {
       "id": "s3",
-      "m": "Direito Constitucional",
-      "t": "Aplicabilidade",
-      "e": "Sobre normas constitucionais de eficácia plena e contida, assinale a correta.",
+      "m": "Auditoria Fiscal",
+      "t": "O cruzamento de dados da NF-e com a EFD ICMS/IPI pode apoiar a identificação automatizada de inconsistências fiscais.",
       "o": [
-        "A) Ambas têm aplicabilidade mediata",
-        "B) Somente as contidas têm aplicabilidade imediata",
-        "C) Ambas têm aplicabilidade imediata, mas as contidas admitem restrição",
-        "D) Nenhuma admite restrição infraconstitucional",
-        "E) As plenas dependem sempre de lei"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "C",
-      "c": "Ambas possuem aplicabilidade imediata, mas a eficácia contida pode sofrer restrições nos termos constitucionalmente admitidos."
+      "r": "B",
+      "c": "A aula de auditoria na EFD e NF-e apresenta esses documentos como fontes padronizadas usadas em cruzamentos e identificação de inconsistências."
     },
     {
       "id": "s4",
-      "m": "Direito Administrativo",
-      "t": "Publicidade",
-      "e": "Segundo o material, um ato do poder público que restrinja publicidade deve ser motivado de forma:",
+      "m": "Contabilidade Geral",
+      "t": "As demonstrações contábeis, ressalvada a informação de fluxo de caixa, são elaboradas segundo o regime de competência.",
       "o": [
-        "A) genérica e verbal",
-        "B) objetiva, específica e formal",
-        "C) reservada e imotivada",
-        "D) apenas política",
-        "E) exclusivamente judicial"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "O material destaca que restrições à publicidade exigem motivação concreta/objetiva, específica e formal."
+      "r": "A",
+      "c": "O material sobre balanço patrimonial destaca o regime de competência na elaboração das demonstrações contábeis, com a conhecida exceção da informação de fluxos de caixa."
     },
     {
       "id": "s5",
-      "m": "Direito Administrativo",
-      "t": "Transparência",
-      "e": "À luz do princípio da publicidade, a divulgação dos nomes de servidores públicos e dos respectivos vencimentos e vantagens, em sítio oficial, é apresentada como:",
+      "m": "Contabilidade Geral",
+      "t": "A conta Ajustes de Avaliação Patrimonial pertence ao resultado do exercício.",
       "o": [
-        "A) sempre proibida",
-        "B) legítima",
-        "C) crime funcional",
-        "D) permitida apenas com autorização individual",
-        "E) restrita ao Poder Judiciário"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "O material apresenta como legítima a divulgação oficial dessas informações em atenção ao princípio da publicidade."
+      "r": "A",
+      "c": "O material classifica Ajustes de Avaliação Patrimonial no Patrimônio Líquido, e não como conta de resultado."
     },
     {
       "id": "s6",
-      "m": "Contabilidade Geral",
-      "t": "Patrimônio líquido",
-      "e": "Na ciência contábil, patrimônio líquido corresponde:",
+      "m": "Contabilidade Pública",
+      "t": "No balanço financeiro, a apresentação das receitas e despesas orçamentárias considera sua origem e destinação de recursos.",
       "o": [
-        "A) ao conjunto de bens, direitos e obrigações",
-        "B) somente aos bens",
-        "C) à participação residual nos ativos após dedução dos passivos",
-        "D) ao total do passivo",
-        "E) às receitas menos despesas, sempre"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "Patrimônio líquido é a participação residual nos ativos depois de deduzidos os passivos."
+      "r": "A",
+      "c": "O material, com base no MCASP, trata da segregação das receitas e despesas orçamentárias segundo origem e destinação dos recursos."
     },
     {
       "id": "s7",
-      "m": "Contabilidade Geral",
-      "t": "Ajustes de avaliação patrimonial",
-      "e": "A conta Ajustes de Avaliação Patrimonial é classificada como:",
+      "m": "Contabilidade Pública",
+      "t": "A inscrição de créditos fiscais depende necessariamente da execução orçamentária.",
       "o": [
-        "A) conta de resultado",
-        "B) conta do patrimônio líquido",
-        "C) ativo circulante",
-        "D) passivo circulante",
-        "E) receita financeira"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "Segundo o material, ajustes de avaliação patrimonial integra o patrimônio líquido e pode apresentar saldo devedor ou credor."
+      "r": "A",
+      "c": "A aula de DVP registra que a inscrição de créditos fiscais independe da execução orçamentária."
     },
     {
       "id": "s8",
-      "m": "Direito Tributário",
-      "t": "Conceito de tributo",
-      "e": "De acordo com o conceito de tributo apresentado no material, uma multa por ato ilícito:",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "Em JavaScript, parseInt pode converter uma string como \"10.5\" para um valor inteiro.",
       "o": [
-        "A) é sempre tributo",
-        "B) é imposto extraordinário",
-        "C) não integra o conceito de tributo",
-        "D) é taxa",
-        "E) é contribuição de melhoria"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "O material destaca o art. 3º do CTN: tributo é prestação pecuniária compulsória que não constitui sanção de ato ilícito."
+      "r": "A",
+      "c": "A aula de JavaScript usa justamente esse tipo de conversão ao tratar strings numéricas."
     },
     {
       "id": "s9",
-      "m": "Direito Tributário",
-      "t": "Prestação tributária",
-      "e": "Qual característica é compatível com o conceito de tributo trabalhado no material?",
+      "m": "Desenvolvimento de Sistemas",
+      "t": "No Git, uma prática possível é desenvolver em branch própria e integrar à branch principal após testes e revisão.",
       "o": [
-        "A) Ser sanção por ilícito",
-        "B) Ser facultativo",
-        "C) Ser prestação pecuniária compulsória",
-        "D) Depender de acordo entre Fisco e contribuinte",
-        "E) Ser sempre imposto"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "C",
-      "c": "O conceito estudado apresenta o tributo como prestação pecuniária compulsória e distinta de sanção por ilícito."
+      "r": "B",
+      "c": "O material de versionamento apresenta o trabalho em branches e posterior merge após teste e revisão como boa prática."
     },
     {
       "id": "s10",
-      "m": "Estatística e Probabilidade",
-      "t": "Probabilidade",
-      "e": "Se dois eventos A e B são mutuamente exclusivos, então:",
+      "m": "Direito Administrativo",
+      "t": "A inviabilidade de competição caracteriza hipótese de inexigibilidade, e não de dispensa de licitação.",
       "o": [
-        "A) P(A∩B)=1",
-        "B) P(A∩B)=0",
-        "C) P(A)=P(B) necessariamente",
-        "D) P(A∪B)=0",
-        "E) A e B são necessariamente independentes"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "Eventos mutuamente exclusivos não podem ocorrer simultaneamente; portanto, sua interseção tem probabilidade zero."
+      "r": "A",
+      "c": "A aula de licitações diferencia inexigibilidade, ligada à inviabilidade de competição, das hipóteses de dispensa."
     },
     {
       "id": "s11",
-      "m": "Estatística e Probabilidade",
-      "t": "Análise combinatória",
-      "e": "Em um arranjo simples de n elementos tomados p a p, a ordem dos elementos:",
+      "m": "Direito Administrativo",
+      "t": "Vencimento corresponde à retribuição do cargo acrescida de todas as vantagens pecuniárias permanentes.",
       "o": [
-        "A) não importa",
-        "B) importa",
-        "C) só importa quando p=n",
-        "D) é sempre aleatória",
-        "E) não pode ser considerada"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "Nos arranjos, diferentemente das combinações, a ordem dos elementos selecionados é relevante."
+      "r": "A",
+      "c": "No regime jurídico estudado, vencimento é a retribuição pecuniária pelo exercício do cargo; a soma com vantagens permanentes corresponde a conceito distinto."
     },
     {
       "id": "s12",
-      "m": "Contabilidade Pública",
-      "t": "Objeto da CASP",
-      "e": "O objeto da Contabilidade Aplicada ao Setor Público é:",
+      "m": "Direito Constitucional",
+      "t": "A Constituição assegura, em regra, duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais.",
       "o": [
-        "A) orçamento público",
-        "B) plano de contas",
-        "C) patrimônio público",
-        "D) resultado fiscal apenas",
-        "E) registro contábil"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "O material afirma expressamente que o objeto da CASP é o patrimônio público."
+      "r": "A",
+      "c": "A aula de direitos sociais reproduz esse parâmetro constitucional e trata de sua extensão aos trabalhadores domésticos."
     },
     {
       "id": "s13",
-      "m": "Contabilidade Pública",
-      "t": "Ingressos extraorçamentários",
-      "e": "A devolução de ingressos extraorçamentários:",
+      "m": "Direito Constitucional",
+      "t": "O controle de constitucionalidade brasileiro independe da ideia de supremacia da Constituição.",
       "o": [
-        "A) depende sempre de autorização legislativa",
-        "B) integra necessariamente a LOA",
-        "C) não se sujeita a autorização legislativa",
-        "D) é receita tributária",
-        "E) é despesa de capital"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "C",
-      "c": "Segundo o MCASP apresentado no material, sua devolução não se sujeita a autorização legislativa."
+      "r": "A",
+      "c": "O material de controle de constitucionalidade trabalha a supremacia constitucional como pressuposto do controle."
     },
     {
       "id": "s14",
-      "m": "Economia",
-      "t": "Escassez",
-      "e": "O problema econômico fundamental decorre:",
+      "m": "Direito Tributário",
+      "t": "Segundo o CTN, a isenção é modalidade de exclusão do crédito tributário.",
       "o": [
-        "A) da inexistência de desejos",
-        "B) da abundância ilimitada de recursos",
-        "C) da limitação de recursos diante de necessidades e desejos",
-        "D) apenas da falta de moeda",
-        "E) somente da pobreza"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "O material relaciona o problema econômico fundamental à escassez: recursos limitados frente a desejos e necessidades."
+      "r": "A",
+      "c": "A aula sobre exclusão apresenta a isenção dentro das hipóteses de exclusão do crédito tributário."
     },
     {
       "id": "s15",
-      "m": "Economia",
-      "t": "Custo de oportunidade",
-      "e": "Custo de oportunidade corresponde:",
+      "m": "Direito Tributário",
+      "t": "A interpretação da legislação tributária limita-se ao critério gramatical.",
       "o": [
-        "A) sempre ao desembolso monetário",
-        "B) ao valor do melhor uso alternativo viável renunciado",
-        "C) ao preço tabelado pelo governo",
-        "D) ao custo contábil total",
-        "E) à soma de todos os usos possíveis"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "Ao escolher uma finalidade para um recurso escasso, renuncia-se ao melhor uso alternativo viável."
+      "r": "A",
+      "c": "O material enumera diversos critérios interpretativos e regras específicas do CTN."
     },
     {
       "id": "s16",
-      "m": "Finanças Públicas",
-      "t": "Finanças públicas",
-      "e": "No estudo das finanças públicas, a atividade estatal envolve, entre outros aspectos:",
+      "m": "Economia + Finanças Públicas",
+      "t": "O crédito público pode funcionar como fonte de financiamento das necessidades do setor público.",
       "o": [
-        "A) apenas emissão de moeda",
-        "B) obtenção de receitas e realização de despesas públicas",
-        "C) somente tributação",
-        "D) apenas dívida externa",
-        "E) exclusivamente política monetária"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "Os materiais abordam obtenção de recursos, gasto público, orçamento, déficit e financiamento da atuação estatal."
+      "r": "A",
+      "c": "O pacote contém aula específica sobre crédito público como fonte de financiamento e discute seu uso no financiamento estatal."
     },
     {
       "id": "s17",
-      "m": "Finanças Públicas",
-      "t": "Déficit público",
-      "e": "Em termos gerais, ocorre déficit quando, no período considerado:",
+      "m": "Economia + Finanças Públicas",
+      "t": "O estudo da moeda é alheio à análise econômica e não integra os conteúdos de economia do material.",
       "o": [
-        "A) receitas superam despesas",
-        "B) despesas superam receitas segundo o conceito de déficit adotado",
-        "C) não há qualquer gasto",
-        "D) a arrecadação é zero necessariamente",
-        "E) a dívida pública é extinta"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "A noção de déficit está associada à insuficiência de receitas frente às despesas, conforme a metodologia fiscal empregada."
+      "r": "A",
+      "c": "O pacote inclui aula própria sobre moeda dentro do conteúdo de Economia."
     },
     {
       "id": "s18",
-      "m": "Legislação Tributária Estadual",
-      "t": "ICMS",
-      "e": "Uma característica constitucional destacada no material para o ICMS é a:",
+      "m": "Engenharia de Software",
+      "t": "A BPMN pode ser utilizada para representar processos de negócio para diferentes públicos.",
       "o": [
-        "A) cumulatividade obrigatória",
-        "B) não cumulatividade",
-        "C) competência exclusiva da União",
-        "D) dispensa de documento fiscal",
-        "E) incidência apenas municipal"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "O material destaca a não cumulatividade do ICMS, com compensação entre débitos e créditos."
+      "r": "A",
+      "c": "A aula de modelagem destaca a característica intuitiva da BPMN e seu uso na apresentação de modelos de processos."
     },
     {
       "id": "s19",
-      "m": "Legislação Tributária Estadual",
-      "t": "Competência do ICMS",
-      "e": "A competência para instituição do ICMS pertence:",
+      "m": "Engenharia de Software",
+      "t": "No padrão MVC, Model, View e Controller representam responsabilidades distintas na organização da aplicação.",
       "o": [
-        "A) somente à União",
-        "B) aos Municípios",
-        "C) aos Estados e ao Distrito Federal",
-        "D) somente ao Distrito Federal",
-        "E) à União e aos Municípios"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "C",
-      "c": "O material ressalta que o ICMS é de competência dos Estados e também do Distrito Federal."
+      "r": "B",
+      "c": "O material de arquitetura de software aborda explicitamente o padrão Model-View-Controller."
     },
     {
       "id": "s20",
-      "m": "Inteligência Artificial",
-      "t": "Dado e informação",
-      "e": "No material de IA e Ciência de Dados, dados são apresentados como:",
+      "m": "Estatística e Probabilidade",
+      "t": "O terceiro momento central está relacionado ao estudo da assimetria de uma distribuição.",
       "o": [
-        "A) decisões automatizadas",
-        "B) fatos brutos que podem ser organizados e interpretados",
-        "C) sinônimo obrigatório de conhecimento",
-        "D) apenas arquivos digitais",
-        "E) somente números"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "O material diferencia dados, entendidos como fatos brutos, de informação, obtida quando esses dados são organizados e interpretados."
+      "r": "A",
+      "c": "A aula de assimetria trabalha o coeficiente de assimetria associado ao terceiro momento central."
     },
     {
       "id": "s21",
-      "m": "Inteligência Artificial",
-      "t": "Conhecimento tácito",
-      "e": "Conhecimento tácito é associado principalmente:",
+      "m": "Estatística e Probabilidade",
+      "t": "Princípios de contagem e análise combinatória são conteúdos utilizados em problemas de probabilidade.",
       "o": [
-        "A) apenas a manuais escritos",
-        "B) a experiências, habilidades e insights",
-        "C) a bancos relacionais",
-        "D) a dados não processados",
-        "E) somente a leis formais"
+        "A) Errado",
+        "B) Certo"
       ],
       "r": "B",
-      "c": "O material caracteriza conhecimento tácito como adquirido por experiências pessoais e práticas, incluindo habilidades e insights."
+      "c": "O pacote apresenta análise combinatória e princípios de contagem antes do conteúdo específico de probabilidade."
     },
     {
       "id": "s22",
-      "m": "Desenvolvimento de Sistemas",
-      "t": "Pseudocódigo",
-      "e": "Pseudocódigo é:",
+      "m": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Diárias e auxílio-alimentação integram a classificação da despesa pública estudada no material de classificações orçamentárias.",
       "o": [
-        "A) uma linguagem de máquina",
-        "B) um texto estruturado para descrever algoritmos em linguagem próxima da humana",
-        "C) um banco de dados",
-        "D) um protocolo de rede",
-        "E) um sistema operacional"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "Pseudocódigo é uma forma estruturada de descrever algoritmos sem depender da sintaxe de uma linguagem de programação específica."
+      "r": "A",
+      "c": "A aula de classificações orçamentárias utiliza esses itens em questão sobre grupo de natureza da despesa."
     },
     {
       "id": "s23",
-      "m": "Desenvolvimento de Sistemas",
-      "t": "Algoritmos",
-      "e": "Uma vantagem do pseudocódigo no projeto de algoritmos é:",
+      "m": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Os princípios orçamentários são irrelevantes para a elaboração e execução do orçamento público.",
       "o": [
-        "A) exigir compilador específico",
-        "B) independer, em grande medida, da sintaxe de uma linguagem de programação",
-        "C) executar diretamente no processador",
-        "D) substituir todos os testes",
-        "E) eliminar estruturas condicionais"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "A pseudolinguagem permite estruturar a lógica antes de traduzi-la para uma linguagem de programação concreta."
+      "r": "A",
+      "c": "O pacote dedica aula específica aos princípios orçamentários."
     },
     {
       "id": "s24",
-      "m": "Infraestrutura de TIC e Segurança da Informação",
-      "t": "Redes P2P",
-      "e": "Em uma rede peer-to-peer (P2P):",
+      "m": "Forense Computacional",
+      "t": "Na criptografia simétrica, a mesma chave é utilizada nas operações de cifração e decifração.",
       "o": [
-        "A) há necessariamente um servidor central dedicado",
-        "B) cada ponto pode atuar como cliente e servidor",
-        "C) não há compartilhamento de recursos",
-        "D) somente um computador transmite",
-        "E) é proibida comunicação direta entre pares"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "O material caracteriza P2P como comunicação não hierárquica em que os pontos podem atuar como clientes e servidores."
+      "r": "A",
+      "c": "A aula de técnicas antiforenses/criptografia descreve o uso da mesma sequência de bits com o algoritmo para cifrar e decifrar."
     },
     {
       "id": "s25",
-      "m": "Infraestrutura de TIC e Segurança da Informação",
-      "t": "Assinatura digital",
-      "e": "Segundo o material, a assinatura digital está associada especialmente a:",
+      "m": "Forense Computacional",
+      "t": "A produção de imagem ou espelhamento de disco é incompatível com procedimentos de coleta forense.",
       "o": [
-        "A) confidencialidade apenas",
-        "B) autenticidade, integridade e irretratabilidade",
-        "C) disponibilidade apenas",
-        "D) compressão de dados",
-        "E) anonimato obrigatório"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "O material relaciona assinatura digital a autenticidade, integridade e não repúdio/irretratabilidade."
+      "r": "A",
+      "c": "O material possui aula específica sobre coleta, espelhamento e imagem de discos como técnicas da atividade forense computacional."
     },
     {
       "id": "s26",
-      "m": "Reforma Tributária",
-      "t": "Imposto Seletivo",
-      "e": "Segundo o material sobre a EC 132/2023, o Imposto Seletivo é de competência:",
+      "m": "Governança de TI",
+      "t": "Gestão de serviços de TI envolve conceitos e práticas que podem ser tratados por modelos e referências de governança e gestão.",
       "o": [
-        "A) dos Municípios",
-        "B) dos Estados",
-        "C) da União",
-        "D) do Distrito Federal exclusivamente",
-        "E) compartilhada apenas entre Estados e Municípios"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "C",
-      "c": "O material apresenta o Imposto Seletivo como tributo de competência da União e de caráter predominantemente extrafiscal."
+      "r": "A",
+      "c": "O material da disciplina é dedicado a gestão de serviços, conceitos e práticas, incluindo questões sobre modelos e referências de governança de TI."
     },
     {
       "id": "s27",
-      "m": "Reforma Tributária",
-      "t": "IBS",
-      "e": "Nos materiais da reforma, os períodos de determinação do montante da arrecadação do IBS a distribuir:",
+      "m": "Governança de TI",
+      "t": "Governança e gestão de TI são temas completamente desvinculados da gestão de serviços.",
       "o": [
-        "A) devem ser sempre mensais",
-        "B) não podem ser inferiores a um dia útil nem superiores ao período de apuração",
-        "C) são ilimitados",
-        "D) devem coincidir com o ano civil",
-        "E) só podem ser anuais"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "O material sobre a LC 227/2026 informa limite mínimo de um dia útil e máximo correspondente ao período de apuração do IBS."
+      "r": "A",
+      "c": "A aula relaciona gestão de serviços aos modelos e referências de governança e gestão de tecnologia da informação."
     },
     {
       "id": "s28",
-      "m": "Auditoria Fiscal",
-      "t": "ECD e SPED",
-      "e": "A validação da Escrituração Contábil Digital (ECD), conforme o material, é realizada por meio do:",
+      "m": "Inteligência Artificial e Ciência de Dados",
+      "t": "Análise preditiva pode empregar técnicas de aprendizado de máquina para produzir previsões a partir de dados.",
       "o": [
-        "A) eSocial",
-        "B) PVA",
-        "C) SIAFI",
-        "D) SEI",
-        "E) CADIN"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "A ECD é submetida ao Programa Validador e Assinador (PVA), que realiza, entre outras funções, a validação."
+      "r": "A",
+      "c": "A aula de aprendizado de máquina apresenta a análise preditiva como aplicação de IA que utiliza técnicas de machine learning."
     },
     {
       "id": "s29",
-      "m": "Auditoria Fiscal",
-      "t": "Responsabilidade pelas demonstrações",
-      "e": "As demonstrações contábeis sujeitas à auditoria são elaboradas:",
+      "m": "Inteligência Artificial e Ciência de Dados",
+      "t": "Uma mentalidade orientada a dados dispensa a interpretação dos dados no processo decisório.",
       "o": [
-        "A) pelo auditor independente",
-        "B) pela administração da entidade, com supervisão da governança quando aplicável",
-        "C) pelo Fisco exclusivamente",
-        "D) pelo conselho fiscal obrigatoriamente",
-        "E) pelo banco central"
+        "A) Errado",
+        "B) Certo"
       ],
-      "r": "B",
-      "c": "O material ressalta que a elaboração das demonstrações é responsabilidade da administração, não do auditor."
+      "r": "A",
+      "c": "A aula de processo de ciência de dados destaca que a mentalidade orientada a dados exige compreender como interpretar e utilizar dados na tomada de decisão."
     },
     {
       "id": "s30",
-      "m": "Ciência de Dados",
-      "t": "Informação",
-      "e": "Quando dados são organizados e interpretados de modo a adquirir significado, passam a constituir:",
+      "m": "LTE 1",
+      "t": "A legislação tributária estadual de Alagoas tratada no pacote inclui regras específicas relativas ao ICMS.",
       "o": [
-        "A) ruído",
-        "B) informação",
-        "C) hardware",
-        "D) criptografia",
-        "E) redundância"
+        "A) Certo",
+        "B) Errado"
       ],
-      "r": "B",
-      "c": "O material apresenta informação como resultado da organização e interpretação de dados."
+      "r": "A",
+      "c": "As aulas do pacote LTE 1 abrangem diversos módulos de ICMS e aplicação da legislação alagoana."
     },
     {
       "id": "s31",
-      "m": "Ciência de Dados",
-      "t": "CRISP-DM",
-      "e": "O CRISP-DM, presente no material de Ciência de Dados, é um modelo de referência voltado principalmente para:",
+      "m": "LTE 1",
+      "t": "A aquisição de bem para o ativo imobilizado é tema estranho à apuração de créditos de ICMS.",
       "o": [
-        "A) cabeamento estruturado",
-        "B) projetos de mineração de dados",
-        "C) assinatura digital",
-        "D) licitações públicas",
-        "E) contabilidade patrimonial"
+        "A) Errado",
+        "B) Certo"
+      ],
+      "r": "A",
+      "c": "O material de ICMS utiliza aquisição de máquina para o ativo imobilizado em questão sobre apropriação de crédito do imposto."
+    },
+    {
+      "id": "s32",
+      "m": "LTE 2",
+      "t": "O processo administrativo tributário de Alagoas disciplina formas de intimação do sujeito passivo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "c": "A aula de PAT contém questões específicas sobre a intimação para integração do sujeito passivo à instância administrativa."
+    },
+    {
+      "id": "s33",
+      "m": "LTE 2",
+      "t": "O ajuizamento de ação judicial jamais produz qualquer repercussão sobre a defesa administrativa tributária.",
+      "o": [
+        "A) Errado",
+        "B) Certo"
+      ],
+      "r": "A",
+      "c": "A aula PAT-2 trata expressamente dos efeitos da ação judicial sobre o conhecimento e o julgamento da defesa administrativa."
+    },
+    {
+      "id": "s34",
+      "m": "Matemática Financeira",
+      "t": "A taxa real de juros não é obtida, em geral, por simples subtração da inflação da taxa efetiva.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "c": "A aula de taxas utiliza a relação de Fisher e alerta que a taxa real não deve ser calculada por simples subtração."
+    },
+    {
+      "id": "s35",
+      "m": "Matemática Financeira",
+      "t": "Para taxas positivas, o montante é formado pelo capital inicial somado aos juros do período.",
+      "o": [
+        "A) Errado",
+        "B) Certo"
       ],
       "r": "B",
-      "c": "O conteúdo inclui o CRISP-DM como modelo de referência para organizar projetos de mineração e análise de dados."
+      "c": "A aula de juros registra a relação M = C + J para o montante."
+    },
+    {
+      "id": "s36",
+      "m": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "A administração do IBS e da CBS prevê atuação integrada entre o Comitê Gestor do IBS e a Receita Federal, preservadas as competências legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "c": "A aula sobre IBS e CBS destaca a atuação conjunta na implementação de soluções integradas, sem prejuízo das competências de cada órgão."
+    },
+    {
+      "id": "s37",
+      "m": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "O Imposto Seletivo foi tratado no material da EC 132/2023 como tributo de competência da União.",
+      "o": [
+        "A) Errado",
+        "B) Certo"
+      ],
+      "r": "B",
+      "c": "A aula sobre a EC 132/2023 inclui questão que identifica o Imposto Seletivo como de competência da União."
+    },
+    {
+      "id": "s38",
+      "m": "Reforma (LC nº 2272026)",
+      "t": "O lançamento tributário reporta-se à data da ocorrência do fato gerador e rege-se, em regra, pela lei então vigente.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "c": "A aula de ITCMD reproduz essa regra ao tratar do art. 144 do CTN no contexto da LC 227/2026."
+    },
+    {
+      "id": "s39",
+      "m": "Reforma (LC nº 2272026)",
+      "t": "A LC nº 227/2026, conforme o material, aborda também temas ligados ao ITBI e à COSIP.",
+      "o": [
+        "A) Errado",
+        "B) Certo"
+      ],
+      "r": "B",
+      "c": "O pacote contém aula específica intitulada ITBI e COSIP, além dos conteúdos de ITCMD e IBS."
     }
   ]
 }
