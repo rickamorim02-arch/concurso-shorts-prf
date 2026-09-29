@@ -1,6 +1,383 @@
 {
   "app": "Faculdade",
-  "bank_version": 1,
+  "bank_version": 2,
   "updated_at": "2026-09-29",
-  "questions": []
+  "source": "Émile Durkheim — As Regras do Método Sociológico (PDF fornecido pelo usuário)",
+  "questions": [
+    {
+      "id": "f0",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Fato social",
+      "q": "Para Durkheim, o que caracteriza um fato social?",
+      "o": [
+        "A) Maneiras de agir, pensar e sentir exteriores ao indivíduo, dotadas de poder coercitivo",
+        "B) Qualquer escolha privada repetida muitas vezes",
+        "C) Somente normas jurídicas escritas",
+        "D) Todo fenômeno biológico coletivo",
+        "E) Apenas crenças religiosas"
+      ],
+      "r": "A",
+      "e": "O fato social não se reduz à consciência individual: apresenta exterioridade e poder de coerção, e possui existência própria na vida coletiva. Para uma discursiva, parta dessa autonomia relativa do social diante do indivíduo."
+    },
+    {
+      "id": "f1",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Coerção social",
+      "q": "Como a coerção ajuda a reconhecer um fato social?",
+      "o": [
+        "A) Ela só existe quando há violência física",
+        "B) Ela se manifesta pela resistência ou sanção quando o indivíduo contraria maneiras coletivas estabelecidas",
+        "C) Ela elimina toda liberdade individual",
+        "D) Ela é exclusiva do Estado",
+        "E) Ela depende de aceitação consciente"
+      ],
+      "r": "B",
+      "e": "A coerção pode aparecer diretamente como sanção ou indiretamente como resistência social. Regras morais, jurídicas, costumes e convenções mostram sua força sobretudo quando alguém tenta afastar-se delas."
+    },
+    {
+      "id": "f2",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Exterioridade",
+      "q": "O que significa dizer que os fatos sociais são exteriores ao indivíduo?",
+      "o": [
+        "A) Que existem apenas fora das cidades",
+        "B) Que são fenômenos naturais",
+        "C) Que maneiras coletivas de agir e pensar preexistem ao indivíduo e não são criação exclusiva de sua consciência",
+        "D) Que não influenciam a consciência",
+        "E) Que são sempre impostos por lei"
+      ],
+      "r": "C",
+      "e": "Durkheim destaca que muitas regras, crenças, práticas e instituições já estão constituídas quando o indivíduo nasce. Ele as encontra socialmente estabelecidas e é educado para incorporá-las."
+    },
+    {
+      "id": "f3",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Generalidade e coletividade",
+      "q": "A generalidade, sozinha, define o fato social?",
+      "o": [
+        "A) Sim, tudo que é frequente é social",
+        "B) Sim, desde que seja maioria absoluta",
+        "C) Não; a generalidade é consequência de seu caráter coletivo, e não sua causa definidora",
+        "D) Não, porque fatos sociais são sempre raros",
+        "E) Apenas em sociedades modernas"
+      ],
+      "r": "C",
+      "e": "Durkheim adverte que não basta um fenômeno ser geral. Ele é geral porque é coletivo e possui existência independente das manifestações individuais. Essa distinção evita confundir simples repetição individual com realidade social."
+    },
+    {
+      "id": "f4",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Educação",
+      "q": "Por que a educação infantil é um exemplo importante para Durkheim?",
+      "o": [
+        "A) Porque elimina a sociedade",
+        "B) Porque mostra a imposição progressiva de maneiras de ver, sentir e agir que a criança não teria espontaneamente",
+        "C) Porque prova que toda coerção é física",
+        "D) Porque torna o indivíduo biologicamente igual",
+        "E) Porque dispensa hábitos"
+      ],
+      "r": "B",
+      "e": "A educação evidencia a socialização: horários, disciplina, costumes e regras são inculcados. Com o tempo, a coerção pode deixar de ser sentida como tal porque os hábitos sociais foram interiorizados."
+    },
+    {
+      "id": "f5",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Tratar fatos sociais como coisas",
+      "q": "Qual é a primeira regra fundamental de observação?",
+      "o": [
+        "A) Explicar fatos sociais pela intenção dos indivíduos",
+        "B) Tratar os fatos sociais como coisas",
+        "C) Partir da filosofia moral",
+        "D) Julgar primeiro se são bons ou ruins",
+        "E) Reduzi-los à psicologia"
+      ],
+      "r": "B",
+      "e": "Tratar como coisas significa abordar os fatos sociais como dados exteriores a serem conhecidos por observação, e não como ideias que o pesquisador já domina. É uma exigência de objetividade metodológica."
+    },
+    {
+      "id": "f6",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Pré-noções",
+      "q": "O que o sociólogo deve fazer com as pré-noções?",
+      "o": [
+        "A) Tomá-las como prova",
+        "B) Sistematizá-las antes da pesquisa",
+        "C) Afastá-las sistematicamente",
+        "D) Substituí-las por opiniões políticas",
+        "E) Mantê-las quando forem tradicionais"
+      ],
+      "r": "C",
+      "e": "Durkheim exige que o pesquisador descarte as pré-noções e resista às categorias do senso comum. O objeto deve ser construído cientificamente a partir de caracteres observáveis, não de ideias prévias."
+    },
+    {
+      "id": "f7",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Definição do objeto",
+      "q": "Como se deve definir inicialmente o objeto de investigação?",
+      "o": [
+        "A) Por características exteriores comuns e previamente identificáveis",
+        "B) Por sua essência metafísica",
+        "C) Pela opinião do pesquisador",
+        "D) Pelas consequências desejáveis",
+        "E) Pela intenção dos agentes"
+      ],
+      "r": "A",
+      "e": "A definição deve reunir fenômenos por caracteres exteriores comuns, permitindo delimitar previamente o campo de pesquisa sem antecipar a explicação que ainda precisa ser demonstrada."
+    },
+    {
+      "id": "f8",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Objetividade",
+      "q": "Que orientação ajuda o sociólogo a buscar maior objetividade?",
+      "o": [
+        "A) Usar sensações pessoais como medida",
+        "B) Considerar os fatos por aspectos em que se apresentem isolados de manifestações individuais",
+        "C) Evitar qualquer dado institucional",
+        "D) Estudar apenas casos excepcionais",
+        "E) Abandonar comparações"
+      ],
+      "r": "B",
+      "e": "Durkheim procura reduzir a interferência subjetiva. A investigação deve apoiar-se em caracteres suficientemente fixos e observáveis, afastando impressões pessoais e conceitos vulgares."
+    },
+    {
+      "id": "f9",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Normal e patológico",
+      "q": "Como Durkheim distingue, metodologicamente, o normal do patológico?",
+      "o": [
+        "A) Pelo gosto do pesquisador",
+        "B) Pela conformidade religiosa",
+        "C) Pela generalidade do fenômeno em determinado tipo social e fase de desenvolvimento, com verificação das condições dessa generalidade",
+        "D) Pela ausência de conflito",
+        "E) Pela decisão jurídica"
+      ],
+      "r": "C",
+      "e": "Normal e patológico não são definidos por preferência moral. O normal relaciona-se à generalidade em uma espécie social considerada numa fase de evolução; a análise deve ainda verificar as condições que sustentam essa normalidade."
+    },
+    {
+      "id": "f10",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Crime como fenômeno normal",
+      "q": "Por que Durkheim considera o crime um fenômeno social normal?",
+      "o": [
+        "A) Porque todo crime é moralmente bom",
+        "B) Porque aparece nas sociedades e está ligado às condições fundamentais da vida social, dentro de certos limites",
+        "C) Porque não deve ser punido",
+        "D) Porque só existe em sociedades antigas",
+        "E) Porque resulta exclusivamente da pobreza"
+      ],
+      "r": "B",
+      "e": "Chamar o crime de normal não significa aprová-lo. Durkheim argumenta que não há sociedade sem criminalidade e que sua existência, dentro de limites, acompanha a própria organização da vida coletiva."
+    },
+    {
+      "id": "f11",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Função do crime",
+      "q": "Que papel o crime pode desempenhar na evolução social segundo Durkheim?",
+      "o": [
+        "A) Nenhum",
+        "B) Apenas destruir instituições",
+        "C) Em certas condições, abrir caminho a transformações da moral e do direito",
+        "D) Impedir toda mudança",
+        "E) Substituir a educação"
+      ],
+      "r": "C",
+      "e": "Durkheim observa que alguma margem de desvio pode acompanhar mudanças coletivas: atos antes condenados podem antecipar novas formas morais. A tese não transforma qualquer crime em algo desejável; trata de sua possível função social."
+    },
+    {
+      "id": "f12",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Tipo social",
+      "q": "Por que Durkheim propõe constituir tipos ou espécies sociais?",
+      "o": [
+        "A) Para ordenar a diversidade social e tornar possível comparar normalidade e explicação entre sociedades comparáveis",
+        "B) Para afirmar que todas as sociedades são idênticas",
+        "C) Para substituir observação por filosofia",
+        "D) Para classificar indivíduos biologicamente",
+        "E) Para evitar história"
+      ],
+      "r": "A",
+      "e": "A classificação em espécies sociais fornece uma referência intermediária entre uma humanidade abstrata e sociedades particulares. Ela é necessária, inclusive, para avaliar o normal relativamente a determinado tipo social."
+    },
+    {
+      "id": "f13",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Sociedade simples",
+      "q": "Qual elemento ocupa papel básico na classificação morfológica de Durkheim?",
+      "o": [
+        "A) O indivíduo isolado",
+        "B) A sociedade simples ou segmento social que não contém outros segmentos anteriores",
+        "C) A renda nacional",
+        "D) A religião dominante",
+        "E) O clima"
+      ],
+      "r": "B",
+      "e": "Durkheim parte da sociedade mais simples e examina como sociedades se formam pela combinação de unidades e pelo grau de coalescência entre segmentos. A morfologia social sustenta a classificação."
+    },
+    {
+      "id": "f14",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Causa e função",
+      "q": "Na explicação de um fato social, causa e função devem ser confundidas?",
+      "o": [
+        "A) Sim, são sinônimos",
+        "B) Não; deve-se investigar separadamente a causa que o produz e a função que ele desempenha",
+        "C) Sim, quando o fato é normal",
+        "D) Apenas no direito",
+        "E) Apenas em sociedades simples"
+      ],
+      "r": "B",
+      "e": "Uma instituição pode persistir e desempenhar uma função distinta das causas históricas que a produziram. Para uma resposta discursiva, destaque a separação analítica entre gênese causal e utilidade/função social."
+    },
+    {
+      "id": "f15",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Causa social",
+      "q": "Onde deve ser buscada a causa determinante de um fato social?",
+      "o": [
+        "A) Principalmente nos estados da consciência individual",
+        "B) Em fatos sociais anteriores e nas condições do meio social",
+        "C) Somente na biologia",
+        "D) Na intenção do legislador",
+        "E) No acaso"
+      ],
+      "r": "B",
+      "e": "Durkheim rejeita reduzir a explicação sociológica à psicologia individual. As causas determinantes devem ser procuradas entre fatos sociais antecedentes e na constituição do meio social interno."
+    },
+    {
+      "id": "f16",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Função social",
+      "q": "Como deve ser investigada a função de um fato social?",
+      "o": [
+        "A) Pela correspondência que mantém com necessidades do organismo social, sem confundi-la com intenção consciente",
+        "B) Pela opinião de quem o criou",
+        "C) Apenas pela origem histórica",
+        "D) Pelo prazer individual",
+        "E) Pela moral do pesquisador"
+      ],
+      "r": "A",
+      "e": "A função diz respeito ao papel desempenhado pelo fato na vida do conjunto social. Não equivale a finalidade consciente dos indivíduos e deve ser examinada separadamente de sua causa."
+    },
+    {
+      "id": "f17",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Meio social interno",
+      "q": "Por que o meio social interno é importante na explicação?",
+      "o": [
+        "A) Porque substitui todos os fatos históricos",
+        "B) Porque características como volume e densidade social influenciam processos e transformações coletivas",
+        "C) Porque é apenas geografia física",
+        "D) Porque elimina instituições",
+        "E) Porque explica somente crimes"
+      ],
+      "r": "B",
+      "e": "O meio social interno oferece condições dinâmicas para a vida coletiva. Durkheim procura nele forças capazes de explicar fatos e mudanças sociais sem recorrer a causas puramente individuais ou finalistas."
+    },
+    {
+      "id": "f18",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Método comparativo",
+      "q": "Qual método corresponde à experimentação na sociologia durkheimiana?",
+      "o": [
+        "A) Introspecção",
+        "B) Método comparativo",
+        "C) Entrevista livre como único método",
+        "D) Dedução metafísica",
+        "E) Julgamento moral"
+      ],
+      "r": "B",
+      "e": "Como os fenômenos sociais não podem ser produzidos livremente em laboratório, a comparação de casos e variações funciona como experimentação indireta para examinar relações causais."
+    },
+    {
+      "id": "f19",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Variações concomitantes",
+      "q": "Por que as variações concomitantes são relevantes?",
+      "o": [
+        "A) Porque dispensam qualquer interpretação",
+        "B) Porque permitem observar se mudanças regulares em dois fenômenos indicam uma relação que deve ser investigada",
+        "C) Porque provam causalidade automaticamente",
+        "D) Porque só servem à biologia",
+        "E) Porque substituem a classificação"
+      ],
+      "r": "B",
+      "e": "A covariação regular é um instrumento privilegiado de investigação, mas precisa ser interpretada. O pesquisador deve estabelecer a ligação e evitar transformar simples paralelismo em explicação automática."
+    },
+    {
+      "id": "f20",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Sociologia como ciência",
+      "q": "Qual projeto científico atravessa a obra?",
+      "o": [
+        "A) Tornar a sociologia uma extensão da opinião moral",
+        "B) Dar à sociologia objeto e método próprios, estudando fatos sociais objetivamente",
+        "C) Eliminar diferenças entre sociologia e psicologia",
+        "D) Explicar a sociedade apenas pela filosofia",
+        "E) Negar regularidades sociais"
+      ],
+      "r": "B",
+      "e": "A obra busca consolidar a autonomia científica da sociologia. Fatos sociais constituem uma realidade específica, exigindo regras próprias de observação, classificação, explicação e prova."
+    },
+    {
+      "id": "f21",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Holismo metodológico",
+      "q": "Qual relação entre sociedade e indivíduo aparece no método de Durkheim?",
+      "o": [
+        "A) A sociedade é simples soma de indivíduos",
+        "B) Fenômenos coletivos podem possuir propriedades próprias que não se reduzem à soma das consciências individuais",
+        "C) O indivíduo não existe",
+        "D) Toda ação é determinada juridicamente",
+        "E) Psicologia e sociologia têm o mesmo objeto"
+      ],
+      "r": "B",
+      "e": "Durkheim insiste que a associação produz uma realidade com propriedades específicas. Esse ponto sustenta a autonomia do objeto sociológico e a recusa de explicar diretamente o coletivo pelo individual."
+    },
+    {
+      "id": "f22",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Instituições",
+      "q": "Em sentido amplo, como a sociologia pode tratar instituições?",
+      "o": [
+        "A) Como crenças e modos de conduta instituídos pela coletividade",
+        "B) Apenas como prédios públicos",
+        "C) Somente como leis escritas",
+        "D) Como escolhas privadas",
+        "E) Como fenômenos biológicos"
+      ],
+      "r": "A",
+      "e": "Na formulação durkheimiana, instituições abrangem maneiras coletivamente estabelecidas de agir e pensar. A sociologia pode ser entendida como ciência dessas instituições, de sua gênese e de seu funcionamento."
+    },
+    {
+      "id": "f23",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Moral e ciência",
+      "q": "O método sociológico deve começar julgando moralmente os fatos estudados?",
+      "o": [
+        "A) Sim",
+        "B) Não; primeiro deve conhecê-los objetivamente, distinguindo análise científica de juízo prático",
+        "C) Apenas quando houver crime",
+        "D) Apenas em sociedades modernas",
+        "E) Depende da opinião pública"
+      ],
+      "r": "B",
+      "e": "A exigência metodológica é suspender juízos prévios para explicar os fatos. Isso não significa que questões práticas sejam irrelevantes, mas que a ciência não pode substituir investigação por aprovação ou condenação antecipada."
+    },
+    {
+      "id": "f24",
+      "s": "Sociologia — Émile Durkheim",
+      "t": "Síntese discursiva",
+      "q": "Qual sequência melhor sintetiza o método apresentado no livro?",
+      "o": [
+        "A) Opinião → julgamento → conclusão",
+        "B) Definir e observar objetivamente → classificar → distinguir normal/patológico → explicar causa e função → comparar e provar",
+        "C) Biologia → psicologia → moral",
+        "D) Intuição → tradição → lei",
+        "E) Descrição individual → generalização automática"
+      ],
+      "r": "B",
+      "e": "Uma boa resposta discursiva pode usar essa arquitetura: delimitar o fato social e sua objetividade; explicar as regras de observação; situá-lo em tipos sociais e na distinção normal/patológico; investigar causas e funções; e demonstrar relações pelo método comparativo."
+    }
+  ]
 }
