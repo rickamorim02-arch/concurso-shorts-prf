@@ -1,9 +1,9 @@
 {
   "app": "Concurso Shorts SEFAZ-AL 2026",
   "schema_version": 1,
-  "bank_version": 4,
+  "bank_version": 5,
   "updated_at": "2026-09-29",
-  "total": 40,
+  "total": 240,
   "sources": [
     "Segurança da Informação e Redes.zip",
     "Auditoria Fiscal.zip",
@@ -506,6 +506,2406 @@
       ],
       "r": "B",
       "e": "O pacote contém aula específica intitulada ITBI e COSIP, além dos conteúdos de ITCMD e IBS."
+    },
+    {
+      "id": "s40",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 1",
+      "q": "Firewall pode aplicar regras para controlar o tráfego de rede.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+    },
+    {
+      "id": "s41",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Firewall pode aplicar regras para controlar o tráfego de rede.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s42",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 2",
+      "q": "DNS realiza resolução de nomes em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+    },
+    {
+      "id": "s43",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: DNS realiza resolução de nomes em redes IP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s44",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 3",
+      "q": "Certificação digital pode empregar criptografia assimétrica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+    },
+    {
+      "id": "s45",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Certificação digital pode empregar criptografia assimétrica.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s46",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 4",
+      "q": "Gestão de riscos envolve identificar e tratar riscos de segurança da informação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+    },
+    {
+      "id": "s47",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Gestão de riscos envolve identificar e tratar riscos de segurança da informação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s48",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 5",
+      "q": "Continuidade de negócio busca manter ou recuperar atividades críticas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Segurança da Informação e Redes."
+    },
+    {
+      "id": "s49",
+      "s": "Segurança da Informação e Redes",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Continuidade de negócio busca manter ou recuperar atividades críticas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s50",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 1",
+      "q": "SPED promove escrituração e intercâmbio digital de informações fiscais e contábeis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+    },
+    {
+      "id": "s51",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: SPED promove escrituração e intercâmbio digital de informações fiscais e contábeis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s52",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 2",
+      "q": "EFD e NF-e podem ser cruzadas para detectar inconsistências fiscais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+    },
+    {
+      "id": "s53",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: EFD e NF-e podem ser cruzadas para detectar inconsistências fiscais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s54",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 3",
+      "q": "Omissão de receitas pode ser objeto de procedimentos de auditoria fiscal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+    },
+    {
+      "id": "s55",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Omissão de receitas pode ser objeto de procedimentos de auditoria fiscal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s56",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 4",
+      "q": "ECD integra o ambiente do SPED.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+    },
+    {
+      "id": "s57",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: ECD integra o ambiente do SPED.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s58",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 5",
+      "q": "Documentos fiscais eletrônicos favorecem verificações automatizadas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Auditoria Fiscal."
+    },
+    {
+      "id": "s59",
+      "s": "Auditoria Fiscal",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Documentos fiscais eletrônicos favorecem verificações automatizadas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s60",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 1",
+      "q": "O balanço patrimonial evidencia ativos, passivos e patrimônio líquido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+    },
+    {
+      "id": "s61",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: O balanço patrimonial evidencia ativos, passivos e patrimônio líquido.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s62",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 2",
+      "q": "A DRE evidencia o desempenho por meio de receitas e despesas do período.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+    },
+    {
+      "id": "s63",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A DRE evidencia o desempenho por meio de receitas e despesas do período.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s64",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 3",
+      "q": "O CPC 01 trata de redução ao valor recuperável de ativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+    },
+    {
+      "id": "s65",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: O CPC 01 trata de redução ao valor recuperável de ativos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s66",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 4",
+      "q": "O CPC 25 aborda provisões, passivos contingentes e ativos contingentes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+    },
+    {
+      "id": "s67",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: O CPC 25 aborda provisões, passivos contingentes e ativos contingentes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s68",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 5",
+      "q": "Escrituração registra fatos contábeis segundo método e critérios próprios da contabilidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Geral."
+    },
+    {
+      "id": "s69",
+      "s": "Contabilidade Geral",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Escrituração registra fatos contábeis segundo método e critérios próprios da contabilidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s70",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 1",
+      "q": "O balanço orçamentário confronta previsão/fixação com a execução de receitas e despesas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+    },
+    {
+      "id": "s71",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: O balanço orçamentário confronta previsão/fixação com a execução de receitas e despesas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s72",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 2",
+      "q": "O balanço financeiro evidencia ingressos e dispêndios financeiros conforme a estrutura do setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+    },
+    {
+      "id": "s73",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: O balanço financeiro evidencia ingressos e dispêndios financeiros conforme a estrutura do setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s74",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 3",
+      "q": "A DVP evidencia variações patrimoniais aumentativas e diminutivas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+    },
+    {
+      "id": "s75",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: A DVP evidencia variações patrimoniais aumentativas e diminutivas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s76",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 4",
+      "q": "O PCASP padroniza contas aplicáveis à contabilidade do setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+    },
+    {
+      "id": "s77",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: O PCASP padroniza contas aplicáveis à contabilidade do setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s78",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 5",
+      "q": "O MCASP reúne procedimentos contábeis aplicáveis ao setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Contabilidade Pública."
+    },
+    {
+      "id": "s79",
+      "s": "Contabilidade Pública",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O MCASP reúne procedimentos contábeis aplicáveis ao setor público.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s80",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 1",
+      "q": "Git permite controle de versões e trabalho com branches.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+    },
+    {
+      "id": "s81",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Git permite controle de versões e trabalho com branches.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s82",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 2",
+      "q": "Java e JavaScript são linguagens distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+    },
+    {
+      "id": "s83",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Java e JavaScript são linguagens distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s84",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 3",
+      "q": "DevSecOps integra práticas de segurança ao ciclo de desenvolvimento e operações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+    },
+    {
+      "id": "s85",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: DevSecOps integra práticas de segurança ao ciclo de desenvolvimento e operações.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s86",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 4",
+      "q": "Contêineres empacotam aplicações e dependências de forma isolada.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+    },
+    {
+      "id": "s87",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Contêineres empacotam aplicações e dependências de forma isolada.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s88",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 5",
+      "q": "Mensageria pode desacoplar componentes por meio da troca de mensagens.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Desenvolvimento de Sistemas."
+    },
+    {
+      "id": "s89",
+      "s": "Desenvolvimento de Sistemas",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Mensageria pode desacoplar componentes por meio da troca de mensagens.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s90",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 1",
+      "q": "Ato administrativo é tema próprio do regime jurídico-administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+    },
+    {
+      "id": "s91",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Ato administrativo é tema próprio do regime jurídico-administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s92",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 2",
+      "q": "A licitação deve observar regras e princípios legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+    },
+    {
+      "id": "s93",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A licitação deve observar regras e princípios legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s94",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 3",
+      "q": "Contratos administrativos podem conter prerrogativas próprias da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+    },
+    {
+      "id": "s95",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Contratos administrativos podem conter prerrogativas próprias da Administração.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s96",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 4",
+      "q": "A responsabilidade civil do Estado integra o estudo do Direito Administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+    },
+    {
+      "id": "s97",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: A responsabilidade civil do Estado integra o estudo do Direito Administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s98",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 5",
+      "q": "Processo administrativo deve observar contraditório e ampla defesa quando cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Administrativo."
+    },
+    {
+      "id": "s99",
+      "s": "Direito Administrativo",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Processo administrativo deve observar contraditório e ampla defesa quando cabíveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s100",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 1",
+      "q": "Direitos e garantias fundamentais ocupam posição central na Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+    },
+    {
+      "id": "s101",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Direitos e garantias fundamentais ocupam posição central na Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s102",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 2",
+      "q": "A organização político-administrativa disciplina a estrutura federativa do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+    },
+    {
+      "id": "s103",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A organização político-administrativa disciplina a estrutura federativa do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s104",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 3",
+      "q": "O processo legislativo disciplina a formação das espécies normativas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+    },
+    {
+      "id": "s105",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: O processo legislativo disciplina a formação das espécies normativas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s106",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 4",
+      "q": "O controle de constitucionalidade verifica compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+    },
+    {
+      "id": "s107",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: O controle de constitucionalidade verifica compatibilidade de atos normativos com a Constituição.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s108",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 5",
+      "q": "A Constituição disciplina os Poderes Executivo, Legislativo e Judiciário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Constitucional."
+    },
+    {
+      "id": "s109",
+      "s": "Direito Constitucional",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: A Constituição disciplina os Poderes Executivo, Legislativo e Judiciário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s110",
+      "s": "Direito Tributário",
+      "t": "Revisão — 1",
+      "q": "Competência tributária refere-se ao poder constitucionalmente atribuído para instituir tributos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+    },
+    {
+      "id": "s111",
+      "s": "Direito Tributário",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Competência tributária refere-se ao poder constitucionalmente atribuído para instituir tributos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s112",
+      "s": "Direito Tributário",
+      "t": "Revisão — 2",
+      "q": "A obrigação tributária pode ser principal ou acessória nos termos do CTN.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+    },
+    {
+      "id": "s113",
+      "s": "Direito Tributário",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A obrigação tributária pode ser principal ou acessória nos termos do CTN.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s114",
+      "s": "Direito Tributário",
+      "t": "Revisão — 3",
+      "q": "O lançamento relaciona-se à constituição do crédito tributário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+    },
+    {
+      "id": "s115",
+      "s": "Direito Tributário",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: O lançamento relaciona-se à constituição do crédito tributário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s116",
+      "s": "Direito Tributário",
+      "t": "Revisão — 4",
+      "q": "A isenção é tratada pelo CTN entre as hipóteses de exclusão do crédito tributário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+    },
+    {
+      "id": "s117",
+      "s": "Direito Tributário",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: A isenção é tratada pelo CTN entre as hipóteses de exclusão do crédito tributário.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s118",
+      "s": "Direito Tributário",
+      "t": "Revisão — 5",
+      "q": "A administração tributária abrange atividades de fiscalização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Direito Tributário."
+    },
+    {
+      "id": "s119",
+      "s": "Direito Tributário",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: A administração tributária abrange atividades de fiscalização.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s120",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 1",
+      "q": "Elasticidade mede a sensibilidade de uma variável econômica a mudanças em outra.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+    },
+    {
+      "id": "s121",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Elasticidade mede a sensibilidade de uma variável econômica a mudanças em outra.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s122",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 2",
+      "q": "Concorrência perfeita e monopólio são estruturas de mercado distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+    },
+    {
+      "id": "s123",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Concorrência perfeita e monopólio são estruturas de mercado distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s124",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 3",
+      "q": "Receitas, despesas e financiamento estatal integram o estudo das finanças públicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+    },
+    {
+      "id": "s125",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Receitas, despesas e financiamento estatal integram o estudo das finanças públicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s126",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 4",
+      "q": "Taxa de câmbio relaciona valores de moedas distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+    },
+    {
+      "id": "s127",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Taxa de câmbio relaciona valores de moedas distintas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s128",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 5",
+      "q": "Crédito público pode financiar necessidades do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Economia + Finanças Públicas."
+    },
+    {
+      "id": "s129",
+      "s": "Economia + Finanças Públicas",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Crédito público pode financiar necessidades do Estado.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s130",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 1",
+      "q": "Scrum organiza trabalho de forma iterativa e incremental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+    },
+    {
+      "id": "s131",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Scrum organiza trabalho de forma iterativa e incremental.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s132",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 2",
+      "q": "Kanban utiliza visualização do fluxo e controle do trabalho em andamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+    },
+    {
+      "id": "s133",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Kanban utiliza visualização do fluxo e controle do trabalho em andamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s134",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 3",
+      "q": "TDD enfatiza testes no processo de desenvolvimento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+    },
+    {
+      "id": "s135",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: TDD enfatiza testes no processo de desenvolvimento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s136",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 4",
+      "q": "Arquitetura orientada a serviços organiza funcionalidades como serviços interoperáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+    },
+    {
+      "id": "s137",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Arquitetura orientada a serviços organiza funcionalidades como serviços interoperáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s138",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 5",
+      "q": "BPMN é utilizada na modelagem de processos de negócio.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Engenharia de Software."
+    },
+    {
+      "id": "s139",
+      "s": "Engenharia de Software",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: BPMN é utilizada na modelagem de processos de negócio.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s140",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 1",
+      "q": "A média aritmética é uma medida de tendência central.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+    },
+    {
+      "id": "s141",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: A média aritmética é uma medida de tendência central.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s142",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 2",
+      "q": "A mediana é uma medida separatriz ligada à posição central dos dados ordenados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+    },
+    {
+      "id": "s143",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A mediana é uma medida separatriz ligada à posição central dos dados ordenados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s144",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 3",
+      "q": "Variância e desvio padrão são medidas de dispersão.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+    },
+    {
+      "id": "s145",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Variância e desvio padrão são medidas de dispersão.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s146",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 4",
+      "q": "Análise combinatória auxilia a contagem em problemas de probabilidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+    },
+    {
+      "id": "s147",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Análise combinatória auxilia a contagem em problemas de probabilidade.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s148",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 5",
+      "q": "Amostragem estuda procedimentos para selecionar subconjuntos de uma população.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Estatística e Probabilidade."
+    },
+    {
+      "id": "s149",
+      "s": "Estatística e Probabilidade",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Amostragem estuda procedimentos para selecionar subconjuntos de uma população.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s150",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 1",
+      "q": "PPA, LDO e LOA integram o sistema brasileiro de planejamento e orçamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+    },
+    {
+      "id": "s151",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: PPA, LDO e LOA integram o sistema brasileiro de planejamento e orçamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s152",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 2",
+      "q": "Créditos adicionais permitem alterações orçamentárias nas hipóteses legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+    },
+    {
+      "id": "s153",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Créditos adicionais permitem alterações orçamentárias nas hipóteses legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s154",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 3",
+      "q": "Receita e despesa públicas possuem estágios na execução orçamentária.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+    },
+    {
+      "id": "s155",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Receita e despesa públicas possuem estágios na execução orçamentária.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s156",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 4",
+      "q": "Restos a pagar relacionam-se a despesas empenhadas e não pagas até o encerramento do exercício, conforme as regras aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+    },
+    {
+      "id": "s157",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Restos a pagar relacionam-se a despesas empenhadas e não pagas até o encerramento do exercício, conforme as regras aplicáveis.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s158",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 5",
+      "q": "A LRF estabelece normas voltadas à responsabilidade na gestão fiscal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Finanças Públicas (Orçamento + LRF)."
+    },
+    {
+      "id": "s159",
+      "s": "Finanças Públicas (Orçamento + LRF)",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: A LRF estabelece normas voltadas à responsabilidade na gestão fiscal.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s160",
+      "s": "Forense Computacional",
+      "t": "Revisão — 1",
+      "q": "Imagem forense de disco permite análise preservando a mídia original.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+    },
+    {
+      "id": "s161",
+      "s": "Forense Computacional",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Imagem forense de disco permite análise preservando a mídia original.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s162",
+      "s": "Forense Computacional",
+      "t": "Revisão — 2",
+      "q": "Hash pode auxiliar na verificação de integridade de evidências digitais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+    },
+    {
+      "id": "s163",
+      "s": "Forense Computacional",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Hash pode auxiliar na verificação de integridade de evidências digitais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s164",
+      "s": "Forense Computacional",
+      "t": "Revisão — 3",
+      "q": "Cadeia de custódia documenta o tratamento da evidência ao longo do processo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+    },
+    {
+      "id": "s165",
+      "s": "Forense Computacional",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Cadeia de custódia documenta o tratamento da evidência ao longo do processo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s166",
+      "s": "Forense Computacional",
+      "t": "Revisão — 4",
+      "q": "Criptografia pode dificultar o acesso a conteúdo em análise forense.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+    },
+    {
+      "id": "s167",
+      "s": "Forense Computacional",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Criptografia pode dificultar o acesso a conteúdo em análise forense.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s168",
+      "s": "Forense Computacional",
+      "t": "Revisão — 5",
+      "q": "Esteganografia busca ocultar a existência de uma informação em outro conteúdo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Forense Computacional."
+    },
+    {
+      "id": "s169",
+      "s": "Forense Computacional",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Esteganografia busca ocultar a existência de uma informação em outro conteúdo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s170",
+      "s": "Governança de TI",
+      "t": "Revisão — 1",
+      "q": "No ITIL 4, a cadeia de valor de serviço possui seis atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+    },
+    {
+      "id": "s171",
+      "s": "Governança de TI",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: No ITIL 4, a cadeia de valor de serviço possui seis atividades.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s172",
+      "s": "Governança de TI",
+      "t": "Revisão — 2",
+      "q": "Planejar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+    },
+    {
+      "id": "s173",
+      "s": "Governança de TI",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Planejar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s174",
+      "s": "Governança de TI",
+      "t": "Revisão — 3",
+      "q": "Engajar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+    },
+    {
+      "id": "s175",
+      "s": "Governança de TI",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Engajar é uma atividade da cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s176",
+      "s": "Governança de TI",
+      "t": "Revisão — 4",
+      "q": "Entregar e suportar integra a cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+    },
+    {
+      "id": "s177",
+      "s": "Governança de TI",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Entregar e suportar integra a cadeia de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s178",
+      "s": "Governança de TI",
+      "t": "Revisão — 5",
+      "q": "Melhoria contínua integra o sistema de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Governança de TI."
+    },
+    {
+      "id": "s179",
+      "s": "Governança de TI",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Melhoria contínua integra o sistema de valor de serviço do ITIL 4.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s180",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 1",
+      "q": "CRISP-DM é um modelo de referência para projetos de mineração e ciência de dados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+    },
+    {
+      "id": "s181",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: CRISP-DM é um modelo de referência para projetos de mineração e ciência de dados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s182",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 2",
+      "q": "Clusterização é uma técnica de agrupamento de dados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+    },
+    {
+      "id": "s183",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Clusterização é uma técnica de agrupamento de dados.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s184",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 3",
+      "q": "Aprendizado supervisionado utiliza exemplos rotulados no treinamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+    },
+    {
+      "id": "s185",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Aprendizado supervisionado utiliza exemplos rotulados no treinamento.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s186",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 4",
+      "q": "Pré-processamento pode incluir limpeza e transformação de dados antes da modelagem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+    },
+    {
+      "id": "s187",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Pré-processamento pode incluir limpeza e transformação de dados antes da modelagem.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s188",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 5",
+      "q": "O teorema CAP trata de propriedades e compromissos em sistemas distribuídos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Inteligência Artificial e Ciência de Dados."
+    },
+    {
+      "id": "s189",
+      "s": "Inteligência Artificial e Ciência de Dados",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O teorema CAP trata de propriedades e compromissos em sistemas distribuídos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s190",
+      "s": "LTE 1",
+      "t": "Revisão — 1",
+      "q": "Na importação, o desembaraço aduaneiro pode ser relevante para o fato gerador do ICMS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+    },
+    {
+      "id": "s191",
+      "s": "LTE 1",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Na importação, o desembaraço aduaneiro pode ser relevante para o fato gerador do ICMS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s192",
+      "s": "LTE 1",
+      "t": "Revisão — 2",
+      "q": "O ICMS integra sua própria base de cálculo nas hipóteses previstas na legislação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+    },
+    {
+      "id": "s193",
+      "s": "LTE 1",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: O ICMS integra sua própria base de cálculo nas hipóteses previstas na legislação.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s194",
+      "s": "LTE 1",
+      "t": "Revisão — 3",
+      "q": "A Lei Kandir disciplina normas gerais relativas ao ICMS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+    },
+    {
+      "id": "s195",
+      "s": "LTE 1",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: A Lei Kandir disciplina normas gerais relativas ao ICMS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s196",
+      "s": "LTE 1",
+      "t": "Revisão — 4",
+      "q": "A apropriação de crédito de ICMS relativo a ativo imobilizado observa regras específicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+    },
+    {
+      "id": "s197",
+      "s": "LTE 1",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: A apropriação de crédito de ICMS relativo a ativo imobilizado observa regras específicas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s198",
+      "s": "LTE 1",
+      "t": "Revisão — 5",
+      "q": "O material de LTE 1 também aborda IPVA e legislação estadual de Alagoas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 1."
+    },
+    {
+      "id": "s199",
+      "s": "LTE 1",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O material de LTE 1 também aborda IPVA e legislação estadual de Alagoas.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s200",
+      "s": "LTE 2",
+      "t": "Revisão — 1",
+      "q": "No PAT de Alagoas, a intimação do sujeito passivo segue os meios previstos na legislação estadual.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+    },
+    {
+      "id": "s201",
+      "s": "LTE 2",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: No PAT de Alagoas, a intimação do sujeito passivo segue os meios previstos na legislação estadual.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s202",
+      "s": "LTE 2",
+      "t": "Revisão — 2",
+      "q": "A propositura de ação judicial pode repercutir no conhecimento da defesa administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+    },
+    {
+      "id": "s203",
+      "s": "LTE 2",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A propositura de ação judicial pode repercutir no conhecimento da defesa administrativa.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s204",
+      "s": "LTE 2",
+      "t": "Revisão — 3",
+      "q": "Legislação superveniente mais benéfica pode alcançar situações previstas nas regras estudadas do PAT.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+    },
+    {
+      "id": "s205",
+      "s": "LTE 2",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Legislação superveniente mais benéfica pode alcançar situações previstas nas regras estudadas do PAT.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s206",
+      "s": "LTE 2",
+      "t": "Revisão — 4",
+      "q": "O ITCMD incide sobre transmissões causa mortis e doações nos termos legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+    },
+    {
+      "id": "s207",
+      "s": "LTE 2",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: O ITCMD incide sobre transmissões causa mortis e doações nos termos legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s208",
+      "s": "LTE 2",
+      "t": "Revisão — 5",
+      "q": "O processo administrativo tributário admite instâncias e recursos conforme a disciplina estadual.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote LTE 2."
+    },
+    {
+      "id": "s209",
+      "s": "LTE 2",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O processo administrativo tributário admite instâncias e recursos conforme a disciplina estadual.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s210",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 1",
+      "q": "Nos juros simples, os juros são calculados segundo o regime simples sobre o capital-base.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+    },
+    {
+      "id": "s211",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: Nos juros simples, os juros são calculados segundo o regime simples sobre o capital-base.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s212",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 2",
+      "q": "Nos juros compostos ocorre capitalização ao longo dos períodos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+    },
+    {
+      "id": "s213",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: Nos juros compostos ocorre capitalização ao longo dos períodos.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s214",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 3",
+      "q": "Taxas equivalentes produzem resultado financeiro equivalente em horizonte temporal compatível.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+    },
+    {
+      "id": "s215",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: Taxas equivalentes produzem resultado financeiro equivalente em horizonte temporal compatível.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s216",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 4",
+      "q": "Sistemas de amortização descrevem formas de pagamento de principal e juros ao longo do tempo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+    },
+    {
+      "id": "s217",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: Sistemas de amortização descrevem formas de pagamento de principal e juros ao longo do tempo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s218",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 5",
+      "q": "Análise de investimentos pode utilizar fluxos de caixa distribuídos no tempo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Matemática Financeira."
+    },
+    {
+      "id": "s219",
+      "s": "Matemática Financeira",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: Análise de investimentos pode utilizar fluxos de caixa distribuídos no tempo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s220",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 1",
+      "q": "IBS e CBS integram a nova estrutura de tributação do consumo disciplinada pela reforma.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+    },
+    {
+      "id": "s221",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: IBS e CBS integram a nova estrutura de tributação do consumo disciplinada pela reforma.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s222",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 2",
+      "q": "A LC 214/2025 prevê diferentes mecanismos de extinção de débitos de IBS e CBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+    },
+    {
+      "id": "s223",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A LC 214/2025 prevê diferentes mecanismos de extinção de débitos de IBS e CBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s224",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 3",
+      "q": "A administração do IBS e da CBS prevê soluções integradas entre os órgãos competentes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+    },
+    {
+      "id": "s225",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: A administração do IBS e da CBS prevê soluções integradas entre os órgãos competentes.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s226",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 4",
+      "q": "A reforma prevê sistemática de devolução de IBS e CBS a quem atenda aos requisitos legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+    },
+    {
+      "id": "s227",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: A reforma prevê sistemática de devolução de IBS e CBS a quem atenda aos requisitos legais.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s228",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 5",
+      "q": "O Imposto Seletivo integra os temas disciplinados na reforma tributária.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (EC nº 1322023 e LC nº 2142025)."
+    },
+    {
+      "id": "s229",
+      "s": "Reforma (EC nº 1322023 e LC nº 2142025)",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O Imposto Seletivo integra os temas disciplinados na reforma tributária.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s230",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 1",
+      "q": "O PAT do IBS previsto na LC 227/2026 contempla princípios e regras do contencioso administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+    },
+    {
+      "id": "s231",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 1",
+      "q": "É incorreto afirmar que: O PAT do IBS previsto na LC 227/2026 contempla princípios e regras do contencioso administrativo.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s232",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 2",
+      "q": "A LC 227/2026 disciplina estrutura e competências do Comitê Gestor do IBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+    },
+    {
+      "id": "s233",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 2",
+      "q": "É incorreto afirmar que: A LC 227/2026 disciplina estrutura e competências do Comitê Gestor do IBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s234",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 3",
+      "q": "O CGIBS possui características institucionais definidas em lei complementar.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+    },
+    {
+      "id": "s235",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 3",
+      "q": "É incorreto afirmar que: O CGIBS possui características institucionais definidas em lei complementar.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s236",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 4",
+      "q": "A LC 227/2026 trata da distribuição do produto da arrecadação do IBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+    },
+    {
+      "id": "s237",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 4",
+      "q": "É incorreto afirmar que: A LC 227/2026 trata da distribuição do produto da arrecadação do IBS.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
+    },
+    {
+      "id": "s238",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 5",
+      "q": "O material da LC 227/2026 também aborda ITCMD, ITBI e COSIP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "A",
+      "e": "O item está de acordo com o conteúdo estudado no pacote Reforma (LC nº 2272026)."
+    },
+    {
+      "id": "s239",
+      "s": "Reforma (LC nº 2272026)",
+      "t": "Revisão — 5",
+      "q": "É incorreto afirmar que: O material da LC 227/2026 também aborda ITCMD, ITBI e COSIP.",
+      "o": [
+        "A) Certo",
+        "B) Errado"
+      ],
+      "r": "B",
+      "e": "O enunciado-base está correto no material; portanto, dizer que ele é incorreto torna este item errado."
     }
   ]
 }
