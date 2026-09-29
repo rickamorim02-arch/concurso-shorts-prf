@@ -1,6 +1,6 @@
 {
   "app": "Faculdade",
-  "bank_version": 3,
+  "bank_version": 4,
   "updated_at": "2026-09-29",
   "source": "Émile Durkheim — As Regras do Método Sociológico (PDF fornecido pelo usuário)",
   "questions": [
@@ -903,6 +903,656 @@
       ],
       "r": "B",
       "e": "A autonomia da disciplina resulta da articulação entre objeto próprio e método próprio: observar fatos sociais como realidades específicas, buscar causas no domínio social e testar relações por comparação."
+    },
+    {
+      "id": "f60",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Física Social",
+      "q": "Como Comte define a Física Social no texto?",
+      "o": [
+        "A) Como ciência dos fenômenos sociais submetidos a leis naturais, estudados com espírito positivo",
+        "B) Como filosofia moral sem observação",
+        "C) Como estudo exclusivo do indivíduo",
+        "D) Como crítica literária da política",
+        "E) Como ramo da teologia"
+      ],
+      "r": "A",
+      "e": "Comte apresenta a Física Social como ciência dos fenômenos sociais, concebidos como submetidos a leis naturais invariáveis cuja descoberta constitui objetivo da pesquisa."
+    },
+    {
+      "id": "f61",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Objeto da Sociologia",
+      "q": "Qual é um objetivo central atribuído por Comte à nova ciência social?",
+      "o": [
+        "A) Descobrir o encadeamento das transformações do desenvolvimento humano",
+        "B) Defender instituições imutáveis",
+        "C) Estudar apenas sociedades antigas",
+        "D) Substituir observação por opinião",
+        "E) Negar regularidades históricas"
+      ],
+      "r": "A",
+      "e": "A ciência social deve explicar o desenvolvimento da espécie humana e apreender o encadeamento necessário de suas transformações sucessivas."
+    },
+    {
+      "id": "f62",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Passado, presente e futuro",
+      "q": "Que relação temporal aparece na concepção comtiana da ciência social?",
+      "o": [
+        "A) O passado deve ser ignorado",
+        "B) O estudo do passado explica o presente e permite apreender tendências do futuro",
+        "C) Apenas o futuro interessa",
+        "D) Presente e passado não se relacionam",
+        "E) A história impede a ciência"
+      ],
+      "r": "B",
+      "e": "Comte atribui ao estudo aprofundado do passado papel decisivo para explicar o presente e reconhecer a manifestação geral das tendências futuras."
+    },
+    {
+      "id": "f63",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Observação dos fatos sociais",
+      "q": "Como os fatos sociais devem ser considerados pela Física Social?",
+      "o": [
+        "A) Como objetos de admiração",
+        "B) Como objetos de condenação moral",
+        "C) Como objetos de observação, buscando suas relações mútuas",
+        "D) Como escolhas privadas",
+        "E) Como fenômenos sem relação entre si"
+      ],
+      "r": "C",
+      "e": "O texto opõe observação a admiração ou crítica: cabe estabelecer relações entre fatos sociais e compreender sua influência no desenvolvimento humano."
+    },
+    {
+      "id": "f64",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Relatividade das instituições",
+      "q": "Como Comte propõe considerar as instituições?",
+      "o": [
+        "A) Por ideias absolutas de bem e mal",
+        "B) Como relativas ao estado determinado da sociedade e variáveis com ele",
+        "C) Como eternas",
+        "D) Como puramente individuais",
+        "E) Como irrelevantes"
+      ],
+      "r": "B",
+      "e": "Na abordagem positiva, instituições não são julgadas por um padrão absoluto; são relacionadas ao estado social em que existem e às tendências de cada época."
+    },
+    {
+      "id": "f65",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Ciência, previsão e ação",
+      "q": "Qual sequência resume a relação entre conhecimento e prática em Comte?",
+      "o": [
+        "A) Ação → opinião → ciência",
+        "B) Ciência → previsão → regulação da ação",
+        "C) Política → teologia → ciência",
+        "D) Crítica → acaso → ação",
+        "E) Moral → conflito → ciência"
+      ],
+      "r": "B",
+      "e": "Comte formula a ideia de que a ciência conduz à previsão e a previsão torna possível regular a ação, inclusive mitigando crises produzidas por movimentos sociais não previstos."
+    },
+    {
+      "id": "f66",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Leis naturais",
+      "q": "O que significa submeter fenômenos sociais a leis naturais?",
+      "o": [
+        "A) Considerá-los totalmente controláveis pela vontade política",
+        "B) Reconhecer regularidades que limitam a ação arbitrária do legislador",
+        "C) Reduzi-los à biologia",
+        "D) Negar a política",
+        "E) Admitir intervenção sobrenatural"
+      ],
+      "r": "B",
+      "e": "Comte sustenta que os fenômenos sociais possuem leis próprias e que a ação política opera dentro de limites estabelecidos pelo curso desses fenômenos."
+    },
+    {
+      "id": "f67",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Espírito positivo",
+      "q": "Que mudança caracteriza o espírito positivo aplicado à política e à sociedade?",
+      "o": [
+        "A) Procurar causas sobrenaturais",
+        "B) Estudar fenômenos mediante observação e leis, em vez de explicações teológicas ou metafísicas",
+        "C) Abandonar a ciência",
+        "D) Privilegiar a tradição",
+        "E) Rejeitar toda previsão"
+      ],
+      "r": "B",
+      "e": "A extensão do espírito positivo à sociedade significa tratar seus fenômenos cientificamente, assim como ocorreu progressivamente em outros domínios do conhecimento."
+    },
+    {
+      "id": "f68",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Ordem das ciências",
+      "q": "Qual sequência de positivação das ciências é apresentada por Comte?",
+      "o": [
+        "A) Sociologia, química, astronomia, física",
+        "B) Astronomia, Física, Química e Fisiologia, culminando na Física Social",
+        "C) Fisiologia, teologia e astronomia",
+        "D) Política, moral e química",
+        "E) Sociologia, astronomia e metafísica"
+      ],
+      "r": "B",
+      "e": "A ordem acompanha diferenças de simplicidade e complexidade: Astronomia, Física, Química, Fisiologia e, por fim, o estudo positivo dos fenômenos sociais."
+    },
+    {
+      "id": "f69",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Complexidade dos fenômenos",
+      "q": "Por que os fenômenos sociais tornam-se positivos mais tarde?",
+      "o": [
+        "A) Porque são mais simples",
+        "B) Porque são os mais complexos e dependem de outras ordens de fenômenos",
+        "C) Porque não podem ser observados",
+        "D) Porque não possuem leis",
+        "E) Porque são exclusivamente religiosos"
+      ],
+      "r": "B",
+      "e": "Na classificação comtiana, a ciência avança dos fenômenos mais simples e gerais aos mais complexos e próximos do homem; por isso a ciência social aparece por último."
+    },
+    {
+      "id": "f70",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Lacuna da filosofia positiva",
+      "q": "Qual lacuna restava preencher para completar o sistema das ciências positivas?",
+      "o": [
+        "A) Física celeste",
+        "B) Química",
+        "C) O estudo positivo dos fenômenos sociais, a Física Social",
+        "D) Matemática",
+        "E) Fisiologia vegetal"
+      ],
+      "r": "C",
+      "e": "Comte afirma que, após as ciências dos fenômenos astronômicos, físicos, químicos e fisiológicos, faltava constituir positivamente o domínio social."
+    },
+    {
+      "id": "f71",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Necessidade da Sociologia",
+      "q": "Que condição intelectual favoreceu o surgimento da ciência social positiva?",
+      "o": [
+        "A) O desaparecimento das ciências naturais",
+        "B) A positivação prévia dos outros grandes ramos científicos",
+        "C) O retorno à alquimia",
+        "D) A rejeição da observação",
+        "E) A ausência de experiência histórica"
+      ],
+      "r": "B",
+      "e": "Comte argumenta que o conjunto não poderia tornar-se positivo antes de seus elementos; a formação das outras ciências prepara a constituição da ciência social."
+    },
+    {
+      "id": "f72",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Política científica",
+      "q": "Como Comte caracteriza a transformação necessária da política?",
+      "o": [
+        "A) Deve elevar-se ao nível das ciências de observação",
+        "B) Deve abandonar qualquer teoria",
+        "C) Deve retornar à teologia",
+        "D) Deve apoiar-se apenas na vontade individual",
+        "E) Deve rejeitar fatos históricos"
+      ],
+      "r": "A",
+      "e": "A política deveria tornar-se científica mediante observação dos fenômenos do desenvolvimento coletivo, superando formas teológicas e metafísicas de explicação."
+    },
+    {
+      "id": "f73",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Base experimental",
+      "q": "Por que uma longa experiência histórica é relevante para a ciência social?",
+      "o": [
+        "A) Porque fornece material para fundar teorias sobre a organização e transformação social",
+        "B) Porque elimina leis",
+        "C) Porque impede comparações",
+        "D) Porque substitui observação",
+        "E) Porque torna a sociedade imutável"
+      ],
+      "r": "A",
+      "e": "O texto relaciona a possibilidade da teoria social a uma base experimental histórica suficientemente ampla, produzida pela duração e transformação dos sistemas sociais."
+    },
+    {
+      "id": "f74",
+      "s": "Sociologia — Auguste Comte",
+      "t": "Nome Sociologia",
+      "q": "Por que Comte introduz o termo 'sociologia'?",
+      "o": [
+        "A) Para abandonar a Física Social",
+        "B) Para designar por um nome único o estudo positivo das leis fundamentais dos fenômenos sociais",
+        "C) Para nomear a psicologia",
+        "D) Para substituir toda filosofia",
+        "E) Para designar apenas estatística"
+      ],
+      "r": "B",
+      "e": "Comte apresenta 'sociologia' como termo equivalente à expressão Física Social, destinado ao estudo positivo do conjunto das leis fundamentais dos fenômenos sociais."
+    },
+    {
+      "id": "f75",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Sociologia como projeto",
+      "q": "Como Martins caracteriza a sociologia na introdução?",
+      "o": [
+        "A) Como projeto intelectual homogêneo",
+        "B) Como projeto intelectual tenso e contraditório",
+        "C) Como técnica neutra sem conflitos",
+        "D) Como ramo da matemática",
+        "E) Como disciplina sem relação política"
+      ],
+      "r": "B",
+      "e": "Martins destaca desde o início o caráter tenso e contraditório da sociologia, atravessada por perspectivas e interesses distintos."
+    },
+    {
+      "id": "f76",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Contexto histórico",
+      "q": "Segundo Martins, a sociologia resulta de quê?",
+      "o": [
+        "A) Da criação isolada de um único autor",
+        "B) De circunstâncias históricas e intelectuais ligadas à sociedade moderna",
+        "C) Apenas da universidade",
+        "D) Da filosofia antiga exclusivamente",
+        "E) De um decreto estatal"
+      ],
+      "r": "B",
+      "e": "O livro apresenta a sociologia como resultado de condições históricas e intelectuais específicas, e não como produto de um único pensador."
+    },
+    {
+      "id": "f77",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Dupla revolução",
+      "q": "Quais transformações são decisivas para o surgimento da sociologia na exposição de Martins?",
+      "o": [
+        "A) Revoluções Industrial e Francesa",
+        "B) Revoluções Russa e Chinesa",
+        "C) Renascimento e Reforma apenas",
+        "D) Revolução digital e científica",
+        "E) Independência americana apenas"
+      ],
+      "r": "A",
+      "e": "Martins relaciona a formação da sociologia às profundas transformações desencadeadas sobretudo pela Revolução Industrial e pela Revolução Francesa."
+    },
+    {
+      "id": "f78",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Revolução Industrial",
+      "q": "Qual efeito da industrialização é destacado no livro?",
+      "o": [
+        "A) Retorno geral ao campo",
+        "B) Transformação do trabalho, urbanização e novos problemas sociais",
+        "C) Fim das desigualdades",
+        "D) Desaparecimento das cidades",
+        "E) Extinção da classe trabalhadora"
+      ],
+      "r": "B",
+      "e": "A industrialização altera relações de trabalho e organização urbana, produzindo crescimento das cidades, novas condições de vida e conflitos sociais."
+    },
+    {
+      "id": "f79",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Trabalho industrial",
+      "q": "Que transformação do trabalho acompanha a consolidação capitalista descrita por Martins?",
+      "o": [
+        "A) Predomínio universal do artesanato independente",
+        "B) Formação de massas de trabalhadores assalariados submetidos à disciplina fabril",
+        "C) Fim da divisão do trabalho",
+        "D) Abolição do trabalho infantil imediata",
+        "E) Desaparecimento das fábricas"
+      ],
+      "r": "B",
+      "e": "O texto descreve a destruição de formas artesanais, expansão do trabalho assalariado e imposição da disciplina da produção industrial."
+    },
+    {
+      "id": "f80",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Urbanização",
+      "q": "Que consequências urbanas Martins associa à rápida industrialização?",
+      "o": [
+        "A) Apenas melhoria sanitária",
+        "B) Crescimento acelerado, falta de moradias e serviços e agravamento de problemas sociais",
+        "C) Despovoamento total",
+        "D) Extinção da pobreza",
+        "E) Ausência de conflitos"
+      ],
+      "r": "B",
+      "e": "O crescimento urbano acelerado é associado a condições precárias, carência de serviços e fenômenos como alcoolismo, prostituição, criminalidade e conflitos."
+    },
+    {
+      "id": "f81",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Classe trabalhadora",
+      "q": "Como os trabalhadores passam a reagir às condições da sociedade industrial?",
+      "o": [
+        "A) Permanecem sem organização",
+        "B) Desenvolvem formas de revolta, organização e consciência de interesses comuns",
+        "C) Abandonam todo conflito",
+        "D) Tornam-se proprietários imediatamente",
+        "E) Rejeitam qualquer associação"
+      ],
+      "r": "B",
+      "e": "Martins descreve revoltas e, posteriormente, formas de organização e consciência de classe, com instrumentos próprios de luta e expressão."
+    },
+    {
+      "id": "f82",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Sociedade como problema",
+      "q": "O que significa dizer que a sociedade passa a constituir um 'problema' para investigação?",
+      "o": [
+        "A) Que deixa de existir",
+        "B) Que transformações e crises tornam a vida social objeto de reflexão sistemática",
+        "C) Que apenas crimes interessam",
+        "D) Que ciência se torna impossível",
+        "E) Que só a política pode estudá-la"
+      ],
+      "r": "B",
+      "e": "As mudanças aceleradas e seus conflitos tornam a sociedade um objeto a ser compreendido de forma sistemática, favorecendo a constituição de um saber específico."
+    },
+    {
+      "id": "f83",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Racionalismo",
+      "q": "Que mudança intelectual contribuiu para o estudo científico da sociedade?",
+      "o": [
+        "A) Abandono da razão",
+        "B) Valorização da razão, observação e investigação racional dos fenômenos",
+        "C) Retorno exclusivo à revelação",
+        "D) Rejeição de experiências",
+        "E) Supremacia da autoridade tradicional"
+      ],
+      "r": "B",
+      "e": "Martins recupera o avanço do racionalismo, do livre exame e dos métodos de observação como parte do ambiente intelectual que tornou possível pensar cientificamente a sociedade."
+    },
+    {
+      "id": "f84",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Iluminismo",
+      "q": "Que postura dos iluministas é destacada por Martins?",
+      "o": [
+        "A) Aceitação irrestrita das instituições feudais",
+        "B) Crítica racional às instituições existentes e à autoridade tradicional",
+        "C) Rejeição da liberdade",
+        "D) Defesa da imutabilidade social",
+        "E) Negação do conhecimento científico"
+      ],
+      "r": "B",
+      "e": "Os iluministas aparecem como críticos das instituições e poderes tradicionais, submetendo-os ao exame racional e imaginando possibilidades diferentes de organização social."
+    },
+    {
+      "id": "f85",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Revolução Francesa",
+      "q": "Que transformação política a Revolução Francesa simboliza no livro?",
+      "o": [
+        "A) Restauração definitiva do feudalismo",
+        "B) Desestruturação do antigo regime e transformação de instituições, costumes e relações de poder",
+        "C) Fim da burguesia",
+        "D) Retorno à servidão",
+        "E) Extinção do Estado"
+      ],
+      "r": "B",
+      "e": "Martins destaca a ruptura com instituições feudais e a reorganização política e social que acompanha a ascensão burguesa."
+    },
+    {
+      "id": "f86",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Ordem pós-revolucionária",
+      "q": "Como parte dos primeiros pensadores sociais reagiu aos efeitos das revoluções?",
+      "o": [
+        "A) Buscando compreender e, em muitos casos, reorganizar ou estabilizar a nova sociedade",
+        "B) Ignorando as mudanças",
+        "C) Defendendo ausência de ciência",
+        "D) Abandonando a questão social",
+        "E) Negando a industrialização"
+      ],
+      "r": "A",
+      "e": "O livro mostra que diferentes autores procuraram responder à desorganização percebida, formulando projetos de conhecimento e intervenção na nova ordem."
+    },
+    {
+      "id": "f87",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Positivismo e conservação",
+      "q": "Que orientação Martins associa a parte da sociologia positivista nascente?",
+      "o": [
+        "A) Destruir toda ordem existente",
+        "B) Conhecer a sociedade para orientar sua reorganização e preservar uma nova ordem",
+        "C) Eliminar a ciência",
+        "D) Defender o feudalismo integral",
+        "E) Recusar qualquer aplicação prática"
+      ],
+      "r": "B",
+      "e": "Na narrativa de Martins, o positivismo procura superar a crítica puramente negativa e construir uma ciência capaz de orientar a reorganização social."
+    },
+    {
+      "id": "f88",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Saint-Simon",
+      "q": "Qual preocupação é associada a Saint-Simon?",
+      "o": [
+        "A) Restauração feudal pura",
+        "B) Reorganização da sociedade industrial e formação de uma ordem capaz de produzir coesão",
+        "C) Rejeição da indústria",
+        "D) Defesa da metafísica",
+        "E) Abolição da ciência"
+      ],
+      "r": "B",
+      "e": "Martins apresenta Saint-Simon como autor preocupado com a nova sociedade industrial, sua organização e a necessidade de uma ordem social compatível com ela."
+    },
+    {
+      "id": "f89",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Comte em Martins",
+      "q": "Qual binômio ocupa lugar central no positivismo de Comte apresentado por Martins?",
+      "o": [
+        "A) Ordem e progresso",
+        "B) Guerra e conquista",
+        "C) Tradição e acaso",
+        "D) Indivíduo e isolamento",
+        "E) Fé e revelação"
+      ],
+      "r": "A",
+      "e": "Martins destaca a articulação entre ordem e progresso: reorganizar a sociedade preservando condições de estabilidade e reconhecendo o movimento histórico."
+    },
+    {
+      "id": "f90",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Durkheim em Martins",
+      "q": "Que preocupação Martins atribui a Durkheim diante da sociedade industrial?",
+      "o": [
+        "A) Fortalecer isolamento individual",
+        "B) Compreender e fortalecer vínculos de solidariedade e regras morais capazes de integrar a sociedade",
+        "C) Abolir divisão do trabalho",
+        "D) Retornar ao feudalismo",
+        "E) Rejeitar instituições"
+      ],
+      "r": "B",
+      "e": "Na exposição de Martins, Durkheim procura compreender como a sociedade moderna pode manter coesão e solidariedade em meio à especialização e às crises."
+    },
+    {
+      "id": "f91",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Divisão do trabalho",
+      "q": "Como a divisão do trabalho aparece na apresentação de Durkheim feita por Martins?",
+      "o": [
+        "A) Apenas como fenômeno econômico",
+        "B) Como fenômeno também social, relacionado à interdependência e solidariedade entre indivíduos",
+        "C) Como causa do fim da sociedade",
+        "D) Como irrelevante",
+        "E) Como fenômeno natural sem moral"
+      ],
+      "r": "B",
+      "e": "Martins ressalta que Durkheim não reduz a divisão do trabalho à economia: ela produz interdependência e tem consequências para a solidariedade social."
+    },
+    {
+      "id": "f92",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Anomia",
+      "q": "Que situação preocupa Durkheim segundo Martins?",
+      "o": [
+        "A) Excesso de integração perfeita",
+        "B) Ausência ou enfraquecimento de regras capazes de orientar condutas em contextos de mudança",
+        "C) Excesso de tradição feudal apenas",
+        "D) Falta de indústria",
+        "E) Existência de ciência"
+      ],
+      "r": "B",
+      "e": "Martins relaciona a preocupação durkheimiana às crises e ao enfraquecimento de normas que regulam interesses e comportamentos na sociedade moderna."
+    },
+    {
+      "id": "f93",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Sociologia e ordem social",
+      "q": "Como Martins interpreta parte da influência do positivismo na sociologia?",
+      "o": [
+        "A) Como preocupação com manutenção e preservação da ordem social",
+        "B) Como defesa permanente da revolução proletária",
+        "C) Como rejeição de qualquer instituição",
+        "D) Como neutralidade histórica absoluta",
+        "E) Como abandono da pesquisa"
+      ],
+      "r": "A",
+      "e": "O autor enfatiza a vertente conservadora do positivismo e sua preocupação com estabilidade, coesão e reorganização da sociedade."
+    },
+    {
+      "id": "f94",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Marx e crítica social",
+      "q": "Que orientação distingue a perspectiva marxista na exposição de Martins?",
+      "o": [
+        "A) Busca exclusiva de harmonia social",
+        "B) Crítica da sociedade capitalista a partir de suas contradições e relações de classe",
+        "C) Defesa do feudalismo",
+        "D) Rejeição da história",
+        "E) Neutralização de conflitos"
+      ],
+      "r": "B",
+      "e": "Martins contrapõe a perspectiva marxista à busca positivista de estabilização, destacando contradições, classes e transformação da sociedade capitalista."
+    },
+    {
+      "id": "f95",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Classes sociais",
+      "q": "Qual papel têm as classes na perspectiva marxista apresentada no livro?",
+      "o": [
+        "A) São irrelevantes",
+        "B) São fundamentais para compreender conflitos, dominação e transformação histórica",
+        "C) Existem apenas na Idade Média",
+        "D) São grupos biológicos",
+        "E) Eliminam relações econômicas"
+      ],
+      "r": "B",
+      "e": "A análise marxista apresentada por Martins enfatiza relações entre classes e conflitos associados à estrutura econômica e política da sociedade."
+    },
+    {
+      "id": "f96",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Alienação e dominação",
+      "q": "Que temas aparecem ligados à crítica marxista do capitalismo?",
+      "o": [
+        "A) Harmonia espontânea e ausência de poder",
+        "B) Exploração, antagonismo, alienação e dominação de classe",
+        "C) Apenas costumes religiosos",
+        "D) Somente crescimento populacional",
+        "E) Exclusivamente burocracia"
+      ],
+      "r": "B",
+      "e": "Martins descreve a crítica marxista em torno das contradições do capitalismo, incluindo exploração do trabalho, antagonismo e formas econômicas, políticas e culturais de dominação."
+    },
+    {
+      "id": "f97",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Teoria e prática",
+      "q": "Na perspectiva marxista apresentada, qual relação existe entre conhecimento e transformação?",
+      "o": [
+        "A) Conhecimento deve ser inteiramente separado da prática",
+        "B) O conhecimento pode tornar-se instrumento de compreensão e transformação social",
+        "C) Teoria deve conservar toda ordem",
+        "D) Pesquisa deve evitar conflitos",
+        "E) Ciência não tem relação histórica"
+      ],
+      "r": "B",
+      "e": "Martins destaca que, nessa perspectiva, a teoria não é concebida apenas como contemplação: liga-se à compreensão crítica e à possibilidade de transformação da sociedade."
+    },
+    {
+      "id": "f98",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Weber e neutralidade",
+      "q": "Que preocupação Martins associa a Max Weber?",
+      "o": [
+        "A) Transformar a sociologia em doutrina partidária",
+        "B) Distinguir análise científica de juízos de valor e preferências pessoais do pesquisador",
+        "C) Abolir interpretação",
+        "D) Defender apenas economia",
+        "E) Negar ação social"
+      ],
+      "r": "B",
+      "e": "Martins apresenta a preocupação weberiana em preservar rigor científico e distinguir investigação de tomadas de posição valorativas do cientista."
+    },
+    {
+      "id": "f99",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Ciência e valores",
+      "q": "A neutralidade científica em Weber, na apresentação de Martins, significa que o cientista não possui valores?",
+      "o": [
+        "A) Sim",
+        "B) Não; significa evitar apresentá-los como se fossem conclusões científicas sobre a realidade",
+        "C) Significa ausência de temas sociais",
+        "D) Significa proibir interpretação",
+        "E) Significa aceitar o Estado"
+      ],
+      "r": "B",
+      "e": "O problema é separar o trabalho analítico das preferências políticas e valorativas pessoais, não supor que o pesquisador seja um ser sem valores."
+    },
+    {
+      "id": "f100",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Sociologia e interesses sociais",
+      "q": "Qual tese geral Martins sustenta sobre a produção sociológica?",
+      "o": [
+        "A) Desenvolve-se fora de conflitos históricos",
+        "B) É influenciada pelas condições históricas, disputas e interesses presentes na sociedade",
+        "C) É sempre idêntica",
+        "D) Não possui relação com política",
+        "E) Surge apenas de universidades"
+      ],
+      "r": "B",
+      "e": "O livro enfatiza que diferentes tradições sociológicas se formam em contextos históricos concretos e mantêm relações distintas com interesses e conflitos sociais."
+    },
+    {
+      "id": "f101",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Pluralidade sociológica",
+      "q": "Por que Martins rejeita uma imagem inteiramente uniforme da sociologia?",
+      "o": [
+        "A) Porque não existem métodos",
+        "B) Porque a disciplina reúne tradições distintas, ligadas a diferentes interpretações da sociedade",
+        "C) Porque toda teoria é falsa",
+        "D) Porque não há objeto social",
+        "E) Porque só existe filosofia"
+      ],
+      "r": "B",
+      "e": "A sociologia é apresentada como campo plural e disputado, marcado por abordagens conservadoras, críticas e outras tradições que interpretam de modos diferentes a sociedade moderna."
+    },
+    {
+      "id": "f102",
+      "s": "Sociologia — Carlos Benedito Martins",
+      "t": "Sociologia e modernidade",
+      "q": "Que relação geral o livro estabelece entre sociologia e sociedade capitalista moderna?",
+      "o": [
+        "A) A sociologia antecede completamente o capitalismo",
+        "B) A disciplina se forma procurando compreender transformações, crises e conflitos produzidos pela sociedade moderna",
+        "C) Não existe relação",
+        "D) Sociologia estuda apenas o feudalismo",
+        "E) Capitalismo elimina reflexão social"
+      ],
+      "r": "B",
+      "e": "Para Martins, a sociologia acompanha historicamente a formação da sociedade capitalista e as tentativas de interpretar suas mudanças, tensões e formas de organização."
     }
+  ],
+  "sources": [
+    "Émile Durkheim — As Regras do Método Sociológico",
+    "Auguste Comte — Sociologia, caps. 1 e 2",
+    "Carlos Benedito Martins — O que é Sociologia?"
   ]
 }
